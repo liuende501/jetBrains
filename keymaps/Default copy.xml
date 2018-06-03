@@ -1,0 +1,24 @@
+<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="CompareTwoFiles" />
+  <action id="Diff.ShowDiff" />
+  <action id="EditorDuplicate" />
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="FileChooser.GotoDesktop" />
+  <action id="GotoNextBookmark">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="GotoPreviousBookmark">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="SendEOF" />
+  <action id="ShowErrorDescription">
+    <keyboard-shortcut first-keystroke="meta f1" />
+    <keyboard-shortcut first-keystroke="ctrl meta i" />
+  </action>
+  <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
+    <keyboard-shortcut first-keystroke="ctrl meta t" />
+  </action>
+  <action id="openAssertEqualsDiff" />
+</keymap>

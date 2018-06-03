@@ -1,0 +1,14 @@
+<templateSet group="Twig">
+  <template name="ext" value="{% extends &quot;$TEMPLATE$&quot; %}&#10;" description="extends &quot;template&quot;" toReformat="true" toShortenFQNames="false">
+    <variable name="TEMPLATE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="use" value="{% use '$BLOCK$'$END$ %}" description="use 'block'" toReformat="false" toShortenFQNames="true">
+    <variable name="BLOCK" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Twig" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,414 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="7.8.0" last-modified="1494496879000" />
+      <npm-package value="/usr/local/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/7.7.2/bin/node" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://cvs.dhcc.com.cn:8443/svn/yl" />
+        <option value="https://liuende@cvs.dhcc.com.cn:8443/svn/yl/group/51HMI/" />
+        <option value="https://cvs.dhcc.com.cn:8443/svn/yl/group/51HMI/" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://liuende@cvs.dhcc.com.cn:8443/svn/yl/group/51HMI/" />
+        <option value="https://cvs.dhcc.com.cn:8443/svn/yl/group/51HMI/" />
+        <option value="https://cvs.dhcc.com.cn:8443/svn/yl" />
+      </list>
+    </option>
+  </component>
+  <component name="SvnBranchMapperManager">
+    <option name="myMapping">
+      <map>
+        <entry key="file://$USER_HOME$/Documents/SVNLOCAL/Conf/nginx/branches">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Documents/nginx/branches" />
+            </set>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/Documents/SVNLOCAL/Conf/nginx/trunk/commom">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Documents/nginx/trunk/commom" />
+            </set>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/SVNLOCAL/Conf/nginx">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Documents/nginx" />
+            </set>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/SVNLOCAL/Conf/nginx/branches/hnsy/conf">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Documents/conf/nginx/branches/hnsy/conf" />
+            </set>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/SVNLOCAL/Conf/nginx/branches/hnsy/dabr.conf">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Documents/conf/nginx/branches/hnsy/dabr.conf" />
+            </set>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/SVNLOCAL/Conf/nginx/branches/hnsy/dedecms.conf">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Documents/conf/nginx/branches/hnsy/dedecms.conf" />
+            </set>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/SVNLOCAL/Conf/nginx/branches/hnsy/discuz.conf">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Documents/conf/nginx/branches/hnsy/discuz.conf" />
+            </set>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/SVNLOCAL/Conf/nginx/branches/hnsy/discuzx.conf">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Documents/conf/nginx/branches/hnsy/discuzx.conf" />
+            </set>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/SVNLOCAL/Conf/nginx/branches/hnsy/drupal.conf">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Documents/conf/nginx/branches/hnsy/drupal.conf" />
+            </set>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/SVNLOCAL/Conf/nginx/branches/hnsy/ecshop.conf">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Documents/conf/nginx/branches/hnsy/ecshop.conf" />
+            </set>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/SVNLOCAL/Conf/nginx/branches/hnsy/enable-php-pathinfo.conf">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Documents/conf/nginx/branches/hnsy/enable-php-pathinfo.conf" />
+            </set>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/SVNLOCAL/Conf/nginx/branches/hnsy/enable-php.conf">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Documents/conf/nginx/branches/hnsy/enable-php.conf" />
+            </set>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/SVNLOCAL/Conf/nginx/branches/hnsy/enable-php5.2.17.conf">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Documents/conf/nginx/branches/hnsy/enable-php5.2.17.conf" />
+            </set>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/SVNLOCAL/Conf/nginx/branches/hnsy/enable-ssl-example.conf">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Documents/conf/nginx/branches/hnsy/enable-ssl-example.conf" />
+            </set>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/SVNLOCAL/Conf/nginx/branches/hnsy/enable-ssl.conf">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Documents/conf/nginx/branches/hnsy/enable-ssl.conf" />
+            </set>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/SVNLOCAL/Conf/nginx/branches/hnsy/fastcgi.conf">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Documents/conf/nginx/branches/hnsy/fastcgi.conf" />
+            </set>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/SVNLOCAL/Conf/nginx/branches/hnsy/fastcgi.conf.default">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Documents/conf/nginx/branches/hnsy/fastcgi.conf.default" />
+            </set>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/SVNLOCAL/Conf/nginx/branches/hnsy/fastcgi_params">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Documents/conf/nginx/branches/hnsy/fastcgi_params" />
+            </set>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/SVNLOCAL/Conf/nginx/branches/hnsy/fastcgi_params.default">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Documents/conf/nginx/branches/hnsy/fastcgi_params.default" />
+            </set>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/SVNLOCAL/Conf/nginx/branches/hnsy/koi-utf">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Documents/conf/nginx/branches/hnsy/koi-utf" />
+            </set>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/SVNLOCAL/Conf/nginx/branches/hnsy/koi-win">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Documents/conf/nginx/branches/hnsy/koi-win" />
+            </set>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/SVNLOCAL/Conf/nginx/branches/hnsy/mime.types">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Documents/conf/nginx/branches/hnsy/mime.types" />
+            </set>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/SVNLOCAL/Conf/nginx/branches/hnsy/mime.types.default">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Documents/conf/nginx/branches/hnsy/mime.types.default" />
+            </set>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/SVNLOCAL/Conf/nginx/branches/hnsy/nginx.conf">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Documents/conf/nginx/branches/hnsy/nginx.conf" />
+            </set>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/SVNLOCAL/Conf/nginx/branches/hnsy/nginx.conf.default">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Documents/conf/nginx/branches/hnsy/nginx.conf.default" />
+            </set>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/SVNLOCAL/Conf/nginx/branches/hnsy/none.conf">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Documents/conf/nginx/branches/hnsy/none.conf" />
+            </set>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/SVNLOCAL/Conf/nginx/branches/hnsy/other.conf">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Documents/conf/nginx/branches/hnsy/other.conf" />
+            </set>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/SVNLOCAL/Conf/nginx/branches/hnsy/pathinfo.conf">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Documents/conf/nginx/branches/hnsy/pathinfo.conf" />
+            </set>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/SVNLOCAL/Conf/nginx/branches/hnsy/phpwind.conf">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Documents/conf/nginx/branches/hnsy/phpwind.conf" />
+            </set>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/SVNLOCAL/Conf/nginx/branches/hnsy/proxy-pass">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Documents/conf/nginx/branches/hnsy/proxy-pass" />
+            </set>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/SVNLOCAL/Conf/nginx/branches/hnsy/proxy-pass-php.conf">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Documents/conf/nginx/branches/hnsy/proxy-pass-php.conf" />
+            </set>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/SVNLOCAL/Conf/nginx/branches/hnsy/proxy-pass.conf">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Documents/conf/nginx/branches/hnsy/proxy-pass.conf" />
+            </set>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/SVNLOCAL/Conf/nginx/branches/hnsy/sablog.conf">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Documents/conf/nginx/branches/hnsy/sablog.conf" />
+            </set>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/SVNLOCAL/Conf/nginx/branches/hnsy/scgi_params">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Documents/conf/nginx/branches/hnsy/scgi_params" />
+            </set>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/SVNLOCAL/Conf/nginx/branches/hnsy/scgi_params.default">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Documents/conf/nginx/branches/hnsy/scgi_params.default" />
+            </set>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/SVNLOCAL/Conf/nginx/branches/hnsy/shopex.conf">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Documents/conf/nginx/branches/hnsy/shopex.conf" />
+            </set>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/SVNLOCAL/Conf/nginx/branches/hnsy/typecho.conf">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Documents/conf/nginx/branches/hnsy/typecho.conf" />
+            </set>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/SVNLOCAL/Conf/nginx/branches/hnsy/typecho2.conf">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Documents/conf/nginx/branches/hnsy/typecho2.conf" />
+            </set>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/SVNLOCAL/Conf/nginx/branches/hnsy/uwsgi_params">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Documents/conf/nginx/branches/hnsy/uwsgi_params" />
+            </set>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/SVNLOCAL/Conf/nginx/branches/hnsy/uwsgi_params.default">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Documents/conf/nginx/branches/hnsy/uwsgi_params.default" />
+            </set>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/SVNLOCAL/Conf/nginx/branches/hnsy/vhost">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Documents/conf/nginx/branches/hnsy/vhost" />
+            </set>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/SVNLOCAL/Conf/nginx/branches/hnsy/win-utf">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Documents/conf/nginx/branches/hnsy/win-utf" />
+            </set>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/SVNLOCAL/Conf/nginx/branches/hnsy/wordpress.conf">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Documents/conf/nginx/branches/hnsy/wordpress.conf" />
+            </set>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/SVNLOCAL/Conf/nginx/branches/hnsy/wp2.conf">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Documents/conf/nginx/branches/hnsy/wp2.conf" />
+            </set>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/SVNLOCAL/Conf/nginx/branches/qyfy">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Documents/nginx/branches/qyfy" />
+            </set>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/SVNLOCAL/Conf/nginx/branches/qyfy/conf">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Documents/conf/nginx/branches/qyfy/conf" />
+              <option value="$USER_HOME$/Documents/nginx/branches/qyfy/conf" />
+            </set>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/SVNLOCAL/Conf/nginx/trunk">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Documents/conf/nginx/trunk" />
+              <option value="$USER_HOME$/Documents/nginx/trunk" />
+            </set>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/SVNLOCAL/Conf/nginx/trunk/conf">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Documents/conf/nginx/trunk/conf" />
+              <option value="$USER_HOME$/Documents/nginx/trunk/conf" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://cvs.dhcc.com.cn:8443/svn/yl/group/51HMI/php_web/hnsy_web/trunk/ihospital">
+          <value>
+            <set>
+              <option value="$USER_HOME$/www/ihospital/hnsy_web" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://liuende@cvs.dhcc.com.cn:8443/svn/yl/group/51HMI/paycenter/标准版/paycenter">
+          <value>
+            <set>
+              <option value="$USER_HOME$/www/paycenter/trunk/paycenter" />
+              <option value="$USER_HOME$/www/trunk/paycenter" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://liuende@cvs.dhcc.com.cn:8443/svn/yl/group/51HMI/paycenter/温岭第一人民医院/paycenter">
+          <value>
+            <set>
+              <option value="$USER_HOME$/Documents/workspace/branch/paycenter" />
+              <option value="$USER_HOME$/Documents/workspace/paycenter/wl" />
+              <option value="$USER_HOME$/Documents/workspace/trunk/paycenter" />
+              <option value="$USER_HOME$/Documents/workspace/wl/paycenter" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

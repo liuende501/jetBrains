@@ -1,0 +1,46 @@
+<keymap version="1" name="myDefaul" parent="Mac OS X 10.5+">
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="Diff.ShowDiff" />
+  <action id="EditorDeleteToLineStart">
+    <keyboard-shortcut first-keystroke="meta back_slash" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="FileChooser.GotoDesktop" />
+  <action id="InsertLiveTemplate">
+    <keyboard-shortcut first-keystroke="meta j" />
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
+  <action id="SendEOF" />
+  <action id="ShelvedChanges.Diff" />
+  <action id="ShowErrorDescription">
+    <keyboard-shortcut first-keystroke="ctrl meta i" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="XDebugger.CopyWatch" />
+  <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
+    <keyboard-shortcut first-keystroke="ctrl meta t" />
+  </action>
+  <action id="openAssertEqualsDiff" />
+</keymap>

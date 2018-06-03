@@ -1,0 +1,9 @@
+<toolSet name="PHP">
+  <tool name="PHPDocument" description="create phpdoc for project" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/usr/local/opt/php70/bin/php" />
+      <option name="PARAMETERS" value="phpdoc -d &quot;/Users/liuende/www/wehospital/src/AppBundle&quot; -t &quot;/Users/liuende/www/wehospital/src/AppBundle&quot; -o HTML:Smarty:PHP" />
+      <option name="WORKING_DIRECTORY" value="/usr/local/bin" />
+    </exec>
+  </tool>
+</toolSet>
