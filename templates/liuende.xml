@@ -7,7 +7,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="llj" value="Log::out('$filename$','D','['.__METHOD__.']  $TEXT$: '.json_encode($arg$,JSON_UNESCAPED_UNICODE));" description="output the log" toReformat="false" toShortenFQNames="true">
+  <template name="llj" value="Log::out('$filename$','I','['.__METHOD__.']  $TEXT$: '.json_encode($arg$,JSON_UNESCAPED_UNICODE));" description="output the log" toReformat="false" toShortenFQNames="true">
     <variable name="filename" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="false" />
     <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="arg" expression="" defaultValue="" alwaysStopAt="true" />
@@ -24,7 +24,7 @@
       <option name="PHP Statement" value="true" />
     </context>
   </template>
-  <template name="llg" value="Log::out('$filename$','D','METHOD: '.__METHOD__.'   $TEXT$: '.$arg$);" description="output the log" toReformat="false" toShortenFQNames="true">
+  <template name="llg" value="Log::out('$filename$','I','METHOD: '.__METHOD__.'   $TEXT$: '.$arg$);" description="output the log" toReformat="false" toShortenFQNames="true">
     <variable name="filename" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="false" />
     <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="arg" expression="" defaultValue="" alwaysStopAt="true" />
