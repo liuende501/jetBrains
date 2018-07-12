@@ -2,7 +2,14 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/www/mysymfony/app/config/services.yml" timestamp="1531404718977">
+        <mark key="[" line="19" column="54" />
+        <mark key="]" line="19" column="53" />
+        <mark key="^" line="19" column="53" />
+        <mark key="." line="19" column="53" />
+      </file>
+    </filemarks>
     <jumps />
     <registers />
     <search>
