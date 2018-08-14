@@ -4,32 +4,40 @@
     <globalmarks />
     <filemarks>
       <file name="/DebugController.php" timestamp="1534213855638" />
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Util/Tools.php" timestamp="1534235652909" />
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Controller/Development/DebugController.php" timestamp="1534214291492" />
-      <file name="$USER_HOME$/www/dhccam-2.0/src/SwooleBundle/Service/Impl/Client.php" timestamp="1534233013402" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Repository/ApiCategoryRepository.php" timestamp="1534175572793">
         <mark key="[" line="96" column="13" />
         <mark key="]" line="96" column="13" />
         <mark key="." line="96" column="13" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Service/ApiCategoryService.php" timestamp="1534175747766" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/ApiStatService.php" timestamp="1534222697154" />
-      <file name="$USER_HOME$/www/dhccam-2.0/src/SwooleBundle/Service/ClientInterface.php" timestamp="1534232897160" />
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Service/Impl/AllocationServiceImpl.php" timestamp="1534175890920">
-        <mark key="'" line="105" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/SwooleBundle/Server/DaemonServer.php" timestamp="1534235559103">
-        <mark key="'" line="472" column="60" />
-        <mark key="[" line="473" column="108" />
-        <mark key="]" line="473" column="108" />
-        <mark key="^" line="473" column="108" />
-        <mark key="." line="473" column="108" />
+      <file name="$USER_HOME$/www/dhccam-2.0/liuende/test.php" timestamp="1534237079011">
+        <mark key="'" line="1268" column="14" />
+        <mark key="[" line="1263" column="32" />
+        <mark key="]" line="1266" column="0" />
+        <mark key="." line="1266" column="0" />
+        <mark key="^" line="1266" column="0" />
       </file>
       <file name="$USER_HOME$/www/mysymfony/app/config/services.yml" timestamp="1531404718977">
         <mark key="[" line="19" column="54" />
         <mark key="]" line="19" column="53" />
         <mark key="^" line="19" column="53" />
         <mark key="." line="19" column="53" />
+      </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Util/Tools.php" timestamp="1534237415977" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Controller/Development/DebugController.php" timestamp="1534214291492" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/SwooleBundle/Service/Impl/Client.php" timestamp="1534233013402" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Service/ApiCategoryService.php" timestamp="1534175747766" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/SwooleBundle/Service/ClientInterface.php" timestamp="1534232897160" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Service/Impl/AllocationServiceImpl.php" timestamp="1534175890920">
+        <mark key="'" line="105" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Util/Log.php" timestamp="1534237425419" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/SwooleBundle/Server/DaemonServer.php" timestamp="1534235559103">
+        <mark key="'" line="472" column="60" />
+        <mark key="[" line="473" column="108" />
+        <mark key="]" line="473" column="108" />
+        <mark key="^" line="473" column="108" />
+        <mark key="." line="473" column="108" />
       </file>
     </filemarks>
     <jumps>
@@ -43,36 +51,53 @@
       <jump line="473" column="60" filename="$USER_HOME$/www/dhccam-2.0/src/SwooleBundle/Server/DaemonServer.php" />
       <jump line="471" column="60" filename="$USER_HOME$/www/dhccam-2.0/src/SwooleBundle/Server/DaemonServer.php" />
       <jump line="472" column="60" filename="$USER_HOME$/www/dhccam-2.0/src/SwooleBundle/Server/DaemonServer.php" />
+      <jump line="1265" column="14" filename="$USER_HOME$/www/dhccam-2.0/liuende/test.php" />
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text>FILE_APPEND</text>
+        <text>$</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">JGRhdGEgPSAxOwo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">JGRhdGEgPSAxOwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFxmaWxlX3B1dF9jb250ZW50cygkbG9nZmlsZSwndHJhY2s6ICcuJGV4Y2VwdGlvbi0+Z2V0VHJhY2VBc1N0cmluZygpKTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>FILE_APPEND</text>
+      <register name=":" type="4">
+        <text>.,$s/$_SERVER/$data/g</text>
       </register>
       <register name="-" type="4">
-        <text>callback</text>
+        <text encoding="base64">c3RhdGljIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2dmaWxlXD4=</text>
+        <text>$_SERVER</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2dmaWxlXD4=</last-search>
+      <last-search>$_SERVER</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2dmaWxlXD4=</last-pattern>
+      <last-pattern>$_SERVER</last-pattern>
+      <last-replace>$data</last-replace>
+      <last-substitute>$_SERVER</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry encoding="base64">XDxsb2dmaWxlXD4=</entry>
+        <entry encoding="base64">XDxfU0VSVkVSXD4=</entry>
+        <entry>$_SERVER</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>.,$s/$_SERVER/data/g</entry>
+        <entry>.,$s/$_SERVER/$data/g</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
