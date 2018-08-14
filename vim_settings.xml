@@ -5,6 +5,7 @@
     <filemarks>
       <file name="/DebugController.php" timestamp="1534213855638" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Controller/Development/DebugController.php" timestamp="1534214291492" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/SwooleBundle/Service/Impl/Client.php" timestamp="1534233013402" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Repository/ApiCategoryRepository.php" timestamp="1534175572793">
         <mark key="[" line="96" column="13" />
         <mark key="]" line="96" column="13" />
@@ -12,10 +13,11 @@
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Service/ApiCategoryService.php" timestamp="1534175747766" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/ApiStatService.php" timestamp="1534222697154" />
-      <file name="$USER_HOME$/www/dhccam-2.0/src/SwooleBundle/Service/ClientInterface.php" timestamp="1534230764374" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/SwooleBundle/Service/ClientInterface.php" timestamp="1534232897160" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Service/Impl/AllocationServiceImpl.php" timestamp="1534175890920">
         <mark key="'" line="105" column="0" />
       </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/src/SwooleBundle/Server/DaemonServer.php" timestamp="1534233442486" />
       <file name="$USER_HOME$/www/mysymfony/app/config/services.yml" timestamp="1531404718977">
         <mark key="[" line="19" column="54" />
         <mark key="]" line="19" column="53" />
