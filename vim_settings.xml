@@ -22,6 +22,9 @@
         <mark key="^" line="95" column="64" />
         <mark key="." line="95" column="64" />
       </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/app/config/parameters.yml" timestamp="1534245457071">
+        <mark key="[" line="4" column="28" />
+      </file>
       <file name="$USER_HOME$/www/mysymfony/app/config/services.yml" timestamp="1531404718977">
         <mark key="[" line="19" column="54" />
         <mark key="]" line="19" column="53" />
@@ -35,6 +38,9 @@
         <mark key="^" line="1773" column="11" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Controller/Development/DebugController.php" timestamp="1534214291492" />
+      <file name="/PHP Console" timestamp="1534245528550">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatServiceImpl.php" timestamp="1534240101796">
         <mark key="^" line="21" column="39" />
       </file>
