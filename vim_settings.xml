@@ -3,6 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/DebugController.php" timestamp="1534213855638" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Controller/Development/DebugController.php" timestamp="1534214291492" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Repository/ApiCategoryRepository.php" timestamp="1534175572793">
         <mark key="[" line="96" column="13" />
         <mark key="]" line="96" column="13" />
