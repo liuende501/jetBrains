@@ -3,6 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Repository/ApiCategoryRepository.php" timestamp="1534175572793">
+        <mark key="[" line="96" column="13" />
+        <mark key="]" line="96" column="13" />
+        <mark key="." line="96" column="13" />
+      </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Service/ApiCategoryService.php" timestamp="1534175747766" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Service/Impl/AllocationServiceImpl.php" timestamp="1534175890920">
+        <mark key="'" line="105" column="0" />
+      </file>
       <file name="$USER_HOME$/www/mysymfony/app/config/services.yml" timestamp="1531404718977">
         <mark key="[" line="19" column="54" />
         <mark key="]" line="19" column="53" />
@@ -10,13 +19,85 @@
         <mark key="." line="19" column="53" />
       </file>
     </filemarks>
-    <jumps />
-    <registers />
+    <jumps>
+      <jump line="123" column="49" filename="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Service/Impl/AllocationServiceImpl.php" />
+      <jump line="108" column="0" filename="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Service/Impl/AllocationServiceImpl.php" />
+      <jump line="105" column="0" filename="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Service/Impl/AllocationServiceImpl.php" />
+      <jump line="93" column="0" filename="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Service/Impl/AllocationServiceImpl.php" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>where</text>
+      </register>
+      <register name="-" type="4">
+        <text>where</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
