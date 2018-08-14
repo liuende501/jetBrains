@@ -107,7 +107,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFxmaWxlX3B1dF9jb250ZW50cygkbG9nZmlsZSwndHJhY2s6ICcuJGV4Y2VwdGlvbi0+Z2V0VHJhY2VBc1N0cmluZygpKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>.,$s/$_SERVER/$data/g</text>
+        <text>vs</text>
       </register>
       <register name="-" type="4">
         <text>apiCategoryService</text>
@@ -134,6 +134,8 @@
       <history-cmd>
         <entry>.,$s/$_SERVER/data/g</entry>
         <entry>.,$s/$_SERVER/$data/g</entry>
+        <entry>sp</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
