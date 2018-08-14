@@ -3,16 +3,34 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1534238272156">
+      <file name="/Dummy.txt" timestamp="1534240149462">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Repository/ApiMessageRepository.php" timestamp="1534239956677">
+        <mark key="[" line="204" column="5" />
+        <mark key="]" line="205" column="3" />
+        <mark key="." line="205" column="3" />
+        <mark key="^" line="205" column="3" />
+      </file>
       <file name="/DebugController.php" timestamp="1534213855638" />
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Repository/ApiCategoryRepository.php" timestamp="1534175572793">
-        <mark key="[" line="96" column="13" />
-        <mark key="]" line="96" column="13" />
-        <mark key="." line="96" column="13" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatTimeServiceImpl.php" timestamp="1534239897179" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/BaseStatService.php" timestamp="1534239865880">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="42" column="30" />
+      </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiMessageServiceImpl.php" timestamp="1534239911476">
+        <mark key="[" line="117" column="5" />
+        <mark key="]" line="119" column="0" />
+        <mark key="." line="119" column="0" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/ApiStatService.php" timestamp="1534222697154" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Command/StatTool/ClearCommand.php" timestamp="1534239620393">
+        <mark key="[" line="67" column="67" />
+        <mark key="]" line="67" column="86" />
+        <mark key="^" line="67" column="86" />
+        <mark key="." line="67" column="86" />
+      </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Repository/BaseStatRepository.php" timestamp="1534239929130" />
       <file name="$USER_HOME$/www/dhccam-2.0/liuende/test.php" timestamp="1534237079011">
         <mark key="'" line="1268" column="14" />
         <mark key="[" line="1263" column="32" />
@@ -34,7 +52,19 @@
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Controller/Development/DebugController.php" timestamp="1534214291492" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/SwooleBundle/Service/Impl/Client.php" timestamp="1534233013402" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/ApiMessageService.php" timestamp="1534239880110">
+        <mark key="[" line="25" column="5" />
+        <mark key="]" line="26" column="3" />
+        <mark key="." line="26" column="3" />
+        <mark key="^" line="26" column="3" />
+      </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Service/ApiCategoryService.php" timestamp="1534175747766" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatServiceImpl.php" timestamp="1534240101796">
+        <mark key="[" line="119" column="36" />
+        <mark key="]" line="119" column="36" />
+        <mark key="^" line="179" column="39" />
+        <mark key="." line="119" column="36" />
+      </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/SwooleBundle/Service/ClientInterface.php" timestamp="1534232897160" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Service/Impl/AllocationServiceImpl.php" timestamp="1534175890920">
         <mark key="'" line="105" column="0" />
@@ -56,25 +86,37 @@
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text>$</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog5riF56m65pWw5o2uLOmdnui9r+WIoOmZpAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gY2xlYXJBbGwoKTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">JGRhdGEgPSAxOwo=</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text>apiCategoryService</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgY2xlYXJBbGwoKSBtZXRob2QuCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">MS4g5riF56m657uf6K6h5pWw5o2uLCDnm67liY3mlK/mjIEgQUxMLCBEQVksIFRJTUUsICwg6buY6K6k5Li6IDxpbmZvPkRBWTwvaW5mbz4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">JGRhdGEgPSAxOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFxmaWxlX3B1dF9jb250ZW50cygkbG9nZmlsZSwndHJhY2s6ICcuJGV4Y2VwdGlvbi0+Z2V0VHJhY2VBc1N0cmluZygpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>.,$s/$_SERVER/$data/g</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>apiCategoryService</text>
       </register>
       <register name="/" type="4">
         <text>$_SERVER</text>
