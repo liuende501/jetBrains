@@ -3,27 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1534240149462">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Repository/ApiMessageRepository.php" timestamp="1534239956677">
-        <mark key="[" line="204" column="5" />
-        <mark key="]" line="205" column="3" />
-        <mark key="." line="205" column="3" />
-        <mark key="^" line="205" column="3" />
-      </file>
-      <file name="/DebugController.php" timestamp="1534213855638" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatTimeServiceImpl.php" timestamp="1534239897179" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/BaseStatService.php" timestamp="1534239865880">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="42" column="30" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiMessageServiceImpl.php" timestamp="1534239911476">
-        <mark key="[" line="117" column="5" />
-        <mark key="]" line="119" column="0" />
-        <mark key="." line="119" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/ApiStatService.php" timestamp="1534222697154" />
+      <file name="$USER_HOME$/www/dhccam-2.0/ydyy.sh" timestamp="1534244709888" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Command/StatTool/ClearCommand.php" timestamp="1534239620393">
         <mark key="[" line="67" column="67" />
         <mark key="]" line="67" column="86" />
@@ -31,12 +16,11 @@
         <mark key="." line="67" column="86" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Repository/BaseStatRepository.php" timestamp="1534239929130" />
-      <file name="$USER_HOME$/www/dhccam-2.0/liuende/test.php" timestamp="1534237079011">
-        <mark key="'" line="1268" column="14" />
-        <mark key="[" line="1263" column="32" />
-        <mark key="]" line="1266" column="0" />
-        <mark key="." line="1266" column="0" />
-        <mark key="^" line="1266" column="0" />
+      <file name="$USER_HOME$/www/dhccam-2.0/app/config/rabbitmq.yml" timestamp="1534244675130">
+        <mark key="[" line="95" column="65" />
+        <mark key="]" line="95" column="64" />
+        <mark key="^" line="95" column="64" />
+        <mark key="." line="95" column="64" />
       </file>
       <file name="$USER_HOME$/www/mysymfony/app/config/services.yml" timestamp="1531404718977">
         <mark key="[" line="19" column="54" />
@@ -51,24 +35,28 @@
         <mark key="^" line="1773" column="11" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Controller/Development/DebugController.php" timestamp="1534214291492" />
-      <file name="$USER_HOME$/www/dhccam-2.0/src/SwooleBundle/Service/Impl/Client.php" timestamp="1534233013402" />
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/ApiMessageService.php" timestamp="1534239880110">
-        <mark key="[" line="25" column="5" />
-        <mark key="]" line="26" column="3" />
-        <mark key="." line="26" column="3" />
-        <mark key="^" line="26" column="3" />
-      </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Service/ApiCategoryService.php" timestamp="1534175747766" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatServiceImpl.php" timestamp="1534240101796">
-        <mark key="[" line="119" column="36" />
-        <mark key="]" line="119" column="36" />
-        <mark key="^" line="179" column="39" />
-        <mark key="." line="119" column="36" />
+        <mark key="^" line="21" column="39" />
       </file>
+      <file name="/Dummy.txt" timestamp="1534244724430">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Repository/ApiMessageRepository.php" timestamp="1534239956677">
+        <mark key="[" line="204" column="5" />
+      </file>
+      <file name="/DebugController.php" timestamp="1534213855638" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Resources/config/consumers.yml" timestamp="1534244388658" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/ApiStatService.php" timestamp="1534222697154" />
+      <file name="$USER_HOME$/www/dhccam-2.0/liuende/test.php" timestamp="1534237079011">
+        <mark key="'" line="1268" column="14" />
+        <mark key="[" line="1263" column="32" />
+        <mark key="]" line="1266" column="0" />
+        <mark key="." line="1266" column="0" />
+        <mark key="^" line="1266" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/src/SwooleBundle/Service/Impl/Client.php" timestamp="1534233013402" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Service/ApiCategoryService.php" timestamp="1534175747766" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/SwooleBundle/Service/ClientInterface.php" timestamp="1534232897160" />
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Service/Impl/AllocationServiceImpl.php" timestamp="1534175890920">
-        <mark key="'" line="105" column="0" />
-      </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Util/Log.php" timestamp="1534237425419" />
     </filemarks>
     <jumps>
