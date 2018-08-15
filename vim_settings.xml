@@ -92,12 +92,8 @@
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/ApiStatService.php" timestamp="1534321238817" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Controller/Statistics/InTimeController.php" timestamp="1534325430865" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/EventListener/MessageSubscriber.php" timestamp="1534339964623" />
-      <file name="$USER_HOME$/www/dhccam-2.0/liuende/test.php" timestamp="1534336076423">
+      <file name="$USER_HOME$/www/dhccam-2.0/liuende/test.php" timestamp="1534340696270">
         <mark key="'" line="1262" column="0" />
-        <mark key="[" line="1281" column="35" />
-        <mark key="]" line="1281" column="8" />
-        <mark key="." line="1281" column="8" />
-        <mark key="^" line="1281" column="21" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/app/config/config.yml" timestamp="1534335412845">
         <mark key="[" line="154" column="0" />
