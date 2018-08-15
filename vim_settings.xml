@@ -10,12 +10,12 @@
         <mark key="^" line="220" column="61" />
         <mark key="." line="188" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiMessageServiceImpl.php" timestamp="1534339833552">
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiMessageServiceImpl.php" timestamp="1534349846849">
         <mark key="'" line="23" column="0" />
-        <mark key="[" line="168" column="5" />
-        <mark key="]" line="170" column="0" />
-        <mark key="." line="170" column="0" />
-        <mark key="^" line="170" column="25" />
+        <mark key="[" line="61" column="43" />
+        <mark key="]" line="61" column="41" />
+        <mark key="." line="61" column="41" />
+        <mark key="^" line="61" column="41" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Repository/ApiCategoryRepository.php" timestamp="1534175572793">
         <mark key="[" line="96" column="13" />
@@ -29,11 +29,11 @@
         <mark key="^" line="95" column="64" />
         <mark key="." line="95" column="64" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Controller/Tests/UtilController.php" timestamp="1534325447461">
-        <mark key="[" line="154" column="22" />
-        <mark key="]" line="154" column="22" />
-        <mark key="^" line="154" column="41" />
-        <mark key="." line="154" column="22" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Controller/Tests/UtilController.php" timestamp="1534349934171">
+        <mark key="[" line="55" column="17" />
+        <mark key="]" line="55" column="17" />
+        <mark key="." line="55" column="17" />
+        <mark key="^" line="55" column="16" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Controller/Statistics/InterfaceController.php" timestamp="1534321058507" />
       <file name="$USER_HOME$/www/dhccam-2.0/vendor/beberlei/DoctrineExtensions/src/Query/Mysql/DateFormat.php" timestamp="1534320323607" />
@@ -50,7 +50,7 @@
         <mark key="^" line="1773" column="11" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Controller/Development/DebugController.php" timestamp="1534214291492" />
-      <file name="/PHP Console" timestamp="1534332112464">
+      <file name="/PHP Console" timestamp="1534349633137">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/vendor/beberlei/DoctrineExtensions/src/Query/Mysql/FromUnixtime.php" timestamp="1534320442385" />
@@ -75,28 +75,27 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Repository/ApiMessageRepository.php" timestamp="1534335512753">
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Repository/ApiMessageRepository.php" timestamp="1534349322786">
         <mark key="'" line="236" column="56" />
-        <mark key="[" line="586" column="18" />
-        <mark key="]" line="586" column="18" />
-        <mark key="." line="586" column="18" />
-        <mark key="^" line="586" column="18" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="/DebugController.php" timestamp="1534213855638" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Resources/config/consumers.yml" timestamp="1534244388658" />
       <file name="$USER_HOME$/www/dhccam-2.0/vendor/oro/doctrine-extensions/src/Oro/ORM/Query/AST/Functions/DateTime/ConvertTz.php" timestamp="1534319418049" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/ApiStatService.php" timestamp="1534321238817" />
+      <file name="$USER_HOME$/www/dhccam-2.0/vendor/doctrine/common/lib/Doctrine/Common/Persistence/AbstractManagerRegistry.php" timestamp="1534348277663" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Controller/Statistics/InTimeController.php" timestamp="1534325430865" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/EventListener/MessageSubscriber.php" timestamp="1534339964623" />
-      <file name="$USER_HOME$/www/dhccam-2.0/liuende/test.php" timestamp="1534340696270">
+      <file name="$USER_HOME$/www/dhccam-2.0/liuende/test.php" timestamp="1534348001981">
         <mark key="'" line="1262" column="0" />
+        <mark key="[" line="1286" column="0" />
+        <mark key="]" line="1286" column="0" />
+        <mark key="^" line="1286" column="4" />
+        <mark key="." line="1286" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/app/config/config.yml" timestamp="1534335412845">
-        <mark key="[" line="154" column="0" />
-        <mark key="]" line="154" column="0" />
-        <mark key="." line="154" column="0" />
-        <mark key="^" line="132" column="24" />
-      </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/app/config/config.yml" timestamp="1534335412845" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/SwooleBundle/Service/Impl/Client.php" timestamp="1534233013402" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Service/ApiCategoryService.php" timestamp="1534175747766" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/SwooleBundle/Service/ClientInterface.php" timestamp="1534232897160" />
@@ -145,43 +144,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>new \DateTime();</text>
+        <text encoding="base64">PmVudGl0eU1hbmFnZXIgPQ==</text>
       </register>
       <register name="-" type="4">
-        <text>new \DateTime();</text>
+        <text encoding="base64">PmVudGl0eU1hbmFnZXIgPQ==</text>
       </register>
       <register name="/" type="4">
         <text>chartPercentageStat</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkcWw6CiAgICAgICAgICAgIHN0cmluZ19mdW5jdGlvbnM6CiAgICAgICAgICAgICAgICBEQVRFX0ZPUk1BVDogRG9jdHJpbmVFeHRlbnNpb25zXFF1ZXJ5XE15c3FsXERhdGVGb3JtYXQKICAgICAgICAgICAgICAgIFVOSVhfVElNRVNUQU1QOiBEb2N0cmluZUV4dGVuc2lvbnNcUXVlcnlcTXlzcWxcVW5peFRpbWVzdGFtcAogICAgICAgICAgICAgICAgRlJPTV9Vbml4VGltZTogRG9jdHJpbmVFeHRlbnNpb25zXFF1ZXJ5XE15c3FsXEZyb21Vbml4dGltZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRjb25uZWN0aW9uLT5jbG9zZSgpOwogICAgICAgICAgICAgICAgJGNvbm5lY3Rpb24tPmNvbm5lY3QoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVkaXM6Cg==</text>
+        <text encoding="base64">ICAgICAgICAkY29ubmVjdGlvbiA9ICRlbS0+Z2V0Q29ubmVjdGlvbigpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkY29ubmVjdGlvbi0+Y2xvc2UoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyDliIfmjaLkuLrlvIDlj5HliIbmlK8KZ2l0IGNoZWNrb3V0IGRldgoKIyDlj5blh7rmm7TmlLkKZ2l0IHN0YXNoIGFwcGx5Cg==</text>
+        <text encoding="base64">ICAgICAgICAkY29ubmVjdGlvbi0+Y29ubmVjdCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIEdhdGV3YXlCdW5kbGVcQ29sbGVjdGlvblxNZXNzYWdlQ29sbGVjdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkcWw6CiAgICAgICAgICAgIHN0cmluZ19mdW5jdGlvbnM6CiAgICAgICAgICAgICAgICBkYXRlX2Zvcm1hdDogT3JvXE9STVxRdWVyeVxBU1RcRnVuY3Rpb25zXFN0cmluZ1xEYXRlRm9ybWF0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCRjb25uZWN0aW9uLT5waW5nKCkgPT09IGZhbHNlKSB7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">J1MnKSk7CiAgICAgICAgICAgIGlmICgkZW5kVGltZSA+ICRlbmQpIHsKICAgICAgICAgICAgICAgICRlbmRUaW1lID0gJGVuZDsKICAgICAgICAgICAgfQogICAgICAgICAgICAkdmFsdWVbJ3N0YXJ0VGltZSddID0gJHN0YXJ0VGltZS0+Zm9ybWF0KHNlbGY6OklOVEVSVkFMX0RBVEVfRk9STUFUKTsKICAgICAgICAgICAgJHZhbHVlWydlbmRUaW1lJ10gPSAkZW5kVGltZS0+Zm9ybWF0KHNlbGY6OklOVEVSVkFMX0RBVEVfRk9STUFUKTsKICAgICAgICAgICAgLy8g5Yik5pat5qC85byP5piv5ZCm5Li6MjAxOCoqKioKICAgICAgICAgICAgaWYoc3RycG9zKCR2YWx1ZVsncmVxdWVzdFRpbWUnXSwnMjAnKT09PTApewogICAgICAgICAgICAgICAgJHZhbHVlWydyZXF1ZXN0VGltZSddID0gRGF0ZVRpbWU6OmNyZWF0ZUZyb21Gb3JtYXQoJ1ltZEhpcycsIChmbG9hdCkkdmFsdWVbJ3JlcXVlc3RUaW1lJ10pLT5mb3JtYXQoc2VsZjo6SU5URVJWQUxfREFURV9GT1JNQVQpOwogICAgICAgICAgICB9ZWxzZXsKICAgICAgICAgICAgICAgICR2YWx1ZVsncmVxdWVzdFRpbWUnXSA9IChuZXcgRGF0ZVRpbWUo</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CgoxNTM0MzA4Nzk5LjQ1Ng==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkc3FsIC49ICcgU1VNKENBU0UgV0hFTiB0cy5zdGF0dXMgPSAwIFRIRU4gMSBFTFNFIDAgRU5EKS9jb3VudCgqKSBBUyBtb3J0YWxpdHkgJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGNvbm5lY3Rpb24gPSBrLT5nZXRDb25uZWN0aW9uKCk7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBpZiAoJGNvbm5lY3Rpb24tPnBpbmcoKSA9PT0gZmFsc2UpIHsKICAgICAgICAgICAgICAgICAgICAkY29ubmVjdGlvbi0+Y2xvc2UoKTsKICAgICAgICAgICAgICAgICAgICAkY29ubmVjdGlvbi0+Y29ubmVjdCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuICR0aGlzLT5yZXBvc2l0b3J5LT4gCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
