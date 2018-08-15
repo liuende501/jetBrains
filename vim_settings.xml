@@ -3,17 +3,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatTimeServiceImpl.php" timestamp="1534327260843">
+        <mark key="'" line="219" column="34" />
+        <mark key="[" line="187" column="0" />
+        <mark key="]" line="187" column="0" />
+        <mark key="^" line="219" column="61" />
+        <mark key="." line="187" column="0" />
+      </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/BaseStatService.php" timestamp="1534321369359">
         <mark key="]" line="40" column="85" />
         <mark key="^" line="40" column="85" />
         <mark key="." line="40" column="85" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiMessageServiceImpl.php" timestamp="1534321561198">
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiMessageServiceImpl.php" timestamp="1534327251534">
         <mark key="'" line="23" column="0" />
-        <mark key="[" line="146" column="5" />
-        <mark key="]" line="147" column="85" />
-        <mark key="." line="147" column="85" />
-        <mark key="^" line="147" column="85" />
+        <mark key="[" line="168" column="5" />
+        <mark key="]" line="170" column="0" />
+        <mark key="." line="170" column="0" />
+        <mark key="^" line="170" column="25" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/ydyy.sh" timestamp="1534244709888" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Repository/ApiCategoryRepository.php" timestamp="1534175572793">
@@ -73,12 +80,12 @@
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Controller/Development/DebugController.php" timestamp="1534214291492" />
       <file name="$USER_HOME$/www/dhccam-2.0/vendor/beberlei/DoctrineExtensions/src/Query/Mysql/FromUnixtime.php" timestamp="1534320442385" />
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatServiceImpl.php" timestamp="1534321889546">
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatServiceImpl.php" timestamp="1534327197519">
         <mark key="'" line="225" column="4" />
-        <mark key="[" line="451" column="35" />
-        <mark key="]" line="451" column="35" />
-        <mark key="^" line="498" column="48" />
-        <mark key="." line="451" column="35" />
+        <mark key="[" line="577" column="33" />
+        <mark key="]" line="577" column="33" />
+        <mark key="^" line="577" column="40" />
+        <mark key="." line="577" column="33" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/ApiStatDayService.php" timestamp="1534321357828">
         <mark key="[" line="30" column="0" />
@@ -91,13 +98,12 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Repository/ApiStatTimeRepository.php" timestamp="1534319191531" />
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Repository/ApiMessageRepository.php" timestamp="1534321862786">
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Repository/ApiStatTimeRepository.php" timestamp="1534327295133" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Repository/ApiMessageRepository.php" timestamp="1534327898878">
         <mark key="'" line="237" column="56" />
-        <mark key="[" line="374" column="45" />
-        <mark key="]" line="374" column="45" />
-        <mark key="." line="374" column="45" />
-        <mark key="^" line="357" column="44" />
+        <mark key="[" line="442" column="87" />
+        <mark key="]" line="442" column="0" />
+        <mark key="." line="442" column="0" />
       </file>
       <file name="/DebugController.php" timestamp="1534213855638" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Resources/config/consumers.yml" timestamp="1534244388658" />
@@ -166,11 +172,11 @@
       <jump line="225" column="4" filename="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatServiceImpl.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>$context[$k] ='</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkc3FsIC49ICcgU1VNKENBU0UgV0hFTiB0cy5zdGF0dXMgPSAwIFRIRU4gMSBFTFNFIDAgRU5EKS9jb3VudCgqKSBBUyBtb3J0YWxpdHkgJzsK</text>
       </register>
       <register name="-" type="4">
-        <text>$context[$k] ='</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>chartPercentageStat</text>
@@ -179,31 +185,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIFVOSVhfVElNRVNUQU1QOiBEb2N0cmluZUV4dGVuc2lvbnNcUXVlcnlcTXlzcWxcVW5peFRpbWVzdGFtcAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgcGVyY2VudGFnZVN0YXQoKSBtZXRob2QuCg==</text>
+        <text encoding="base64">ICAgICAgICAkc3FsIC49ICcgU1VNKENBU0UgV0hFTiB0cy5zdGF0dXMgPSAwIFRIRU4gMSBFTFNFIDAgRU5EKS9jb3VudCgqKSBBUyBtb3J0YWxpdHkgJzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkc3RhcnQgPSBuZXcgRGF0ZVRpbWUoJHN0YXJ0KTsKICAgICAgICAkZW5kID0gbmV3IERhdGVUaW1lKCRlbmQpOwo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuICR0aGlzLT5yZXBvc2l0b3J5LT4gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IAogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgcGVyY2VudGFnZVN0YXQoKSBtZXRob2QuCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Cgp9</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAkc3RhcnQgPSBuZXcgRGF0ZVRpbWUoJHN0YXJ0KTsKICAgICAgICAkZW5kID0gbmV3IERhdGVUaW1lKCRlbmQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzdWx0ID0gJGFwaVN0YXRUaW1lU2VydmljZS0+Y2hhcnRQZXJjZW50YWdlU3RhdCgkc3RhcnQsJGVuZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRzdGFydCA9ICcyMDE4LTA2LTExIDExOjIyOjAwJzsKLy8gICAgICAgICRlbmQgPSAnMjAxOC0xMC0xMSAxMTozMDowMCc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnZlcnRfdHo6ICAgICBPcm9cT1JNXFF1ZXJ5XEFTVFxGdW5jdGlvbnNcRGF0ZVRpbWVcQ29udmVydFR6Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">Cgp9</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0ZXRpbWVfZnVuY3Rpb25zOgo=</text>
+        <text encoding="base64">ICAgICAgICAkcmVzdWx0ID0gJGFwaVN0YXRUaW1lU2VydmljZS0+Y2hhcnRQZXJjZW50YWdlU3RhdCgkc3RhcnQsJGVuZCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
