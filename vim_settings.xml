@@ -3,13 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatTimeServiceImpl.php" timestamp="1534317808150">
-        <mark key="'" line="219" column="34" />
-        <mark key="[" line="187" column="0" />
-        <mark key="]" line="187" column="0" />
-        <mark key="^" line="219" column="61" />
-        <mark key="." line="187" column="0" />
-      </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/BaseStatService.php" timestamp="1534321369359">
         <mark key="]" line="40" column="85" />
         <mark key="^" line="40" column="85" />
@@ -46,11 +39,11 @@
         <mark key="^" line="95" column="64" />
         <mark key="." line="95" column="64" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Controller/Tests/UtilController.php" timestamp="1534321483649">
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="96" column="34" />
-        <mark key="^" line="107" column="36" />
-        <mark key="." line="95" column="0" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Controller/Tests/UtilController.php" timestamp="1534325447461">
+        <mark key="[" line="154" column="22" />
+        <mark key="]" line="154" column="22" />
+        <mark key="^" line="154" column="41" />
+        <mark key="." line="154" column="22" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/app/config/parameters.yml" timestamp="1534314327427">
         <mark key="[" line="4" column="27" />
@@ -110,6 +103,7 @@
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Resources/config/consumers.yml" timestamp="1534244388658" />
       <file name="$USER_HOME$/www/dhccam-2.0/vendor/oro/doctrine-extensions/src/Oro/ORM/Query/AST/Functions/DateTime/ConvertTz.php" timestamp="1534319418049" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/ApiStatService.php" timestamp="1534321238817" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Controller/Statistics/InTimeController.php" timestamp="1534325430865" />
       <file name="$USER_HOME$/www/dhccam-2.0/liuende/test.php" timestamp="1534237079011">
         <mark key="'" line="1268" column="14" />
         <mark key="[" line="1263" column="32" />
@@ -173,10 +167,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>apiStatTimeService</text>
+        <text>$context[$k] ='</text>
       </register>
       <register name="-" type="4">
-        <text>apiStatTimeService</text>
+        <text>$context[$k] ='</text>
       </register>
       <register name="/" type="4">
         <text>chartPercentageStat</text>
