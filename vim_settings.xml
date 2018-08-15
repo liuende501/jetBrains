@@ -22,8 +22,11 @@
         <mark key="^" line="95" column="64" />
         <mark key="." line="95" column="64" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/app/config/parameters.yml" timestamp="1534245457071">
-        <mark key="[" line="4" column="28" />
+      <file name="$USER_HOME$/www/dhccam-2.0/app/config/parameters.yml" timestamp="1534314327427">
+        <mark key="[" line="4" column="27" />
+        <mark key="]" line="4" column="27" />
+        <mark key="." line="4" column="27" />
+        <mark key="^" line="4" column="27" />
       </file>
       <file name="$USER_HOME$/www/mysymfony/app/config/services.yml" timestamp="1531404718977">
         <mark key="[" line="19" column="54" />
@@ -38,7 +41,7 @@
         <mark key="^" line="1773" column="11" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Controller/Development/DebugController.php" timestamp="1534214291492" />
-      <file name="/PHP Console" timestamp="1534245528550">
+      <file name="/PHP Console" timestamp="1534314302763">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatServiceImpl.php" timestamp="1534240101796">
@@ -86,7 +89,7 @@
         <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>apiCategoryService</text>
+        <text>y</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAqIAo=</text>
@@ -110,7 +113,7 @@
         <text>vs</text>
       </register>
       <register name="-" type="4">
-        <text>apiCategoryService</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>$_SERVER</text>
