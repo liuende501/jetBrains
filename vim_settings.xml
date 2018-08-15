@@ -3,24 +3,54 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatTimeServiceImpl.php" timestamp="1534239897179" />
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/BaseStatService.php" timestamp="1534239865880">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="42" column="30" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatTimeServiceImpl.php" timestamp="1534317808150">
+        <mark key="'" line="219" column="34" />
+        <mark key="[" line="187" column="0" />
+        <mark key="]" line="187" column="0" />
+        <mark key="^" line="219" column="61" />
+        <mark key="." line="187" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/BaseStatService.php" timestamp="1534321369359">
+        <mark key="]" line="40" column="85" />
+        <mark key="^" line="40" column="85" />
+        <mark key="." line="40" column="85" />
+      </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiMessageServiceImpl.php" timestamp="1534321561198">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="146" column="5" />
+        <mark key="]" line="147" column="85" />
+        <mark key="." line="147" column="85" />
+        <mark key="^" line="147" column="85" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/ydyy.sh" timestamp="1534244709888" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Repository/ApiCategoryRepository.php" timestamp="1534175572793">
+        <mark key="[" line="96" column="13" />
+        <mark key="]" line="96" column="13" />
+        <mark key="." line="96" column="13" />
+      </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Command/StatTool/ClearCommand.php" timestamp="1534239620393">
         <mark key="[" line="67" column="67" />
         <mark key="]" line="67" column="86" />
         <mark key="^" line="67" column="86" />
         <mark key="." line="67" column="86" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Repository/BaseStatRepository.php" timestamp="1534239929130" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Repository/BaseStatRepository.php" timestamp="1534321683291" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatDayServiceImpl.php" timestamp="1534318213106">
+        <mark key="[" line="200" column="0" />
+        <mark key="]" line="200" column="0" />
+        <mark key="." line="200" column="0" />
+      </file>
       <file name="$USER_HOME$/www/dhccam-2.0/app/config/rabbitmq.yml" timestamp="1534244675130">
         <mark key="[" line="95" column="65" />
         <mark key="]" line="95" column="64" />
         <mark key="^" line="95" column="64" />
         <mark key="." line="95" column="64" />
+      </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Controller/Tests/UtilController.php" timestamp="1534321483649">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="96" column="34" />
+        <mark key="^" line="107" column="36" />
+        <mark key="." line="95" column="0" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/app/config/parameters.yml" timestamp="1534314327427">
         <mark key="[" line="4" column="27" />
@@ -28,11 +58,19 @@
         <mark key="." line="4" column="27" />
         <mark key="^" line="4" column="27" />
       </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Controller/Statistics/InterfaceController.php" timestamp="1534321058507" />
       <file name="$USER_HOME$/www/mysymfony/app/config/services.yml" timestamp="1531404718977">
         <mark key="[" line="19" column="54" />
         <mark key="]" line="19" column="53" />
         <mark key="^" line="19" column="53" />
         <mark key="." line="19" column="53" />
+      </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/vendor/beberlei/DoctrineExtensions/src/Query/Mysql/DateFormat.php" timestamp="1534320323607" />
+      <file name="$USER_HOME$/www/dhccam-2.0/README.md" timestamp="1534320156916">
+        <mark key="[" line="25" column="29" />
+        <mark key="]" line="25" column="1" />
+        <mark key="^" line="25" column="1" />
+        <mark key="." line="25" column="1" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Util/Tools.php" timestamp="1534238212977">
         <mark key="[" line="1775" column="9" />
@@ -41,21 +79,37 @@
         <mark key="^" line="1773" column="11" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Controller/Development/DebugController.php" timestamp="1534214291492" />
-      <file name="/PHP Console" timestamp="1534314302763">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/www/dhccam-2.0/vendor/beberlei/DoctrineExtensions/src/Query/Mysql/FromUnixtime.php" timestamp="1534320442385" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatServiceImpl.php" timestamp="1534321889546">
+        <mark key="'" line="225" column="4" />
+        <mark key="[" line="451" column="35" />
+        <mark key="]" line="451" column="35" />
+        <mark key="^" line="498" column="48" />
+        <mark key="." line="451" column="35" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatServiceImpl.php" timestamp="1534240101796">
-        <mark key="^" line="21" column="39" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/ApiStatDayService.php" timestamp="1534321357828">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="12" column="1" />
+        <mark key="." line="30" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534244724430">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/www/dhccam-2.0/composer.json" timestamp="1534320022129">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Repository/ApiMessageRepository.php" timestamp="1534239956677">
-        <mark key="[" line="204" column="5" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Repository/ApiStatTimeRepository.php" timestamp="1534319191531" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Repository/ApiMessageRepository.php" timestamp="1534321862786">
+        <mark key="'" line="237" column="56" />
+        <mark key="[" line="374" column="45" />
+        <mark key="]" line="374" column="45" />
+        <mark key="." line="374" column="45" />
+        <mark key="^" line="357" column="44" />
       </file>
       <file name="/DebugController.php" timestamp="1534213855638" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Resources/config/consumers.yml" timestamp="1534244388658" />
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/ApiStatService.php" timestamp="1534222697154" />
+      <file name="$USER_HOME$/www/dhccam-2.0/vendor/oro/doctrine-extensions/src/Oro/ORM/Query/AST/Functions/DateTime/ConvertTz.php" timestamp="1534319418049" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/ApiStatService.php" timestamp="1534321238817" />
       <file name="$USER_HOME$/www/dhccam-2.0/liuende/test.php" timestamp="1534237079011">
         <mark key="'" line="1268" column="14" />
         <mark key="[" line="1263" column="32" />
@@ -63,10 +117,26 @@
         <mark key="." line="1266" column="0" />
         <mark key="^" line="1266" column="0" />
       </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/app/config/config.yml" timestamp="1534320458249">
+        <mark key="[" line="77" column="21" />
+        <mark key="]" line="77" column="21" />
+        <mark key="." line="77" column="21" />
+        <mark key="^" line="77" column="74" />
+      </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/SwooleBundle/Service/Impl/Client.php" timestamp="1534233013402" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/ApiMessageService.php" timestamp="1534322274468">
+        <mark key="[" line="22" column="58" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Service/ApiCategoryService.php" timestamp="1534175747766" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/SwooleBundle/Service/ClientInterface.php" timestamp="1534232897160" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Util/Log.php" timestamp="1534237425419" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/ApiStatTimeService.php" timestamp="1534322284515">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="123" column="49" filename="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Service/Impl/AllocationServiceImpl.php" />
@@ -80,49 +150,75 @@
       <jump line="471" column="60" filename="$USER_HOME$/www/dhccam-2.0/src/SwooleBundle/Server/DaemonServer.php" />
       <jump line="472" column="60" filename="$USER_HOME$/www/dhccam-2.0/src/SwooleBundle/Server/DaemonServer.php" />
       <jump line="1265" column="14" filename="$USER_HOME$/www/dhccam-2.0/liuende/test.php" />
+      <jump line="115" column="5" filename="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatServiceImpl.php" />
+      <jump line="22" column="0" filename="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiMessageServiceImpl.php" />
+      <jump line="211" column="8" filename="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatTimeServiceImpl.php" />
+      <jump line="232" column="34" filename="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatTimeServiceImpl.php" />
+      <jump line="258" column="40" filename="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatServiceImpl.php" />
+      <jump line="235" column="56" filename="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Repository/ApiMessageRepository.php" />
+      <jump line="493" column="40" filename="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatServiceImpl.php" />
+      <jump line="484" column="20" filename="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatServiceImpl.php" />
+      <jump line="492" column="17" filename="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatServiceImpl.php" />
+      <jump line="494" column="17" filename="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatServiceImpl.php" />
+      <jump line="500" column="17" filename="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatServiceImpl.php" />
+      <jump line="505" column="43" filename="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatServiceImpl.php" />
+      <jump line="506" column="16" filename="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatServiceImpl.php" />
+      <jump line="518" column="15" filename="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatServiceImpl.php" />
+      <jump line="523" column="39" filename="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatServiceImpl.php" />
+      <jump line="531" column="18" filename="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatServiceImpl.php" />
+      <jump line="224" column="20" filename="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatServiceImpl.php" />
+      <jump line="228" column="9" filename="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatServiceImpl.php" />
+      <jump line="232" column="48" filename="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatServiceImpl.php" />
+      <jump line="225" column="4" filename="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatServiceImpl.php" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5riF56m65pWw5o2uLOmdnui9r+WIoOmZpAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gY2xlYXJBbGwoKTs=</text>
+      <register name="&quot;" type="4">
+        <text>apiStatTimeService</text>
+      </register>
+      <register name="-" type="4">
+        <text>apiStatTimeService</text>
+      </register>
+      <register name="/" type="4">
+        <text>chartPercentageStat</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFVOSVhfVElNRVNUQU1QOiBEb2N0cmluZUV4dGVuc2lvbnNcUXVlcnlcTXlzcWxcVW5peFRpbWVzdGFtcAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>y</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgcGVyY2VudGFnZVN0YXQoKSBtZXRob2QuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+        <text encoding="base64">ICAgICAgICAkc3RhcnQgPSBuZXcgRGF0ZVRpbWUoJHN0YXJ0KTsKICAgICAgICAkZW5kID0gbmV3IERhdGVUaW1lKCRlbmQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgY2xlYXJBbGwoKSBtZXRob2QuCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">MS4g5riF56m657uf6K6h5pWw5o2uLCDnm67liY3mlK/mjIEgQUxMLCBEQVksIFRJTUUsICwg6buY6K6k5Li6IDxpbmZvPkRBWTwvaW5mbz4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">JGRhdGEgPSAxOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">Cgp9</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAkcmVzdWx0ID0gJGFwaVN0YXRUaW1lU2VydmljZS0+Y2hhcnRQZXJjZW50YWdlU3RhdCgkc3RhcnQsJGVuZCk7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFxmaWxlX3B1dF9jb250ZW50cygkbG9nZmlsZSwndHJhY2s6ICcuJGV4Y2VwdGlvbi0+Z2V0VHJhY2VBc1N0cmluZygpKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICRzdGFydCA9ICcyMDE4LTA2LTExIDExOjIyOjAwJzsKLy8gICAgICAgICRlbmQgPSAnMjAxOC0xMC0xMSAxMTozMDowMCc7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnZlcnRfdHo6ICAgICBPcm9cT1JNXFF1ZXJ5XEFTVFxGdW5jdGlvbnNcRGF0ZVRpbWVcQ29udmVydFR6Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGF0ZXRpbWVfZnVuY3Rpb25zOgo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
       </register>
-      <register name="-" type="4">
-        <text>y</text>
-      </register>
-      <register name="/" type="4">
-        <text>$_SERVER</text>
-      </register>
     </registers>
     <search>
-      <last-search>$_SERVER</last-search>
+      <last-search>chartPercentageStat</last-search>
       <last-offset />
-      <last-pattern>$_SERVER</last-pattern>
+      <last-pattern>chartPercentageStat</last-pattern>
       <last-replace>$data</last-replace>
       <last-substitute>$_SERVER</last-substitute>
       <last-dir>1</last-dir>
@@ -133,6 +229,11 @@
         <entry encoding="base64">XDxsb2dmaWxlXD4=</entry>
         <entry encoding="base64">XDxfU0VSVkVSXD4=</entry>
         <entry>$_SERVER</entry>
+        <entry>homeTrendStat</entry>
+        <entry encoding="base64">XDxob21lVHJlbmRTdGF0XD4=</entry>
+        <entry>home</entry>
+        <entry>chart</entry>
+        <entry>chartPercentageStat</entry>
       </history-search>
       <history-cmd>
         <entry>.,$s/$_SERVER/data/g</entry>
