@@ -10,12 +10,7 @@
         <mark key="^" line="220" column="61" />
         <mark key="." line="188" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/BaseStatService.php" timestamp="1534321369359">
-        <mark key="]" line="40" column="85" />
-        <mark key="^" line="40" column="85" />
-        <mark key="." line="40" column="85" />
-      </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiMessageServiceImpl.php" timestamp="1534327251534">
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiMessageServiceImpl.php" timestamp="1534339833552">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="168" column="5" />
         <mark key="]" line="170" column="0" />
@@ -96,6 +91,7 @@
       <file name="$USER_HOME$/www/dhccam-2.0/vendor/oro/doctrine-extensions/src/Oro/ORM/Query/AST/Functions/DateTime/ConvertTz.php" timestamp="1534319418049" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/ApiStatService.php" timestamp="1534321238817" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Controller/Statistics/InTimeController.php" timestamp="1534325430865" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/EventListener/MessageSubscriber.php" timestamp="1534339964623" />
       <file name="$USER_HOME$/www/dhccam-2.0/liuende/test.php" timestamp="1534336076423">
         <mark key="'" line="1262" column="0" />
         <mark key="[" line="1281" column="35" />
