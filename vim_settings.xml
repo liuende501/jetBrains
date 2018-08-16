@@ -70,10 +70,10 @@
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Repository/ApiStatTimeRepository.php" timestamp="1534327295133" />
       <file name="/config.yml" timestamp="1534332821735" />
-      <file name="/Dummy.txt" timestamp="1534337488670">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1534386183215">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Repository/ApiMessageRepository.php" timestamp="1534385212761">
         <mark key="[" line="44" column="38" />
@@ -84,11 +84,17 @@
       <file name="/DebugController.php" timestamp="1534213855638" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Resources/config/consumers.yml" timestamp="1534244388658" />
       <file name="$USER_HOME$/www/dhccam-2.0/vendor/doctrine/orm/lib/Doctrine/ORM/EntityManager.php" timestamp="1534385098381" />
+      <file name="$USER_HOME$/www/dhccam-2.0/consumer.sh" timestamp="1534386957986">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="27" />
+        <mark key="." line="7" column="27" />
+        <mark key="^" line="7" column="27" />
+      </file>
       <file name="$USER_HOME$/www/dhccam-2.0/vendor/oro/doctrine-extensions/src/Oro/ORM/Query/AST/Functions/DateTime/ConvertTz.php" timestamp="1534319418049" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/ApiStatService.php" timestamp="1534321238817" />
       <file name="$USER_HOME$/www/dhccam-2.0/vendor/doctrine/common/lib/Doctrine/Common/Persistence/AbstractManagerRegistry.php" timestamp="1534348277663" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Controller/Statistics/InTimeController.php" timestamp="1534325430865" />
-      <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/EventListener/MessageSubscriber.php" timestamp="1534339964623" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/EventListener/MessageSubscriber.php" timestamp="1534386200352" />
       <file name="$USER_HOME$/www/dhccam-2.0/liuende/test.php" timestamp="1534348001981">
         <mark key="'" line="1262" column="0" />
         <mark key="[" line="1286" column="0" />
@@ -145,10 +151,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PmVudGl0eU1hbmFnZXIgPQ==</text>
+        <text>consumer</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PmVudGl0eU1hbmFnZXIgPQ==</text>
+        <text>consumer</text>
       </register>
       <register name="/" type="4">
         <text>chartPercentageStat</text>
