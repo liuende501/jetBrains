@@ -84,7 +84,7 @@
       <file name="/DebugController.php" timestamp="1534213855638" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Resources/config/consumers.yml" timestamp="1534244388658" />
       <file name="$USER_HOME$/www/dhccam-2.0/vendor/doctrine/orm/lib/Doctrine/ORM/EntityManager.php" timestamp="1534385098381" />
-      <file name="$USER_HOME$/www/dhccam-2.0/consumer.sh" timestamp="1534386957986">
+      <file name="$USER_HOME$/www/dhccam-2.0/consumer.sh" timestamp="1534390575079">
         <mark key="[" line="7" column="13" />
         <mark key="]" line="7" column="27" />
         <mark key="." line="7" column="27" />
@@ -190,7 +190,7 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>90</text>
       </register>
     </registers>
     <search>
@@ -218,6 +218,7 @@
         <entry>.,$s/$_SERVER/$data/g</entry>
         <entry>sp</entry>
         <entry>vs</entry>
+        <entry>90</entry>
       </history-cmd>
       <history-expr />
       <history-input />
