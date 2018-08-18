@@ -40,11 +40,11 @@
       <file name="/a.dummy" timestamp="1534493113727">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/CacheStatService.php" timestamp="1534557475434">
-        <mark key="[" line="7" column="10" />
-        <mark key="]" line="7" column="18" />
-        <mark key="." line="7" column="18" />
-        <mark key="^" line="7" column="18" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/CacheStatService.php" timestamp="1534558336995">
+        <mark key="[" line="26" column="52" />
+        <mark key="]" line="13" column="34" />
+        <mark key="." line="13" column="34" />
+        <mark key="^" line="13" column="34" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Repository/ApiCategoryRepository.php" timestamp="1534175572793">
         <mark key="[" line="96" column="13" />
@@ -83,11 +83,12 @@
         <mark key="^" line="1286" column="4" />
         <mark key="." line="1286" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/CacheStatServiceImpl.php" timestamp="1534557502812">
-        <mark key="[" line="151" column="16" />
-        <mark key="]" line="151" column="16" />
-        <mark key="." line="151" column="16" />
-        <mark key="^" line="7" column="18" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/CacheStatServiceImpl.php" timestamp="1534558258002">
+        <mark key="'" line="146" column="23" />
+        <mark key="[" line="204" column="35" />
+        <mark key="]" line="118" column="35" />
+        <mark key="." line="118" column="35" />
+        <mark key="^" line="118" column="35" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/README.md" timestamp="1534320156916">
         <mark key="[" line="25" column="29" />
@@ -171,55 +172,57 @@
       <jump line="74" column="19" filename="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiMessageServiceImpl.php" />
       <jump line="23" column="0" filename="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiMessageServiceImpl.php" />
       <jump line="65" column="36" filename="$USER_HOME$/www/dhccam-2.0/src/RabbitMQBundle/Command/SwooleConsumerCommand.php" />
+      <jump line="29" column="10" filename="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/CacheStatServiceImpl.php" />
+      <jump line="146" column="23" filename="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/CacheStatServiceImpl.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEFkbWluQnVuZGxlXFNlcnZpY2VcQ2FjaGVTdGF0U2VydmljZTsK</text>
+        <text encoding="base64">ICAgICAgICAnaWQnID0+ICcnLAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXBpTWVzc2FnZUlkIA==</text>
+        <text>status</text>
       </register>
       <register name="/" type="4">
-        <text>chartPercentageStat</text>
+        <text encoding="base64">XDxFTVBUWV9LRVlTXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkYXJyYXlbJ3N0YXR1cyddID0gJG1lc3NhZ2VbJ3N0YXR1cyddOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIEFkbWluQnVuZGxlXFNlcnZpY2VcQ2FjaGVTdGF0U2VydmljZTsK</text>
+        <text encoding="base64">ICAgICAgICAnaWQnID0+ICcnLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIEFkbWluQnVuZGxlXFNlcnZpY2VcQXBpQ2F0ZWdvcnlTZXJ2aWNlOwp1c2UgQWRtaW5CdW5kbGVcU2VydmljZVxBcGlTZXJ2aWNlOwp1c2UgQWRtaW5CdW5kbGVcU2VydmljZVxBcHBsaWNhdGlvblNlcnZpY2U7CnVzZSBBZG1pbkJ1bmRsZVxTZXJ2aWNlXENhY2hlU3RhdFNlcnZpY2U7CnVzZSBBZG1pbkJ1bmRsZVxTZXJ2aWNlXFVzZXJBcHBMaW5rU2VydmljZTsK</text>
+        <text encoding="base64">ICAgICAgICAkYXJyYXlbJ2lkJ10gPSAkbWVzc2FnZVsnaWQnXTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkYXJyYXlbJ2lkJ10gPSAkbWVzc2FnZVsnaWQnXTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmxvZ2dlci0+aW5mbygnbWVzc2FnZScsJ1tBcGlNZXNzYWdlU2VydmljZUltcGxd5aSx6LSl5raI5oGv6ZSuOiAnLiRtZXNzYWdlQ29sbGVjdGlvbik7Cg==</text>
+        <text encoding="base64">dXNlIEFkbWluQnVuZGxlXFNlcnZpY2VcQ2FjaGVTdGF0U2VydmljZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmxvZ2dlci0+aW5mbygnbWVzc2FnZScsJ1tBcGlNZXNzYWdlU2VydmljZUltcGxd5aSx6LSl5raI5oGv6ZSuOiAnLiRtZXNzYWdlQ29sbGVjdGlvbik7Cg==</text>
+        <text encoding="base64">dXNlIEFkbWluQnVuZGxlXFNlcnZpY2VcQXBpQ2F0ZWdvcnlTZXJ2aWNlOwp1c2UgQWRtaW5CdW5kbGVcU2VydmljZVxBcGlTZXJ2aWNlOwp1c2UgQWRtaW5CdW5kbGVcU2VydmljZVxBcHBsaWNhdGlvblNlcnZpY2U7CnVzZSBBZG1pbkJ1bmRsZVxTZXJ2aWNlXENhY2hlU3RhdFNlcnZpY2U7CnVzZSBBZG1pbkJ1bmRsZVxTZXJ2aWNlXFVzZXJBcHBMaW5rU2VydmljZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC4gJGUtPmdldE1lc3NhZ2UoKSAuIFBIUF9FT0wK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmxvZ2dlci0+aW5mbygnbWVzc2FnZScsJ1tBcGlNZXNzYWdlU2VydmljZUltcGxd5aSx6LSl5raI5oGv6ZSuOiAnLiRtZXNzYWdlQ29sbGVjdGlvbik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmxvZ2dlci0+aW5mbygnbWVzc2FnZScsJ1tBcGlNZXNzYWdlU2VydmljZUltcGxd5aSx6LSl5raI5oGv6ZSuOiAnLiRtZXNzYWdlQ29sbGVjdGlvbik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkc3RhcnQgPSAnMjAxOC0wOC0xNSAwMDowMDowMCc7CiAgICAgICAgJGVuZCA9ICcyMDE4LTA4LTE2IDAwOjAwOjAwJzsKICAgICAgICAkc3RhcnQgPSBuZXcgRGF0ZVRpbWUoJHN0YXJ0KTsKICAgICAgICAkZW5kID0gbmV3IERhdGVUaW1lKCRlbmQpOwovLyAgICAgICAgJGFzdFJwID0gJGVtLT5nZXRSZXBvc2l0b3J5KCdBcHBCdW5kbGU6QXBpU3RhdFRpbWUnKTsKLy8gICAgICAgICRyZXN1bHQgPSAgJGFzdFJwLT5pbnRlcnZhbFRyZW5kU3RhdCgkc3RhcnQsJGVuZCw5MDAsJ2FwaScsdHJ1ZSkKLy87CiAgICAgICAgIyRjb250ZXh0ID0gWydhcGknID0+IFsnIDE1OSkgb3IgdC5hcGlfaWQgaW4gKDE1OSddXTsKICAgICAgICAkY29udGV4dCA9IFsnYXBwbGljYXRpb24nPT4gWyd0eXBlJyA9PiAnYWxsJ11dOwogICAgICAgICRmaWx0ZXIgPSBbXTsKLy8gICAgICAgICRmaWx0ZXIgPSBbJ2FwaScgPT4gMTE1OV07CiAgICAgICAgJHJlc3VsdCA9ICRhcGlTdGF0U2VydmljZS0+aW50ZXJ2YWxUcmVuZFN0YXQoJHN0YXJ0LCAkZW5kLCA5MDAsICRjb250ZXh0LCAkZmlsdGVyKTsKICAgICAgICByZXR1cm4gbmV3IEpzb25SZXNwb25zZSgkcmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>90</text>
       </register>
     </registers>
     <search>
-      <last-search>chartPercentageStat</last-search>
+      <last-search encoding="base64">XDxFTVBUWV9LRVlTXD4=</last-search>
       <last-offset />
-      <last-pattern>chartPercentageStat</last-pattern>
+      <last-pattern encoding="base64">XDxFTVBUWV9LRVlTXD4=</last-pattern>
       <last-replace>$data</last-replace>
       <last-substitute>$_SERVER</last-substitute>
       <last-dir>1</last-dir>
@@ -235,6 +238,7 @@
         <entry>home</entry>
         <entry>chart</entry>
         <entry>chartPercentageStat</entry>
+        <entry encoding="base64">XDxFTVBUWV9LRVlTXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>.,$s/$_SERVER/data/g</entry>
