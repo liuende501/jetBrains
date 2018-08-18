@@ -3,6 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Repository/ApiMessageRepository.php" timestamp="1534557648406">
+        <mark key="[" line="100" column="9" />
+        <mark key="]" line="105" column="17" />
+        <mark key="^" line="105" column="17" />
+        <mark key="." line="105" column="17" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1534494206908">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+      </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatTimeServiceImpl.php" timestamp="1534336056211">
         <mark key="'" line="220" column="34" />
         <mark key="[" line="52" column="33" />
@@ -10,18 +21,30 @@
         <mark key="^" line="220" column="61" />
         <mark key="." line="188" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiMessageServiceImpl.php" timestamp="1534491305666">
+      <file name="$USER_HOME$/www/dhccam-2.0/consumer.sh" timestamp="1534390575079">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="27" />
+        <mark key="." line="7" column="27" />
+        <mark key="^" line="7" column="27" />
+      </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiMessageServiceImpl.php" timestamp="1534557795366">
         <mark key="'" line="23" column="0" />
-        <mark key="[" line="69" column="1" />
-        <mark key="]" line="69" column="1" />
-        <mark key="." line="69" column="1" />
-        <mark key="^" line="69" column="1" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="64" column="34" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/ydyy.sh" timestamp="1534493792386">
         <mark key="[" line="17" column="7" />
       </file>
       <file name="/a.dummy" timestamp="1534493113727">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/CacheStatService.php" timestamp="1534557475434">
+        <mark key="[" line="7" column="10" />
+        <mark key="]" line="7" column="18" />
+        <mark key="." line="7" column="18" />
+        <mark key="^" line="7" column="18" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Repository/ApiCategoryRepository.php" timestamp="1534175572793">
         <mark key="[" line="96" column="13" />
@@ -35,6 +58,12 @@
         <mark key="." line="65" column="36" />
         <mark key="^" line="65" column="36" />
       </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/EventListener/MessageSubscriber.php" timestamp="1534490688330">
+        <mark key="[" line="145" column="55" />
+        <mark key="]" line="145" column="55" />
+        <mark key="^" line="145" column="55" />
+        <mark key="." line="145" column="55" />
+      </file>
       <file name="$USER_HOME$/www/dhccam-2.0/app/config/rabbitmq.yml" timestamp="1534244675130">
         <mark key="[" line="95" column="65" />
         <mark key="]" line="95" column="64" />
@@ -46,6 +75,19 @@
         <mark key="]" line="165" column="29" />
         <mark key="^" line="165" column="29" />
         <mark key="." line="165" column="29" />
+      </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/liuende/test.php" timestamp="1534348001981">
+        <mark key="'" line="1262" column="0" />
+        <mark key="[" line="1286" column="0" />
+        <mark key="]" line="1286" column="0" />
+        <mark key="^" line="1286" column="4" />
+        <mark key="." line="1286" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/CacheStatServiceImpl.php" timestamp="1534557502812">
+        <mark key="[" line="151" column="16" />
+        <mark key="]" line="151" column="16" />
+        <mark key="." line="151" column="16" />
+        <mark key="^" line="7" column="18" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/README.md" timestamp="1534320156916">
         <mark key="[" line="25" column="29" />
@@ -62,6 +104,16 @@
       <file name="/PHP Console" timestamp="1534424317529">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/var/logs/doctrine/doctrine-2018-08-16.log" timestamp="1534486579263">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/MessageQueue/Consumer/ConsumerManageServer.php" timestamp="1534490622289">
+        <mark key="[" line="46" column="35" />
+        <mark key="]" line="46" column="36" />
+        <mark key="." line="46" column="36" />
+      </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatServiceImpl.php" timestamp="1534332549927">
         <mark key="'" line="225" column="4" />
         <mark key="[" line="617" column="55" />
@@ -73,47 +125,6 @@
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Repository/ApiMessageRepository.php" timestamp="1534490966977">
-        <mark key="[" line="94" column="60" />
-        <mark key="]" line="98" column="0" />
-        <mark key="^" line="94" column="58" />
-        <mark key="." line="98" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1534494206908">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
-      </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/consumer.sh" timestamp="1534390575079">
-        <mark key="[" line="7" column="13" />
-        <mark key="]" line="7" column="27" />
-        <mark key="." line="7" column="27" />
-        <mark key="^" line="7" column="27" />
-      </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/var/logs/doctrine/doctrine-2018-08-17.log" timestamp="1534486829241" />
-      <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/EventListener/MessageSubscriber.php" timestamp="1534490688330">
-        <mark key="[" line="145" column="55" />
-        <mark key="]" line="145" column="55" />
-        <mark key="^" line="145" column="55" />
-        <mark key="." line="145" column="55" />
-      </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/liuende/test.php" timestamp="1534348001981">
-        <mark key="'" line="1262" column="0" />
-        <mark key="[" line="1286" column="0" />
-        <mark key="]" line="1286" column="0" />
-        <mark key="^" line="1286" column="4" />
-        <mark key="." line="1286" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/var/logs/doctrine/doctrine-2018-08-16.log" timestamp="1534486579263">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/MessageQueue/Consumer/ConsumerManageServer.php" timestamp="1534490622289">
-        <mark key="[" line="46" column="35" />
-        <mark key="]" line="46" column="36" />
-        <mark key="." line="46" column="36" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/ApiStatTimeService.php" timestamp="1534322284515">
         <mark key="[" line="29" column="0" />
@@ -163,43 +174,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIEFkbWluQnVuZGxlXFNlcnZpY2VcQ2FjaGVTdGF0U2VydmljZTsK</text>
       </register>
       <register name="-" type="4">
-        <text>getFile</text>
+        <text encoding="base64">YXBpTWVzc2FnZUlkIA==</text>
       </register>
       <register name="/" type="4">
         <text>chartPercentageStat</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmxvZ2dlci0+aW5mbygnbWVzc2FnZScsJ1tBcGlNZXNzYWdlU2VydmljZUltcGxd5aSx6LSl5raI5oGv6ZSuOiAnLiRtZXNzYWdlQ29sbGVjdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkYXJyYXlbJ3N0YXR1cyddID0gJG1lc3NhZ2VbJ3N0YXR1cyddOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIEFkbWluQnVuZGxlXFNlcnZpY2VcQ2FjaGVTdGF0U2VydmljZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmxvZ2dlci0+aW5mbygnbWVzc2FnZScsJ1tBcGlNZXNzYWdlU2VydmljZUltcGxd5aSx6LSl5raI5oGv6ZSuOiAnLiRtZXNzYWdlQ29sbGVjdGlvbik7Cg==</text>
+        <text encoding="base64">dXNlIEFkbWluQnVuZGxlXFNlcnZpY2VcQXBpQ2F0ZWdvcnlTZXJ2aWNlOwp1c2UgQWRtaW5CdW5kbGVcU2VydmljZVxBcGlTZXJ2aWNlOwp1c2UgQWRtaW5CdW5kbGVcU2VydmljZVxBcHBsaWNhdGlvblNlcnZpY2U7CnVzZSBBZG1pbkJ1bmRsZVxTZXJ2aWNlXENhY2hlU3RhdFNlcnZpY2U7CnVzZSBBZG1pbkJ1bmRsZVxTZXJ2aWNlXFVzZXJBcHBMaW5rU2VydmljZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmxvZ2dlci0+aW5mbygnbWVzc2FnZScsJ1tBcGlNZXNzYWdlU2VydmljZUltcGxd5aSx6LSl5raI5oGv6ZSuOiAnLiRtZXNzYWdlQ29sbGVjdGlvbik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmxvZ2dlci0+aW5mbygnbWVzc2FnZScsJ1tBcGlNZXNzYWdlU2VydmljZUltcGxd5aSx6LSl5raI5oGv6ZSuOiAnLiRtZXNzYWdlQ29sbGVjdGlvbik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC4gJGUtPmdldE1lc3NhZ2UoKSAuIFBIUF9FT0wK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmxvZ2dlci0+aW5mbygnbWVzc2FnZScsJ1tBcGlNZXNzYWdlU2VydmljZUltcGxd5aSx6LSl5raI5oGv6ZSuOiAnLiRtZXNzYWdlQ29sbGVjdGlvbik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkc3RhcnQgPSAnMjAxOC0wOC0xNSAwMDowMDowMCc7CiAgICAgICAgJGVuZCA9ICcyMDE4LTA4LTE2IDAwOjAwOjAwJzsKICAgICAgICAkc3RhcnQgPSBuZXcgRGF0ZVRpbWUoJHN0YXJ0KTsKICAgICAgICAkZW5kID0gbmV3IERhdGVUaW1lKCRlbmQpOwovLyAgICAgICAgJGFzdFJwID0gJGVtLT5nZXRSZXBvc2l0b3J5KCdBcHBCdW5kbGU6QXBpU3RhdFRpbWUnKTsKLy8gICAgICAgICRyZXN1bHQgPSAgJGFzdFJwLT5pbnRlcnZhbFRyZW5kU3RhdCgkc3RhcnQsJGVuZCw5MDAsJ2FwaScsdHJ1ZSkKLy87CiAgICAgICAgIyRjb250ZXh0ID0gWydhcGknID0+IFsnIDE1OSkgb3IgdC5hcGlfaWQgaW4gKDE1OSddXTsKICAgICAgICAkY29udGV4dCA9IFsnYXBwbGljYXRpb24nPT4gWyd0eXBlJyA9PiAnYWxsJ11dOwogICAgICAgICRmaWx0ZXIgPSBbXTsKLy8gICAgICAgICRmaWx0ZXIgPSBbJ2FwaScgPT4gMTE1OV07CiAgICAgICAgJHJlc3VsdCA9ICRhcGlTdGF0U2VydmljZS0+aW50ZXJ2YWxUcmVuZFN0YXQoJHN0YXJ0LCAkZW5kLCA5MDAsICRjb250ZXh0LCAkZmlsdGVyKTsKICAgICAgICByZXR1cm4gbmV3IEpzb25SZXNwb25zZSgkcmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC4gJGUtPmdldE1lc3NhZ2UoKSAuIFBIUF9FT0wK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5pe26Ze057uf6K6hCiAgICAgKiBAUm91dGUoIi9pbnRlcnZhbCIsIG5hbWU9ImludGVydmFsIikKICAgICAqIEB0aHJvd3MgXEFwcEJ1bmRsZVxFeGNlcHRpb25cQmFkUmVxdWVzdEV4Y2VwdGlvbgogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gaW50ZXJ2YWxBY3Rpb24oT2JqZWN0TWFuYWdlciAkZW0sIEFwaVN0YXRTZXJ2aWNlICRhcGlTdGF0U2VydmljZSkKICAgIHsKICAgICAgICAkc3RhcnQgPSAnMjAxOC0wOC0xNSAwMDowMDowMCc7CiAgICAgICAgJGVuZCA9ICcyMDE4LTA4LTE2IDAwOjAwOjAwJzsKICAgICAgICAkc3RhcnQgPSBuZXcgRGF0ZVRpbWUoJHN0YXJ0KTsKICAgICAgICAkZW5kID0gbmV3IERhdGVUaW1lKCRlbmQpOwovLyAgICAgICAgJGFzdFJwID0gJGVtLT5nZXRSZXBvc2l0b3J5KCdBcHBCdW5kbGU6QXBpU3RhdFRpbWUnKTsKLy8gICAgICAgICRyZXN1bHQgPSAgJGFzdFJwLT5pbnRlcnZhbFRyZW5kU3RhdCgkc3RhcnQsJGVuZCw5MDAsJ2FwaScsdHJ1ZSkKLy87CiAgICAgICAgIyRjb250ZXh0ID0gWydhcGknID0+IFsnIDE1OSkgb3IgdC5hcGlfaWQgaW4gKDE1OSddXTsKICAgICAgICAkY29udGV4dCA9IFsnYXBwbGljYXRpb24nPT4gWyd0eXBlJyA9PiAnYWxsJ11dOwogICAgICAgICRmaWx0ZXIgPSBbXTsKLy8gICAgICAgICRmaWx0ZXIgPSBbJ2FwaScgPT4gMTE1OV07CiAgICAgICAgJHJlc3VsdCA9ICRhcGlTdGF0U2VydmljZS0+aW50ZXJ2YWxUcmVuZFN0YXQoJHN0YXJ0LCAkZW5kLCA5MDAsICRjb250ZXh0LCAkZmlsdGVyKTsKICAgICAgICByZXR1cm4gbmV3IEpzb25SZXNwb25zZSgkcmVzdWx0KTsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5pe26Ze057uf6K6hCiAgICAgKiBAUm91dGUoIi9pbnRlcnZhbCIsIG5hbWU9ImludGVydmFsIikKICAgICAqIEB0aHJvd3MgXEFwcEJ1bmRsZVxFeGNlcHRpb25cQmFkUmVxdWVzdEV4Y2VwdGlvbgogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gaW50ZXJ2YWxBY3Rpb24oT2JqZWN0TWFuYWdlciAkZW0sIEFwaVN0YXRTZXJ2aWNlICRhcGlTdGF0U2VydmljZSkKICAgIHsKICAgICAgICAkc3RhcnQgPSAnMjAxOC0wOC0xNSAwMDowMDowMCc7CiAgICAgICAgJGVuZCA9ICcyMDE4LTA4LTE2IDAwOjAwOjAwJzsKICAgICAgICAkc3RhcnQgPSBuZXcgRGF0ZVRpbWUoJHN0YXJ0KTsKICAgICAgICAkZW5kID0gbmV3IERhdGVUaW1lKCRlbmQpOwovLyAgICAgICAgJGFzdFJwID0gJGVtLT5nZXRSZXBvc2l0b3J5KCdBcHBCdW5kbGU6QXBpU3RhdFRpbWUnKTsKLy8gICAgICAgICRyZXN1bHQgPSAgJGFzdFJwLT5pbnRlcnZhbFRyZW5kU3RhdCgkc3RhcnQsJGVuZCw5MDAsJ2FwaScsdHJ1ZSkKLy87CiAgICAgICAgIyRjb250ZXh0ID0gWydhcGknID0+IFsnIDE1OSkgb3IgdC5hcGlfaWQgaW4gKDE1OSddXTsKICAgICAgICAkY29udGV4dCA9IFsnYXBwbGljYXRpb24nPT4gWyd0eXBlJyA9PiAnYWxsJ11dOwogICAgICAgICRmaWx0ZXIgPSBbXTsKLy8gICAgICAgICRmaWx0ZXIgPSBbJ2FwaScgPT4gMTE1OV07CiAgICAgICAgJHJlc3VsdCA9ICRhcGlTdGF0U2VydmljZS0+aW50ZXJ2YWxUcmVuZFN0YXQoJHN0YXJ0LCAkZW5kLCA5MDAsICRjb250ZXh0LCAkZmlsdGVyKTsKICAgICAgICByZXR1cm4gbmV3IEpzb25SZXNwb25zZSgkcmVzdWx0KTsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAkc3RhcnQgPSAnMjAxOC0wOC0xNSAwMDowMDowMCc7CiAgICAgICAgJGVuZCA9ICcyMDE4LTA4LTE2IDAwOjAwOjAwJzsKICAgICAgICAkc3RhcnQgPSBuZXcgRGF0ZVRpbWUoJHN0YXJ0KTsKICAgICAgICAkZW5kID0gbmV3IERhdGVUaW1lKCRlbmQpOwovLyAgICAgICAgJGFzdFJwID0gJGVtLT5nZXRSZXBvc2l0b3J5KCdBcHBCdW5kbGU6QXBpU3RhdFRpbWUnKTsKLy8gICAgICAgICRyZXN1bHQgPSAgJGFzdFJwLT5pbnRlcnZhbFRyZW5kU3RhdCgkc3RhcnQsJGVuZCw5MDAsJ2FwaScsdHJ1ZSkKLy87CiAgICAgICAgIyRjb250ZXh0ID0gWydhcGknID0+IFsnIDE1OSkgb3IgdC5hcGlfaWQgaW4gKDE1OSddXTsKICAgICAgICAkY29udGV4dCA9IFsnYXBwbGljYXRpb24nPT4gWyd0eXBlJyA9PiAnYWxsJ11dOwogICAgICAgICRmaWx0ZXIgPSBbXTsKLy8gICAgICAgICRmaWx0ZXIgPSBbJ2FwaScgPT4gMTE1OV07CiAgICAgICAgJHJlc3VsdCA9ICRhcGlTdGF0U2VydmljZS0+aW50ZXJ2YWxUcmVuZFN0YXQoJHN0YXJ0LCAkZW5kLCA5MDAsICRjb250ZXh0LCAkZmlsdGVyKTsKICAgICAgICByZXR1cm4gbmV3IEpzb25SZXNwb25zZSgkcmVzdWx0KTsK</text>
       </register>
       <register name=":" type="4">
         <text>90</text>
