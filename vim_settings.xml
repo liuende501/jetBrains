@@ -23,7 +23,7 @@
       <file name="/a.dummy" timestamp="1534493113727">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/CacheStatService.php" timestamp="1534561152867">
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/CacheStatService.php" timestamp="1534568135576">
         <mark key="[" line="29" column="12" />
         <mark key="]" line="29" column="11" />
         <mark key="." line="29" column="11" />
@@ -47,18 +47,18 @@
         <mark key="^" line="95" column="64" />
         <mark key="." line="95" column="64" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Controller/Tests/UtilController.php" timestamp="1534486788434">
-        <mark key="[" line="165" column="21" />
-        <mark key="]" line="165" column="29" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Controller/Tests/UtilController.php" timestamp="1534568089009">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
         <mark key="^" line="165" column="29" />
-        <mark key="." line="165" column="29" />
+        <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/CacheStatServiceImpl.php" timestamp="1534565004662">
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/CacheStatServiceImpl.php" timestamp="1534568024370">
         <mark key="'" line="39" column="10" />
-        <mark key="[" line="356" column="38" />
-        <mark key="]" line="359" column="0" />
-        <mark key="^" line="356" column="72" />
-        <mark key="." line="359" column="0" />
+        <mark key="[" line="463" column="15" />
+        <mark key="]" line="14" column="38" />
+        <mark key="." line="14" column="38" />
+        <mark key="^" line="14" column="38" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/README.md" timestamp="1534320156916">
         <mark key="[" line="25" column="29" />
@@ -104,6 +104,11 @@
         <mark key="]" line="7" column="27" />
         <mark key="." line="7" column="27" />
         <mark key="^" line="7" column="27" />
+      </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Controller/Statistics/InTimeController.php" timestamp="1534567765096">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/EventListener/MessageSubscriber.php" timestamp="1534490688330">
         <mark key="[" line="145" column="55" />
@@ -181,10 +186,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIEFkbWluQnVuZGxlXFNlcnZpY2VcQ2FjaGVTdGF0U2VydmljZTsK</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>count</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGQUlMX0tFWVw+</text>
@@ -193,31 +198,31 @@
         <text encoding="base64">ICAgICAgICAkZGF0ZSA9ICR0aGlzLT5nZXRUb2RheURhdGVTdHJpbmcoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIEFkbWluQnVuZGxlXFNlcnZpY2VcQ2FjaGVTdGF0U2VydmljZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0YVtdID0gJHRoaXMtPnJlYWxUaW1lSXRlbSgkbmFtZSwgJGNvZGUsICRpZCwgJHR5cGUsICRjb3VudCk7Cg==</text>
+        <text encoding="base64">dXNlIEFkbWluQnVuZGxlXFNlcnZpY2VcQ2FjaGVTdGF0U2VydmljZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkaWQgPSAkZW50aXR5LT5nZXRJZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkY3VydmVbJ2NvdW50J10gPSAkY291bnQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkaWQgPSAkZW50aXR5LT5nZXRJZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkY3VydmVbJ3R5cGUnXSA9ICR0eXBlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkaWQgPSAkZW50aXR5LT5nZXRJZCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkaWQgPSAkZW50aXR5LT5nZXRJZCgpOwo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkaWQgPSAkZW50aXR5LT5nZXRJZCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkZGF0YVtdID0gJHRoaXMtPnJlYWxUaW1lSXRlbSgkbmFtZSwgJGNvZGUsICRpZCwgJHR5cGUsICRjb3VudCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkZGF0YVtdID0gJHRoaXMtPnJlYWxUaW1lSXRlbSgkbmFtZSwgJGNvZGUsICRpZCwgJHR5cGUsICRjb3VudCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/EMPTY_KEYS/COUNT_EMPTY_KEYS</text>
