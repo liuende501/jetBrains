@@ -53,12 +53,12 @@
         <mark key="^" line="165" column="29" />
         <mark key="." line="165" column="29" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/CacheStatServiceImpl.php" timestamp="1534563586735">
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/CacheStatServiceImpl.php" timestamp="1534565004662">
         <mark key="'" line="39" column="10" />
-        <mark key="[" line="159" column="11" />
-        <mark key="]" line="152" column="36" />
-        <mark key="." line="152" column="36" />
-        <mark key="^" line="152" column="36" />
+        <mark key="[" line="356" column="38" />
+        <mark key="]" line="359" column="0" />
+        <mark key="^" line="356" column="72" />
+        <mark key="." line="359" column="0" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/README.md" timestamp="1534320156916">
         <mark key="[" line="25" column="29" />
@@ -184,7 +184,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>array</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGQUlMX0tFWVw+</text>
@@ -196,28 +196,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9ZWxzZXsKCg==</text>
+        <text encoding="base64">ICAgICAgICAkZGF0YVtdID0gJHRoaXMtPnJlYWxUaW1lSXRlbSgkbmFtZSwgJGNvZGUsICRpZCwgJHR5cGUsICRjb3VudCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWRmCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkaWQgPSAkZW50aXR5LT5nZXRJZCgpOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">KCEkcmVkaXMtPmxQdXNoKCRmYWlsS2V5LCRpdGVtKSl7CiAgICAgICAgICAgICAgICAkcmVkaXMtPmRlbGV0ZSgkZmFpbEtleSk7CiAgICAgICAgICAgIH0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkaWQgPSAkZW50aXR5LT5nZXRJZCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgcmVhbEZhaWxMaXN0KCkgbWV0aG9kLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkaWQgPSAkZW50aXR5LT5nZXRJZCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkaWQgPSAkZW50aXR5LT5nZXRJZCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkaWQgPSAkZW50aXR5LT5nZXRJZCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5pyA6L+R55qE6ZSZ6K+v5YiX6KGoCiAgICAgKgogICAgICogQHBhcmFtIGludCAkY291bnQg5YiX6KGo5aSn5bCPCiAgICAgKiBAcmV0dXJuIG1peGVkCiAgICAgKiBAdGhyb3dzIENhY2hlUmVkaXNFeGNlcHRpb24KICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHJlYWxFcnJvckxpc3QoaW50ICRjb3VudCkKICAgIHsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkZGF0YVtdID0gJHRoaXMtPnJlYWxUaW1lSXRlbSgkbmFtZSwgJGNvZGUsICRpZCwgJHR5cGUsICRjb3VudCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0YSA9IFtdOwogICAgICAgICRrZXlzID0gJHRoaXMtPnJlYWxFcnJvcktleXMoJGNvdW50KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkZGF0YVtdID0gJHRoaXMtPnJlYWxUaW1lSXRlbSgkbmFtZSwgJGNvZGUsICRpZCwgJHR5cGUsICRjb3VudCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/EMPTY_KEYS/COUNT_EMPTY_KEYS</text>
