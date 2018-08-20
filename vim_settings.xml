@@ -113,10 +113,10 @@
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/consumer.sh" timestamp="1534731962442">
-        <mark key="[" line="184" column="27" />
-        <mark key="]" line="184" column="27" />
-        <mark key="." line="184" column="27" />
+      <file name="$USER_HOME$/www/dhccam-2.0/consumer.sh" timestamp="1534733408663">
+        <mark key="[" line="141" column="36" />
+        <mark key="]" line="140" column="0" />
+        <mark key="." line="140" column="0" />
         <mark key="^" line="184" column="27" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Controller/Statistics/InTimeController.php" timestamp="1534571567602">
@@ -206,8 +206,8 @@
       <jump line="39" column="10" filename="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/CacheStatServiceImpl.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">c3RhcnQg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGVjaG8gJChDb2xvcl9UZXh0ICIkMSIgIjMyIikK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">c3RhcnQg</text>
@@ -219,31 +219,31 @@
         <text encoding="base64">ICAgICAgICAkc3RhcnQgPSAkc3RhcnQtPmdldFRpbWVzdGFtcCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVjaG8gJChDb2xvcl9UZXh0ICIkMSIgIjMyIikK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkcXVlcnktPnNldFBhcmFtZXRlcigxLCAkc3RhcnQpOwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAkcXVlcnktPnNldFBhcmFtZXRlcigxLCAkc3RhcnQpOwo=</text>
+      </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICk7Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">LyoqCiAgICAgKiDojrflj5bmjIflrprml7bpl7TmrrXnmoTor7fmsYLmlbDmja4s5oyH5a6a6Ze06ZqUCiAgICAgKgogICAgICogQHBhcmFtICRzdGFydCBcRGF0ZVRpbWUg5byA5aeL5pe26Ze0CiAgICAgKiBAcGFyYW0gJGVuZCBcRGF0ZVRpbWUg57uT5p2f5pe26Ze0CiAgICAgKiBAcGFyYW0gJGludGVydmFsIGludCDml7bpl7Tpl7TpmpQs5Y2V5L2N56eSCiAgICAgKiBAcGFyYW0gJHR5cGUgc3RyaW5nIOafpeivouexu+WeiyBhcGksYXBwbGljYXRpb24sY2F0ZWdvcnksc3Vic2NyaWJlcix1c2VyQXBwTGluawogICAgICogQHBhcmFtICRjcml0ZXJpYSBhcnJheSDmn6Xor6LmnaHku7YKICAgICAqCiAgICAgKiDmn6Xor6Llhajpg6g6IFsndHlwZScgPT4gJ2FsbCddOwogICAgICog5p+l6K+i5oyH5a6a57G75Z6LOiBbJ3R5cGUnPT4naWQnLCdvcHQnID0+IFsxLDJdXTsKICAgICAqIOaOkuW6j+afpeivojogWyd0eXBlJz0+J3NvcnQnLCdvcHQnID0+IFsnc29ydCc9Pid0b3RhbENvdW50JywnZGlyJz0+dHJ1ZSwnbGltaXQnPT4xMF1dCiAgICAgKiDlpoJ0eXBl5Li6YXBwbGljYXRpb24sJGNyaXRlcmlh5Li6dHJ1ZSzliJnmn6Xor6LmiYDmnInlupTnlKjmlbDmja4KICAgICAqCiAgICAgKiBAcGFyYW0gJGZpbHRlciBhcnJheSAg6L+H5ruk5p2h5Lu2LOafpeivouaMh+WumuadoeS7tuS4i+eahOaVsOaNrizmr5TlpoLmn6Xor6LmjIflrprnlKjmiLfkuIvnmoTlupTnlKjorr/pl67mlbDmja4KICAgICAqIEByZXR1cm4gYXJyYXkKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldEludGVydmFsVHJlbmQoJHN0YXJ0LCAkZW5kLCAkaW50ZXJ2YWwsICR0eXBlLCAkY3JpdGVyaWEsICRmaWx0ZXIgPSBhcnJheSgp</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkZGFpbHkgPSAkdGhpcy0+YXBpU3RhdERheVNlcnZpY2UtPmdldEhvbWVUcmVuZCgkc3RhcnQsICRtaWRuaWdodCk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdG9kYXkgPSAkdGhpcy0+YXBpTWVzc2FnZVNlcnZpY2UtPmdldEhvbWVUcmVuZCgkbWlkbmlnaHQsICRlbmQpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkY2hhcnQgPSAkdGhpcy0+YXBpTWVzc2FnZVNlcnZpY2UtPmdldEhvbWVUcmVuZCgkc3RhcnQsICRlbmQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdG9kYXkgPSAkdGhpcy0+YXBpTWVzc2FnZVNlcnZpY2UtPmdldEhvbWVUcmVuZCgkbWlkbmlnaHQsICRlbmQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/EMPTY_KEYS/COUNT_EMPTY_KEYS</text>
