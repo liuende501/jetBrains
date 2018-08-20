@@ -108,16 +108,16 @@
         <mark key="^" line="431" column="18" />
         <mark key="." line="451" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534753937941">
+      <file name="/Dummy.txt" timestamp="1534765481860">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/consumer.sh" timestamp="1534753755720">
-        <mark key="[" line="184" column="0" />
-        <mark key="]" line="184" column="0" />
-        <mark key="." line="184" column="0" />
-        <mark key="^" line="184" column="12" />
+      <file name="$USER_HOME$/www/dhccam-2.0/consumer.sh" timestamp="1534765466569">
+        <mark key="[" line="186" column="46" />
+        <mark key="]" line="188" column="77" />
+        <mark key="." line="188" column="77" />
+        <mark key="^" line="188" column="77" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Controller/Statistics/InTimeController.php" timestamp="1534571567602">
         <mark key="[" line="186" column="49" />
