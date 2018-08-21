@@ -44,6 +44,12 @@
         <mark key="]" line="96" column="13" />
         <mark key="." line="96" column="13" />
       </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/TokenServiceImpl.php" timestamp="1534831480271">
+        <mark key="[" line="139" column="5" />
+        <mark key="]" line="243" column="19" />
+        <mark key="^" line="243" column="19" />
+        <mark key="." line="243" column="19" />
+      </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/RabbitMQBundle/Command/SwooleConsumerCommand.php" timestamp="1534494203248">
         <mark key="'" line="65" column="36" />
         <mark key="[" line="65" column="36" />
@@ -97,7 +103,7 @@
         <mark key="." line="1773" column="11" />
         <mark key="^" line="1773" column="11" />
       </file>
-      <file name="/PHP Console" timestamp="1534830107924">
+      <file name="/PHP Console" timestamp="1534831860204">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatServiceImpl.php" timestamp="1534816378696">
@@ -117,7 +123,8 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Repository/ApiMessageRepository.php" timestamp="1534823580083">
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Security/TokenAuthenticator.php" timestamp="1534831319848" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Repository/ApiMessageRepository.php" timestamp="1534831678678">
         <mark key="[" line="72" column="106" />
         <mark key="]" line="72" column="88" />
         <mark key="^" line="72" column="88" />
@@ -164,6 +171,7 @@
         <mark key="^" line="1297" column="11" />
         <mark key="." line="1297" column="11" />
       </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/Controller/GatewayController.php" timestamp="1534831583981" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/ApiMessageService.php" timestamp="1534610036855">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -190,6 +198,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/TokenService.php" timestamp="1534831356654" />
     </filemarks>
     <jumps>
       <jump line="123" column="49" filename="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Service/Impl/AllocationServiceImpl.php" />
