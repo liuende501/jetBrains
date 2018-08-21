@@ -10,6 +10,7 @@
         <mark key="^" line="222" column="61" />
         <mark key="." line="189" column="0" />
       </file>
+      <file name="$USER_HOME$/www/ihospital/qy_web/src/WebBundle/Service/Pexip/PexipVideoUtil.php" timestamp="1534835894636" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/BaseStatService.php" timestamp="1534610019136">
         <mark key="[" line="41" column="96" />
         <mark key="]" line="35" column="22" />
@@ -130,10 +131,10 @@
         <mark key="^" line="72" column="88" />
         <mark key="." line="72" column="88" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534834507059">
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
+      <file name="/Dummy.txt" timestamp="1534835758517">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/var/logs/doctrine/doctrine-2018-08-20.log" timestamp="1534774280169">
         <mark key="[" line="0" column="0" />
@@ -146,11 +147,11 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/consumer.sh" timestamp="1534765466569">
-        <mark key="[" line="186" column="46" />
-        <mark key="]" line="188" column="77" />
-        <mark key="." line="188" column="77" />
-        <mark key="^" line="188" column="77" />
+      <file name="$USER_HOME$/www/dhccam-2.0/consumer.sh" timestamp="1534835750369">
+        <mark key="[" line="113" column="49" />
+        <mark key="]" line="113" column="47" />
+        <mark key="." line="113" column="47" />
+        <mark key="^" line="113" column="47" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Controller/Statistics/InTimeController.php" timestamp="1534571567602">
         <mark key="[" line="186" column="49" />
@@ -248,10 +249,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IOS/ruaUuXJlZGlz5a2Y5YKo5raI5oGv5pe26Ze05Li6MzDliIbpkp8=</text>
+        <text>过滤子消息为null的数据</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IOS/ruaUuXJlZGlz5a2Y5YKo5raI5oGv5pe26Ze05Li6MzDliIbpkp8=</text>
+        <text>过滤子消息为null的数据</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGQUlMX0tFWVw+</text>
