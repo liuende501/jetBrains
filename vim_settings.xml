@@ -10,7 +10,6 @@
         <mark key="^" line="222" column="61" />
         <mark key="." line="189" column="0" />
       </file>
-      <file name="$USER_HOME$/www/ihospital/qy_web/src/WebBundle/Service/Pexip/PexipVideoUtil.php" timestamp="1534844381973" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/BaseStatService.php" timestamp="1534610019136">
         <mark key="[" line="41" column="96" />
         <mark key="]" line="35" column="22" />
@@ -104,14 +103,14 @@
         <mark key="." line="1773" column="11" />
         <mark key="^" line="1773" column="11" />
       </file>
-      <file name="/PHP Console" timestamp="1534851426740">
+      <file name="/PHP Console" timestamp="1534860368055">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/paycenter/trunk/application/modules/Pay/controllers/Paygateway.php" timestamp="1534850215084">
-        <mark key="[" line="837" column="61" />
-        <mark key="]" line="837" column="62" />
-        <mark key="." line="837" column="62" />
-        <mark key="^" line="837" column="62" />
+      <file name="$USER_HOME$/www/paycenter/trunk/application/modules/Pay/controllers/Paygateway.php" timestamp="1534859979534">
+        <mark key="[" line="840" column="19" />
+        <mark key="]" line="840" column="45" />
+        <mark key="." line="840" column="45" />
+        <mark key="^" line="840" column="45" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatServiceImpl.php" timestamp="1534816378696">
         <mark key="'" line="227" column="4" />
@@ -130,9 +129,11 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Security/TokenAuthenticator.php" timestamp="1534831319848" />
-      <file name="$USER_HOME$/www/paycenter/trunk/application/library/QrcodeUtil.php" timestamp="1534848334486">
-        <mark key="[" line="60" column="30" />
+      <file name="$USER_HOME$/www/paycenter/trunk/application/library/QrcodeUtil.php" timestamp="1534859197396">
+        <mark key="[" line="60" column="27" />
+        <mark key="]" line="60" column="27" />
+        <mark key="." line="60" column="27" />
+        <mark key="^" line="60" column="26" />
       </file>
       <file name="$USER_HOME$/www/ihospital/qy_web/liuende/test.php" timestamp="1534843291794">
         <mark key="[" line="53" column="6" />
@@ -161,13 +162,16 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="2" column="16" />
       </file>
+      <file name="$USER_HOME$/www/paycenter/trunk/application/library/phpqrcode/phpqrcode.php" timestamp="1534859031865">
+        <mark key="[" line="3293" column="23" />
+        <mark key="]" line="3293" column="39" />
+      </file>
       <file name="$USER_HOME$/www/dhccam-2.0/consumer.sh" timestamp="1534835750369">
         <mark key="[" line="113" column="49" />
         <mark key="]" line="113" column="47" />
         <mark key="." line="113" column="47" />
         <mark key="^" line="113" column="47" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Service/Impl/ApiMessageServiceImpl.php" timestamp="1534851164027" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Controller/Statistics/InTimeController.php" timestamp="1534571567602">
         <mark key="[" line="186" column="49" />
         <mark key="]" line="0" column="0" />
@@ -180,6 +184,14 @@
         <mark key="^" line="145" column="54" />
         <mark key="." line="145" column="54" />
       </file>
+      <file name="$USER_HOME$/www/ihospital/qy_web/src/WebBundle/Controller/business/login/LoginController.php" timestamp="1534859141410">
+        <mark key="[" line="238" column="0" />
+        <mark key="]" line="238" column="23" />
+      </file>
+      <file name="$USER_HOME$/www/ihospital/qy_web/src/WebBundle/Resources/views/assist/pages/patientlogin.html.twig" timestamp="1534859183921">
+        <mark key="[" line="101" column="50" />
+        <mark key="]" line="101" column="71" />
+      </file>
       <file name="$USER_HOME$/www/dhccam-2.0/liuende/test.php" timestamp="1534842090973">
         <mark key="'" line="1262" column="0" />
         <mark key="[" line="289" column="8" />
@@ -187,7 +199,6 @@
         <mark key="^" line="1297" column="11" />
         <mark key="." line="289" column="8" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/Controller/GatewayController.php" timestamp="1534831583981" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/ApiMessageService.php" timestamp="1534610036855">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -214,7 +225,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/TokenService.php" timestamp="1534831356654" />
     </filemarks>
     <jumps>
       <jump line="123" column="49" filename="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Service/Impl/AllocationServiceImpl.php" />
@@ -264,16 +274,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>QrcodeUtil::generateQrCode(false, $codeUrl,'',false,5)</text>
+        <text>'data:image/png;base64,'.</text>
       </register>
       <register name="-" type="4">
-        <text>,JSON_UNESCAPED_UNICODE)</text>
+        <text>'data:image/png;base64,'.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGQUlMX0tFWVw+</text>
       </register>
       <register name="0" type="4">
-        <text>QrcodeUtil::generateQrCode(false, $codeUrl,'',false,5)</text>
+        <text>data:image/png;base64,</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBMb2c6Om91dCgnUGF5Z2F0ZXdheScsJ0knLCdbJy5fX01FVEhPRF9fLiddICA6ICcuUXJjb2RlVXRpbDo6Z2VuZXJhdGVRckNvZGUoZmFsc2UsICRjb2RlVXJsLCcnLGZhbHNlLDUpKTsK</text>
