@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/www/dhccam-2.0/sync.sh" timestamp="1535020377135">
+        <mark key="[" line="9" column="65" />
+        <mark key="]" line="10" column="19" />
+        <mark key="." line="10" column="19" />
+        <mark key="^" line="10" column="19" />
+      </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiMessageServiceImpl.php" timestamp="1535016073575">
         <mark key="'" line="23" column="0" />
         <mark key="^" line="81" column="8" />
@@ -42,11 +48,11 @@
         <mark key="^" line="95" column="64" />
         <mark key="." line="95" column="64" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/app/config/parameters.yml" timestamp="1535019172195">
-        <mark key="[" line="4" column="28" />
-        <mark key="]" line="5" column="22" />
-        <mark key="^" line="5" column="22" />
-        <mark key="." line="5" column="22" />
+      <file name="$USER_HOME$/www/dhccam-2.0/app/config/parameters.yml" timestamp="1535020001735">
+        <mark key="[" line="6" column="32" />
+        <mark key="]" line="6" column="33" />
+        <mark key="^" line="6" column="33" />
+        <mark key="." line="6" column="33" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/gitbranch" timestamp="1535016992208">
         <mark key="[" line="0" column="0" />
@@ -136,11 +142,11 @@
         <mark key="]" line="29" column="21" />
         <mark key="." line="29" column="21" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/.gitignore" timestamp="1535018649090">
+      <file name="$USER_HOME$/www/dhccam-2.0/.gitignore" timestamp="1535020468718">
         <mark key="[" line="20" column="18" />
-        <mark key="]" line="21" column="6" />
-        <mark key="^" line="21" column="6" />
-        <mark key="." line="21" column="6" />
+        <mark key="]" line="22" column="6" />
+        <mark key="^" line="22" column="6" />
+        <mark key="." line="22" column="6" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/ApiStatTimeService.php" timestamp="1534610007068">
         <mark key="[" line="27" column="97" />
@@ -207,7 +213,7 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535019374668">
+      <file name="/Dummy.txt" timestamp="1535020914211">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -285,10 +291,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>123.56.26.41</text>
+        <text>{/.git,/var/cache/*,/var/logs/*,/web/bundles/*}</text>
       </register>
       <register name="-" type="4">
-        <text>123.56.26.41</text>
+        <text>{/.git,/var/cache/*,/var/logs/*,/web/bundles/*}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGQUlMX0tFWVw+</text>
