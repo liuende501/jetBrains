@@ -123,6 +123,12 @@
         <mark key="." line="113" column="47" />
         <mark key="^" line="113" column="47" />
       </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/liuende/soap.php" timestamp="1535079197218">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="15" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Controller/Statistics/InTimeController.php" timestamp="1535017134727">
         <mark key="[" line="186" column="49" />
         <mark key="]" line="0" column="0" />
@@ -212,7 +218,7 @@
         <mark key="^" line="25" column="1" />
         <mark key="." line="25" column="1" />
       </file>
-      <file name="/PHP Console" timestamp="1535078972237">
+      <file name="/PHP Console" timestamp="1535079189710">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/liuende/dhccam/config_dev.yml" timestamp="1535016635401">
@@ -309,8 +315,8 @@
       <jump line="44" column="23" filename="$USER_HOME$/www/dhccam-2.0/branches.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGhvc3Q6IDEyNy4wLjAuMQogICAgICAgICAgICAgICAgcG9ydDogNjM3OQogICAgICAgICAgICAgICAgcGFzc3dvcmQ6IERIQ0Nqa2wyMDE2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">JGNsaWVudCA9IG5ldyBTb2FwQ2xpZW50KFdFQl9VUkwsJG9wdGlvbnMpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>default_redis</text>
@@ -321,8 +327,8 @@
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgICAgIGlmICgkc2VydmVyLT5pc0lzTG9jYWwoKSkgewo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGhvc3Q6IDEyNy4wLjAuMQogICAgICAgICAgICAgICAgcG9ydDogNjM3OQogICAgICAgICAgICAgICAgcGFzc3dvcmQ6IERIQ0Nqa2wyMDE2</text>
+      <register name="1" type="2">
+        <text encoding="base64">JGNsaWVudCA9IG5ldyBTb2FwQ2xpZW50KFdFQl9VUkwsJG9wdGlvbnMpOwo=</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGhvc3Q6IDEyNy4wLjAuMQogICAgICAgICAgICAgICAgcG9ydDogNjM3OQogICAgICAgICAgICAgICAgcGFzc3dvcmQ6IERIQ0Nqa2wyMDE2</text>
@@ -331,24 +337,24 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGhvc3Q6IDEyNy4wLjAuMQogICAgICAgICAgICAgICAgcG9ydDogNjM3OQogICAgICAgICAgICAgICAgcGFzc3dvcmQ6IERIQ0Nqa2wyMDE2</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhvc3Q6IDEyNy4wLjAuMQogICAgICAgICAgICAgICAgcG9ydDogNjM3OQogICAgICAgICAgICAgICAgcGFzc3dvcmQ6IERIQ0Nqa2wyMDE2</text>
+      </register>
+      <register name="5" type="4">
         <text>host: 127.0.0.1
                 port: 6379
                 password: DHCCjkl2016</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGhvc3Q6IDEyNy4wLjAuMQogICAgICAgICAgICAgICAgcG9ydDogNjM3OQogICAgICAgICAgICAgICAgcGFzc3dvcmQ6IERIQ0Nqa2wyMDE2</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICBob3N0OiAxMjcuMC4wLjEKICAgICAgICAgICAgICAgIHBvcnQ6IDYzNzkKICAgICAgICAgICAgICAgIHBhc3N3b3JkOiBESENDamtsMjAxNg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">cnN5bmMgLWEgLS1leGNsdWRlPXsvLmdpdCwvdmFyLyosL3dlYi9idW5kbGVzLyosL2xpdWVuZGUsL3NyYy9BZG1pbkJ1bmRsZS9Tb2FwSW5pdC8qfSAgJHNvdXIgJGRlc3QK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZGVzdFNlcnZlcj1yb290QDE5Mi4xNjguOS4xNTokcHJvamVjdFNlcnZlcgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJvamVjdFNlcnZlcj0vaG9tZS93d3dyb290L2RoY2NhbS1zZXJ2ZXIK</text>
+        <text encoding="base64">ZGVzdFNlcnZlcj1yb290QDE5Mi4xNjguOS4xNTokcHJvamVjdFNlcnZlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
