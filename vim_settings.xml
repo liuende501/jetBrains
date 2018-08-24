@@ -127,10 +127,10 @@
         <mark key="^" line="145" column="54" />
         <mark key="." line="145" column="54" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/app/config/config.yml" timestamp="1535016565591">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/www/dhccam-2.0/app/config/config.yml" timestamp="1535074106556">
+        <mark key="[" line="17" column="8" />
+        <mark key="]" line="17" column="8" />
+        <mark key="." line="17" column="8" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/ApiMessageService.php" timestamp="1534610036855">
         <mark key="[" line="23" column="0" />
@@ -300,11 +300,11 @@
       <jump line="44" column="23" filename="$USER_HOME$/www/dhccam-2.0/branches.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGlmICgkc2VydmVyLT5pc0lzTG9jYWwoKSkgewo=</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>serviceConfig</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGQUlMX0tFWVw+</text>
