@@ -44,6 +44,7 @@
         <mark key="^" line="95" column="64" />
         <mark key="." line="95" column="64" />
       </file>
+      <file name="$USER_HOME$/www/demo/work/wsdlgenerator/composer.json" timestamp="1535080431368" />
       <file name="$USER_HOME$/www/dhccam-2.0/app/config/parameters.yml" timestamp="1535041462233">
         <mark key="[" line="4" column="25" />
         <mark key="]" line="6" column="33" />
@@ -184,7 +185,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/vendor/dhcmediway/wsdl2phpgenerator/src/Generator.php" timestamp="1535078970785" />
+      <file name="$USER_HOME$/www/dhccam-2.0/vendor/dhcmediway/wsdl2phpgenerator/src/Generator.php" timestamp="1535080346566" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/BaseStatService.php" timestamp="1534610019136">
         <mark key="[" line="41" column="96" />
         <mark key="]" line="35" column="22" />
@@ -218,7 +219,7 @@
         <mark key="^" line="25" column="1" />
         <mark key="." line="25" column="1" />
       </file>
-      <file name="/PHP Console" timestamp="1535079189710">
+      <file name="/PHP Console" timestamp="1535080540500">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/liuende/dhccam/config_dev.yml" timestamp="1535016635401">
@@ -253,6 +254,11 @@
         <mark key="]" line="3" column="26" />
         <mark key="." line="3" column="26" />
         <mark key="^" line="3" column="26" />
+      </file>
+      <file name="$USER_HOME$/www/demo/work/wsdlgenerator/src/main.php" timestamp="1535080716421">
+        <mark key="[" line="8" column="19" />
+        <mark key="]" line="8" column="19" />
+        <mark key="." line="8" column="19" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/app/config/config_dev.yml" timestamp="1535042208134">
         <mark key="[" line="25" column="0" />
@@ -315,11 +321,11 @@
       <jump line="44" column="23" filename="$USER_HOME$/www/dhccam-2.0/branches.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">JGNsaWVudCA9IG5ldyBTb2FwQ2xpZW50KFdFQl9VUkwsJG9wdGlvbnMpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>http://202.110.70.57:8080/dthealth/web/MHC.PublicService.cls?wsdl</text>
       </register>
       <register name="-" type="4">
-        <text>default_redis</text>
+        <text>http://202.110.70.57:8080/dthealth/web/MHC.PublicService.cls?wsdl</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGQUlMX0tFWVw+</text>
