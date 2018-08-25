@@ -6,6 +6,12 @@
       <file name="$USER_HOME$/www/demo/work/wsdlgeneold/src/soap.php" timestamp="1535188011497">
         <mark key="[" line="10" column="39" />
       </file>
+      <file name="$USER_HOME$/www/demo/work/wsdlgenerator/vendor/dhcmediway/wsdl2phpgenerator/src/Xml/WsdlDocument.php" timestamp="1535176269439">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="49" />
+        <mark key="^" line="44" column="48" />
+        <mark key="." line="45" column="0" />
+      </file>
       <file name="$USER_HOME$/www/dhccam-2.0/ydyy.sh" timestamp="1535016027349">
         <mark key="[" line="17" column="7" />
       </file>
@@ -17,8 +23,6 @@
       <file name="/a.dummy" timestamp="1535182991931">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/SoapRequest.php" timestamp="1535180648653" />
-      <file name="$USER_HOME$/www/demo/work/wsdlgenerator/composer.json" timestamp="1535182172548" />
       <file name="$USER_HOME$/www/dhccam-2.0/vendor/dhcmediway/wsdl2phpgenerator/src/Method.php" timestamp="1535179252102">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -29,69 +33,7 @@
         <mark key="]" line="59" column="48" />
         <mark key="." line="59" column="48" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/document/包管理.md" timestamp="1535176573616">
-        <mark key="[" line="8" column="59" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="1" column="12" />
-      </file>
-      <file name="$USER_HOME$/www/demo/work/wsdlgenerator/src/output/HospitalExamIndexWsServiceService.php" timestamp="1535193377558">
-        <mark key="[" line="47" column="41" />
-      </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/composer.json" timestamp="1535175861146" />
-      <file name="$USER_HOME$/www/demo/work/wsdlgenerator/vendor/dhcmediway/wsdl2phpgenerator/src/Generator.php" timestamp="1535187426455">
-        <mark key="[" line="403" column="53" />
-        <mark key="]" line="403" column="53" />
-        <mark key="^" line="164" column="37" />
-        <mark key="." line="403" column="53" />
-      </file>
-      <file name="$USER_HOME$/www/demo/work/wsdlgenerator/src/request.php" timestamp="1535190851738">
-        <mark key="[" line="13" column="2" />
-        <mark key="]" line="13" column="2" />
-        <mark key="." line="13" column="2" />
-      </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Controller/Tests/SoapController.php" timestamp="1535182820321">
-        <mark key="[" line="44" column="20" />
-        <mark key="]" line="44" column="20" />
-        <mark key="." line="44" column="20" />
-        <mark key="^" line="44" column="24" />
-      </file>
-      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/soap/soap.php" timestamp="1535193206919" />
-      <file name="$USER_HOME$/www/dhccam-2.0/liuende/soap.php" timestamp="1535092978277">
-        <mark key="[" line="11" column="34" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/demo/work/wsdlgenerator/src/soap.php" timestamp="1535189445554">
-        <mark key="[" line="27" column="25" />
-        <mark key="]" line="27" column="25" />
-        <mark key="." line="27" column="25" />
-      </file>
-      <file name="$USER_HOME$/www/demo/work/wsdlgenerator/vendor/dhcmediway/wsdl2phpgenerator/src/ComplexType.php" timestamp="1535186092681" />
-      <file name="$USER_HOME$/www/dhccam-2.0/app/config/config.yml" timestamp="1535175983451">
-        <mark key="[" line="108" column="34" />
-        <mark key="]" line="108" column="27" />
-        <mark key="." line="108" column="27" />
-        <mark key="^" line="108" column="27" />
-      </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/merge.sh" timestamp="1535016529871">
-        <mark key="[" line="29" column="21" />
-        <mark key="]" line="29" column="21" />
-        <mark key="." line="29" column="21" />
-      </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/BusinessProcess/BusinessProcess.php" timestamp="1535182790907">
-        <mark key="[" line="69" column="77" />
-      </file>
-      <file name="$USER_HOME$/www/demo/work/wsdlgenerator/src/output/hospitalExamIndexRequest.php" timestamp="1535187905507" />
-      <file name="$USER_HOME$/www/demo/work/wsdlgenerator/vendor/dhcmediway/wsdl2phpgenerator/src/Xml/WsdlDocument.php" timestamp="1535176269439">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="49" />
-        <mark key="^" line="44" column="48" />
-        <mark key="." line="45" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/README.md" timestamp="1535175418001" />
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/SoapInit/SoapInit5b810181ce55d/HospitalExamIndexWsServiceService.php" timestamp="1535184189035" />
-      <file name="/PHP Console" timestamp="1535189446681">
+      <file name="/PHP Console" timestamp="1535198589777">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -102,24 +44,65 @@
         <mark key="^" line="54" column="23" />
         <mark key="." line="66" column="0" />
       </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/document/包管理.md" timestamp="1535176573616">
+        <mark key="[" line="8" column="59" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="1" column="12" />
+      </file>
+      <file name="$USER_HOME$/www/demo/work/wsdlgenerator/src/output/HospitalExamIndexWsServiceService.php" timestamp="1535196961007">
+        <mark key="[" line="47" column="41" />
+      </file>
       <file name="$USER_HOME$/www/demo/work/wsdlgenerator/vendor/dhcmediway/wsdl2phpgenerator/src/Method.php" timestamp="1535175135112">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
+      <file name="$USER_HOME$/www/demo/work/wsdlgenerator/vendor/dhcmediway/wsdl2phpgenerator/src/Generator.php" timestamp="1535187426455">
+        <mark key="[" line="403" column="53" />
+        <mark key="]" line="403" column="53" />
+        <mark key="^" line="164" column="37" />
+        <mark key="." line="403" column="53" />
+      </file>
+      <file name="$USER_HOME$/www/demo/work/wsdlgenerator/src/request.php" timestamp="1535199052253">
+        <mark key="[" line="23" column="53" />
+        <mark key="]" line="23" column="53" />
+        <mark key="." line="23" column="53" />
+      </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Controller/Tests/SoapController.php" timestamp="1535182820321">
+        <mark key="[" line="44" column="20" />
+        <mark key="]" line="44" column="20" />
+        <mark key="." line="44" column="20" />
+        <mark key="^" line="44" column="24" />
+      </file>
       <file name="/Dummy.txt" timestamp="1535182219609">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/demo/work/wsdlgeneold/src/output/voRequest.php" timestamp="1535187677835" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/SoapInit/SoapInit5b1772ca64ce7/PublicService.php" timestamp="1535199377882" />
       <file name="/fragment.php" timestamp="1535173118701">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/var/logs/dev-2018-08-25.log" timestamp="1535178570690" />
+      <file name="$USER_HOME$/www/dhccam-2.0/liuende/soap.php" timestamp="1535092978277">
+        <mark key="[" line="11" column="34" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/demo/work/wsdlgenerator/src/soap.php" timestamp="1535197310228">
+        <mark key="[" line="27" column="48" />
+        <mark key="]" line="27" column="25" />
+        <mark key="." line="27" column="25" />
+      </file>
       <file name="$USER_HOME$/www/demo/work/wsdlgenerator/src/main.php" timestamp="1535188848183">
         <mark key="[" line="52" column="38" />
         <mark key="]" line="52" column="38" />
         <mark key="." line="52" column="38" />
         <mark key="^" line="11" column="18" />
+      </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/app/config/config.yml" timestamp="1535175983451">
+        <mark key="[" line="108" column="34" />
+        <mark key="]" line="108" column="27" />
+        <mark key="." line="108" column="27" />
+        <mark key="^" line="108" column="27" />
       </file>
       <file name="$USER_HOME$/www/demo/work/wsdlgenerator/vendor/dhcmediway/wsdl2phpgenerator/src/Location.php" timestamp="1535173669776">
         <mark key="[" line="57" column="0" />
@@ -132,8 +115,14 @@
         <mark key="^" line="72" column="43" />
         <mark key="." line="72" column="43" />
       </file>
-      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/curl/curl_d.php" timestamp="1535173520764" />
-      <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/Filter/ApiConfigService.php" timestamp="1535177831313" />
+      <file name="$USER_HOME$/www/dhccam-2.0/merge.sh" timestamp="1535016529871">
+        <mark key="[" line="29" column="21" />
+        <mark key="]" line="29" column="21" />
+        <mark key="." line="29" column="21" />
+      </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/BusinessProcess/BusinessProcess.php" timestamp="1535182790907">
+        <mark key="[" line="69" column="77" />
+      </file>
       <file name="$USER_HOME$/www/demo/work/wsdlgenerator/src/output/WebServiceEntryService.php" timestamp="1535089130255">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -192,10 +181,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAkYXJyYXkgPSBbCiAgICAgICAgJ3BhZ2VObycgPT4gMTEyLAogICAgICAgICdwYWdlU2l6ZScgPT4gMTEsCiAgICAgICAgJ2lkZW50aXR5Q2FyZFZhbHVlJyA9PiAyMjAxMDI4MDMyNTM3MywKICAgICAgICAnZGljQ29udmVydCcgPT4gJ2ZhbHNlMScsCiAgICAgICAgJ25hbWUnID0+ICfph5HlkInmiJAxJywKICAgIF07</text>
+        <text encoding="base64">J2FyZzAnPT5bJ3BhZ2VObyc9PjEsJ2RpY0NvbnZlcnQnPT5mYWxzZSwncGFnZVNpemUnPT4y</text>
       </register>
       <register name="-" type="4">
-        <text>invok</text>
+        <text encoding="base64">J2FyZzAnPT5bJ3BhZ2VObyc9PjEsJ2RpY0NvbnZlcnQnPT5mYWxzZSwncGFnZVNpemUnPT4y</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGQUlMX0tFWVw+</text>
