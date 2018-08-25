@@ -56,10 +56,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/demo/work/wsdlgenerator/src/soap.php" timestamp="1535129471883">
-        <mark key="[" line="30" column="39" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/www/demo/work/wsdlgenerator/src/soap.php" timestamp="1535168060511">
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="7" column="18" />
+        <mark key="." line="7" column="18" />
+        <mark key="^" line="7" column="17" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/app/config/config.yml" timestamp="1535078440724">
         <mark key="[" line="161" column="0" />
@@ -156,17 +157,17 @@
       <jump line="44" column="23" filename="$USER_HOME$/www/dhccam-2.0/branches.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50X3IoJGNsaWVudC0+Xyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>://218.18.233.229:8084/esbcs/WebServiceEntry?wsdl</text>
       </register>
       <register name="-" type="4">
-        <text>'440306','px011','getRegisterDepartmentInfo','{&quot;jgid&quot;:&quot;440306005001&quot;}'</text>
+        <text>://218.18.233.229:8084/esbcs/WebServiceEntry?wsdl</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGQUlMX0tFWVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICRyZXNwb25zZSA9ICRjbGllbnQtPmludm9rZSgnNDQwMzA2JywncHgwMTEnLCdnZXRSZWdpc3RlckRlcGFydG1lbnRJbmZvJywneyJqZ2lkIjoiNDQwMzA2MDA1MDAxIn0nKTsK</text>
+        <text encoding="base64">ZGVmaW5lKCdXRUJfVVJMJywnaHR0cDovLzIxOC4xOC4yMzMuMjI5OjgwODQvZXNiY3MvV2ViU2VydmljZUVudHJ5P3dzZGwnKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaW50X3IoJGNsaWVudC0+Xyk7Cg==</text>
