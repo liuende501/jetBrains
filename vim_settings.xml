@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/www/demo/work/wsdlgenerator/vendor/dhcmediway/wsdl2phpgenerator/src/Type.php" timestamp="1535202463961" />
       <file name="$USER_HOME$/www/demo/work/wsdlgeneold/src/soap.php" timestamp="1535188011497">
         <mark key="[" line="10" column="39" />
       </file>
@@ -35,7 +36,7 @@
         <mark key="]" line="59" column="48" />
         <mark key="." line="59" column="48" />
       </file>
-      <file name="/PHP Console" timestamp="1535201025203">
+      <file name="/PHP Console" timestamp="1535202420963">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -60,7 +61,7 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/www/demo/work/wsdlgenerator/vendor/dhcmediway/wsdl2phpgenerator/src/Generator.php" timestamp="1535201927935">
+      <file name="$USER_HOME$/www/demo/work/wsdlgenerator/vendor/dhcmediway/wsdl2phpgenerator/src/Generator.php" timestamp="1535202222846">
         <mark key="[" line="155" column="115" />
         <mark key="]" line="155" column="115" />
         <mark key="^" line="166" column="37" />
@@ -94,8 +95,8 @@
         <mark key="]" line="27" column="25" />
         <mark key="." line="27" column="25" />
       </file>
-      <file name="$USER_HOME$/www/demo/work/wsdlgenerator/vendor/dhcmediway/wsdl2phpgenerator/src/ComplexType.php" timestamp="1535200743214" />
-      <file name="$USER_HOME$/www/demo/work/wsdlgenerator/src/main.php" timestamp="1535201262418">
+      <file name="$USER_HOME$/www/demo/work/wsdlgenerator/vendor/dhcmediway/wsdl2phpgenerator/src/ComplexType.php" timestamp="1535202363377" />
+      <file name="$USER_HOME$/www/demo/work/wsdlgenerator/src/main.php" timestamp="1535202534207">
         <mark key="[" line="52" column="43" />
         <mark key="]" line="52" column="38" />
         <mark key="." line="52" column="38" />
@@ -118,9 +119,9 @@
         <mark key="^" line="72" column="43" />
         <mark key="." line="72" column="43" />
       </file>
-      <file name="$USER_HOME$/www/demo/work/wsdlgenerator/vendor/dhcmediway/wsdl2phpgenerator/src/Service.php" timestamp="1535201787870">
-        <mark key="'" line="142" column="44" />
-        <mark key="[" line="134" column="5" />
+      <file name="$USER_HOME$/www/demo/work/wsdlgenerator/vendor/dhcmediway/wsdl2phpgenerator/src/Service.php" timestamp="1535202388638">
+        <mark key="'" line="144" column="44" />
+        <mark key="[" line="135" column="5" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/merge.sh" timestamp="1535016529871">
         <mark key="[" line="29" column="21" />
