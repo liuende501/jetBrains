@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/www/dhccam-2.0/sync.sh" timestamp="1535371121735">
+        <mark key="[" line="10" column="131" />
+      </file>
       <file name="$USER_HOME$/www/demo/work/wsdlgeneold/src/soap.php" timestamp="1535188011497">
         <mark key="[" line="10" column="39" />
       </file>
@@ -46,6 +49,9 @@
         <mark key="]" line="59" column="48" />
         <mark key="." line="59" column="48" />
       </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Service/Impl/Wsdl2PhpServiceImpl.php" timestamp="1535370995159">
+        <mark key="[" line="156" column="33" />
+      </file>
       <file name="$USER_HOME$/www/demo/work/wsdlgenerator/src/output/HospitalExamIndexWsServiceService.php" timestamp="1535200217617">
         <mark key="[" line="47" column="41" />
       </file>
@@ -86,13 +92,6 @@
         <mark key="." line="1281" column="21" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Service/Impl/ApplicationServiceImpl.php" timestamp="1535334102924" />
-      <file name="$USER_HOME$/www/demo/work/wsdlgenerator/vendor/dhcmediway/wsdl2phpgenerator/src/Service.php" timestamp="1535207300592">
-        <mark key="'" line="168" column="54" />
-        <mark key="[" line="167" column="33" />
-        <mark key="]" line="167" column="33" />
-        <mark key="^" line="159" column="28" />
-        <mark key="." line="167" column="33" />
-      </file>
       <file name="$USER_HOME$/www/dhccam-2.0/merge.sh" timestamp="1535368364794">
         <mark key="[" line="29" column="21" />
         <mark key="]" line="29" column="21" />
@@ -118,7 +117,7 @@
         <mark key="]" line="125" column="0" />
         <mark key="." line="125" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1535362876552">
+      <file name="/PHP Console" timestamp="1535370301475">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -134,7 +133,7 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535363018471">
+      <file name="/Dummy.txt" timestamp="1535371004461">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/SignGenerator.php" timestamp="1535362069222" />
@@ -146,11 +145,11 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/app/config/config_dev.yml" timestamp="1535360622381">
+      <file name="$USER_HOME$/www/dhccam-2.0/app/config/config_dev.yml" timestamp="1535370621170">
         <mark key="[" line="20" column="25" />
-        <mark key="]" line="80" column="43" />
-        <mark key="^" line="80" column="43" />
-        <mark key="." line="80" column="43" />
+        <mark key="]" line="82" column="43" />
+        <mark key="^" line="82" column="43" />
+        <mark key="." line="82" column="43" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/document/缓存.md" timestamp="1535205775654">
         <mark key="[" line="122" column="24" />
