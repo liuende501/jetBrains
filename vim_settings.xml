@@ -134,6 +134,10 @@
         <mark key="^" line="82" column="43" />
         <mark key="." line="82" column="43" />
       </file>
+      <file name="$USER_HOME$/www/lnmp/install.sh" timestamp="1535529007790">
+        <mark key="[" line="81" column="6" />
+      </file>
+      <file name="$USER_HOME$/www/lnmp/include/version.sh" timestamp="1535529295823" />
       <file name="$USER_HOME$/www/dhccam-2.0/merge.sh" timestamp="1535368364794">
         <mark key="[" line="29" column="21" />
         <mark key="]" line="29" column="21" />
@@ -148,7 +152,7 @@
       <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/Filter/ApiConfigService.php" timestamp="1535205880204">
         <mark key="[" line="271" column="69" />
       </file>
-      <file name="$USER_HOME$/www/lnmp/include/init.sh" timestamp="1535527182706" />
+      <file name="$USER_HOME$/www/lnmp/include/init.sh" timestamp="1535529304612" />
       <file name="$USER_HOME$/www/demo/work/wsdlgenerator/src/output/WebServiceEntryService.php" timestamp="1535089130255">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
