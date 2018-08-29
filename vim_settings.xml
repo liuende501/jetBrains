@@ -58,6 +58,7 @@
       <file name="$USER_HOME$/www/demo/work/wsdlgenerator/src/output/HospitalExamIndexWsServiceService.php" timestamp="1535200217617">
         <mark key="[" line="47" column="41" />
       </file>
+      <file name="$USER_HOME$/www/lnmp/include/redis.sh" timestamp="1535547068479" />
       <file name="$USER_HOME$/www/demo/work/wsdlgenerator/vendor/dhcmediway/wsdl2phpgenerator/src/Generator.php" timestamp="1535207334923">
         <mark key="[" line="173" column="20" />
         <mark key="]" line="173" column="20" />
@@ -69,7 +70,7 @@
         <mark key="]" line="23" column="53" />
         <mark key="." line="23" column="53" />
       </file>
-      <file name="$USER_HOME$/www/lnmp/include/main.sh" timestamp="1535544445108" />
+      <file name="$USER_HOME$/www/lnmp/include/main.sh" timestamp="1535547109126" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Service/Impl/ApiServiceMethodServiceImpl.php" timestamp="1535205876934">
         <mark key="[" line="51" column="8" />
         <mark key="]" line="51" column="8" />
@@ -124,6 +125,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/www/lnmp/addons.sh" timestamp="1535546512436" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/BusinessServer/SoapRequest.php" timestamp="1535333830520">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -152,7 +154,7 @@
         <mark key="^" line="82" column="43" />
         <mark key="." line="82" column="43" />
       </file>
-      <file name="$USER_HOME$/www/lnmp/include/version.sh" timestamp="1535529295823" />
+      <file name="$USER_HOME$/www/lnmp/include/version.sh" timestamp="1535546878023" />
       <file name="$USER_HOME$/www/dhccam-2.0/document/缓存.md" timestamp="1535205775654">
         <mark key="[" line="122" column="24" />
       </file>
