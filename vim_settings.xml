@@ -95,6 +95,7 @@
         <mark key="." line="1281" column="21" />
       </file>
       <file name="$USER_HOME$/www/lnmp/conf/lnmpa" timestamp="1535534700241" />
+      <file name="$USER_HOME$/www/lnmp/include/mysql.sh" timestamp="1535560300671" />
       <file name="$USER_HOME$/www/lnmp/install.sh" timestamp="1535557885171">
         <mark key="[" line="57" column="0" />
       </file>
@@ -106,7 +107,9 @@
       <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/BusinessProcess/BusinessProcess.php" timestamp="1535208109338">
         <mark key="[" line="69" column="77" />
       </file>
-      <file name="$USER_HOME$/www/lnmp/include/init.sh" timestamp="1535535962980" />
+      <file name="$USER_HOME$/www/lnmp/include/init.sh" timestamp="1535561160232">
+        <mark key="[" line="454" column="30" />
+      </file>
       <file name="$USER_HOME$/www/lnmp/include/nginx.sh" timestamp="1535548261173" />
       <file name="$USER_HOME$/www/dhccam-2.0/vendor/dhcmediway/wsdl2phpgenerator/src/Generator.php" timestamp="1535204800564">
         <mark key="[" line="165" column="27" />
