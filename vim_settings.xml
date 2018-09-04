@@ -51,6 +51,7 @@
         <mark key="]" line="59" column="48" />
         <mark key="." line="59" column="48" />
       </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Util/Tools.php" timestamp="1536069159584" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Service/Impl/Wsdl2PhpServiceImpl.php" timestamp="1535370995159">
         <mark key="[" line="156" column="33" />
       </file>
@@ -111,6 +112,7 @@
         <mark key="]" line="167" column="23" />
         <mark key="." line="167" column="23" />
       </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/vendor/dhcmediway/wsdl2phpgenerator/src/Service.php" timestamp="1536068694356" />
       <file name="$USER_HOME$/www/lnmp/install.sh" timestamp="1535557885171">
         <mark key="[" line="57" column="0" />
       </file>
@@ -122,6 +124,7 @@
       <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/BusinessProcess/BusinessProcess.php" timestamp="1535716949335">
         <mark key="[" line="69" column="77" />
       </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/SoapInit/SoapInit5b8d03d8dfd19/voRequest.php" timestamp="1536069774502" />
       <file name="$USER_HOME$/www/lnmp/include/init.sh" timestamp="1535598429701">
         <mark key="[" line="455" column="8" />
         <mark key="]" line="455" column="8" />
@@ -157,18 +160,18 @@
         <mark key="]" line="125" column="0" />
         <mark key="." line="125" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1536068558207">
+      <file name="/PHP Console" timestamp="1536070061711">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/BusinessServer/SoapRequest.php" timestamp="1536067902563" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/BusinessServer/SoapRequest.php" timestamp="1536070022114" />
       <file name="$USER_HOME$/www/demo/work/wsdlgenerator/vendor/dhcmediway/wsdl2phpgenerator/src/Method.php" timestamp="1535175135112">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535729474867">
+      <file name="/Dummy.txt" timestamp="1536070199056">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.php" timestamp="1535173118701">
@@ -249,10 +252,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IFZhcmlhYmxlICRtZW1iZXI=</text>
+        <text>Tools::stClass2Array()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IFZhcmlhYmxlICRtZW1iZXI=</text>
+        <text>Tools::stClass2Array()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGQUlMX0tFWVw+</text>
