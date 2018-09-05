@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/www/dhccam-2.0/sync.sh" timestamp="1535371121735">
         <mark key="[" line="10" column="131" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/Filter/Filter.php" timestamp="1536114283956">
+      <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/Filter/Filter.php" timestamp="1536143036895">
         <mark key="[" line="128" column="45" />
         <mark key="]" line="125" column="0" />
         <mark key="." line="125" column="0" />
@@ -34,6 +34,11 @@
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/TokenServiceImpl.php" timestamp="1535690319181">
         <mark key="[" line="139" column="5" />
       </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/Filter/SignFilter.php" timestamp="1536142529160">
+        <mark key="[" line="78" column="24" />
+        <mark key="]" line="78" column="24" />
+        <mark key="." line="78" column="24" />
+      </file>
       <file name="$USER_HOME$/www/dhccam-2.0/app/config/parameters.yml" timestamp="1536066499012">
         <mark key="[" line="4" column="29" />
       </file>
@@ -54,6 +59,11 @@
         <mark key="[" line="59" column="67" />
         <mark key="]" line="59" column="48" />
         <mark key="." line="59" column="48" />
+      </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Controller/Development/DebugController.php" timestamp="1536143292155">
+        <mark key="[" line="302" column="32" />
+        <mark key="]" line="302" column="32" />
+        <mark key="." line="302" column="32" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Service/Impl/Wsdl2PhpServiceImpl.php" timestamp="1535370995159">
         <mark key="[" line="156" column="33" />
@@ -146,6 +156,7 @@
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Service/Impl/HomeServiceImpl.php" timestamp="1536030534962">
         <mark key="[" line="110" column="37" />
       </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Controller/Tests/UtilController.php" timestamp="1536141938909" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Controller/Statistics/InterfaceController.php" timestamp="1536030530210">
         <mark key="[" line="99" column="53" />
         <mark key="]" line="100" column="55" />
@@ -160,12 +171,12 @@
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/SoapInit/SoapInit5b81605615a23/HospitalExamIndexWsServiceService.php" timestamp="1535206392750">
         <mark key="[" line="48" column="15" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/Filter/SignGenerator.php" timestamp="1535362614245">
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="125" column="0" />
-        <mark key="." line="125" column="0" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/Filter/SignGenerator.php" timestamp="1536141066291">
+        <mark key="[" line="131" column="4" />
+        <mark key="]" line="127" column="0" />
+        <mark key="." line="127" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1536114316014">
+      <file name="/PHP Console" timestamp="1536143046769">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -175,7 +186,7 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536114359423">
+      <file name="/Dummy.txt" timestamp="1536143394968">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.php" timestamp="1535173118701">
@@ -189,6 +200,7 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Controller/Base/AdminController.php" timestamp="1536140717269" />
       <file name="$USER_HOME$/www/dhccam-2.0/document/缓存.md" timestamp="1535205775654">
         <mark key="[" line="122" column="24" />
       </file>
@@ -261,10 +273,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PHJib2R5PjxvcmdpZD5RREZZPC9vcmdpZD48dXNlcmlkPm83QWlKdF9fWG4tdGw3LTBuSFNydkxtSGp4SFU8L3VzZXJpZD48c291cmNlaWQ+aW50ZXN0PC9zb3VyY2VpZD48Y2F0ZWdvcnk+PGFwcGNvZGU+d3hfY2xpZW50PC9hcHBjb2RlPjxhcHB0eXBlPjI8L2FwcHR5cGU+PGJpemNvZGU+UmVnaXN0ZXJFcnI8L2JpemNvZGU+PC9jYXRlZ29yeT48bWVzc2FnZT48L21lc3NhZ2U+PC9yYm9keT4=</text>
+        <text>setHashType($hashType, $hashKey);</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PHJib2R5PjxvcmdpZD5RREZZPC9vcmdpZD48dXNlcmlkPm83QWlKdF9fWG4tdGw3LTBuSFNydkxtSGp4SFU8L3VzZXJpZD48c291cmNlaWQ+aW50ZXN0PC9zb3VyY2VpZD48Y2F0ZWdvcnk+PGFwcGNvZGU+d3hfY2xpZW50PC9hcHBjb2RlPjxhcHB0eXBlPjI8L2FwcHR5cGU+PGJpemNvZGU+UmVnaXN0ZXJFcnI8L2JpemNvZGU+PC9jYXRlZ29yeT48bWVzc2FnZT48L21lc3NhZ2U+PC9yYm9keT4=</text>
+        <text>setHashType($hashType, $hashKey);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGQUlMX0tFWVw+</text>
