@@ -103,7 +103,8 @@
         <mark key="]" line="51" column="8" />
         <mark key="." line="51" column="8" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/SwooleBundle/Command/SwooleCommand.php" timestamp="1536223446615" />
+      <file name="$USER_HOME$/www/dhccam-2.0/consumer.sh" timestamp="1536248496737" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/SwooleBundle/Command/SwooleCommand.php" timestamp="1536247916956" />
       <file name="$USER_HOME$/www/dhccam-2.0/liuende/soap.php" timestamp="1535092978277">
         <mark key="[" line="11" column="34" />
         <mark key="]" line="14" column="0" />
@@ -204,7 +205,7 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/SwooleBundle/Service/Impl/Client.php" timestamp="1536243347481" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/SwooleBundle/Service/Impl/Client.php" timestamp="1536247878104" />
       <file name="$USER_HOME$/www/dhccam-2.0/document/缓存.md" timestamp="1535205775654">
         <mark key="[" line="122" column="24" />
       </file>
@@ -221,8 +222,8 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/SwooleBundle/Server/DaemonServer.php" timestamp="1536243233064">
-        <mark key="[" line="700" column="104" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/SwooleBundle/Server/DaemonServer.php" timestamp="1536248879303">
+        <mark key="[" line="690" column="0" />
         <mark key="]" line="732" column="24" />
         <mark key="^" line="732" column="24" />
         <mark key="." line="732" column="24" />
