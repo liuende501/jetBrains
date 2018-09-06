@@ -179,6 +179,7 @@
         <mark key="]" line="127" column="0" />
         <mark key="." line="127" column="0" />
       </file>
+      <file name="/DaemonServer.php" timestamp="1536243063821" />
       <file name="/PHP Console" timestamp="1536221411186">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -203,7 +204,7 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/SwooleBundle/Service/Impl/Client.php" timestamp="1536222798147" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/SwooleBundle/Service/Impl/Client.php" timestamp="1536243347481" />
       <file name="$USER_HOME$/www/dhccam-2.0/document/缓存.md" timestamp="1535205775654">
         <mark key="[" line="122" column="24" />
       </file>
@@ -220,11 +221,11 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/SwooleBundle/Server/DaemonServer.php" timestamp="1536240944756">
-        <mark key="[" line="287" column="39" />
-        <mark key="]" line="287" column="39" />
-        <mark key="^" line="283" column="0" />
-        <mark key="." line="287" column="39" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/SwooleBundle/Server/DaemonServer.php" timestamp="1536243233064">
+        <mark key="[" line="700" column="104" />
+        <mark key="]" line="732" column="24" />
+        <mark key="^" line="732" column="24" />
+        <mark key="." line="732" column="24" />
       </file>
     </filemarks>
     <jumps>
@@ -282,10 +283,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGVjaG8gIlBJRD17JHJldFsncGlkJ119XG4iOw==</text>
+        <text encoding="base64">IC4gJGV4Y2VwdGlvbi0+Z2V0TWVzc2FnZSgp</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGVjaG8gIlBJRD17JHJldFsncGlkJ119XG4iOw==</text>
+        <text encoding="base64">IC4gJGV4Y2VwdGlvbi0+Z2V0TWVzc2FnZSgp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGQUlMX0tFWVw+</text>
