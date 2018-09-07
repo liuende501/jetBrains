@@ -140,11 +140,11 @@
       <file name="$USER_HOME$/www/lnmp/install.sh" timestamp="1535557885171">
         <mark key="[" line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/merge.sh" timestamp="1536292009605">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="45" column="24" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/www/dhccam-2.0/merge.sh" timestamp="1536293471006">
+        <mark key="[" line="49" column="27" />
+        <mark key="]" line="50" column="43" />
+        <mark key="^" line="50" column="43" />
+        <mark key="." line="50" column="43" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/BusinessProcess/BusinessProcess.php" timestamp="1535716949335">
         <mark key="[" line="69" column="77" />
@@ -205,7 +205,7 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536292087284">
+      <file name="/Dummy.txt" timestamp="1536293297884">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.php" timestamp="1535173118701">
@@ -237,10 +237,9 @@
         <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/SwooleBundle/Server/DaemonServer.php" timestamp="1536250917024">
-        <mark key="[" line="690" column="0" />
-        <mark key="]" line="732" column="24" />
-        <mark key="^" line="732" column="24" />
-        <mark key="." line="732" column="24" />
+        <mark key="]" line="742" column="24" />
+        <mark key="^" line="742" column="24" />
+        <mark key="." line="742" column="24" />
       </file>
     </filemarks>
     <jumps>
@@ -298,7 +297,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vZGV2Cg==</text>
+        <text encoding="base64">ICAgIGdpdCBkaWZmIC0tbWVyZ2VzIG9yaWdpbi9kZXYK</text>
       </register>
       <register name="-" type="4">
         <text>q</text>
@@ -310,31 +309,31 @@
         <text>release-${branch}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vZGV2Cg==</text>
+        <text encoding="base64">ICAgIGdpdCBkaWZmIC0tbWVyZ2VzIG9yaWdpbi9kZXYK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGdpdCBzdGFzaCBwb3AK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vZGV2Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="3" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGdpdCBzdGFzaCBwb3AK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vZGV2Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Z2l0IGRpZmYgb3JnaW4vZGV2Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyDmn6XnnIvliIbmlK/kuI3lkIwK</text>
+        <text encoding="base64">Z2l0IGRpZmYgb3JnaW4vZGV2Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
