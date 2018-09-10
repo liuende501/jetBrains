@@ -56,10 +56,10 @@
         <mark key="]" line="93" column="8" />
         <mark key="." line="93" column="8" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatServiceImpl.php" timestamp="1536560761183">
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatServiceImpl.php" timestamp="1536569142605">
         <mark key="a" line="681" column="87" />
         <mark key="'" line="813" column="13" />
-        <mark key="[" line="811" column="5" />
+        <mark key="[" line="813" column="89" />
         <mark key="]" line="814" column="0" />
         <mark key="." line="814" column="0" />
       </file>
