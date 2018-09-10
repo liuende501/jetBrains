@@ -28,8 +28,8 @@
         <mark key="." line="27" column="35" />
         <mark key="^" line="27" column="35" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Repository/BaseStatRepository.php" timestamp="1536567274409">
-        <mark key="[" line="253" column="46" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Repository/BaseStatRepository.php" timestamp="1536582676790">
+        <mark key="[" line="244" column="40" />
         <mark key="]" line="253" column="9" />
         <mark key="." line="253" column="9" />
       </file>
@@ -67,12 +67,12 @@
         <mark key="]" line="93" column="8" />
         <mark key="." line="93" column="8" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatServiceImpl.php" timestamp="1536577549949">
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatServiceImpl.php" timestamp="1536583050026">
         <mark key="a" line="664" column="87" />
-        <mark key="'" line="796" column="13" />
-        <mark key="[" line="796" column="89" />
-        <mark key="]" line="797" column="0" />
-        <mark key="." line="797" column="0" />
+        <mark key="'" line="794" column="13" />
+        <mark key="[" line="807" column="20" />
+        <mark key="]" line="807" column="20" />
+        <mark key="." line="807" column="20" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/ApiStatDayService.php" timestamp="1536558728980">
         <mark key="[" line="29" column="65" />
@@ -83,12 +83,6 @@
         <mark key="." line="23" column="53" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/vendor/doctrine/orm/lib/Doctrine/ORM/Internal/Hydration/AbstractHydrator.php" timestamp="1536563510315" />
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Service/Impl/ApiServiceServiceImpl.php" timestamp="1536492605047">
-        <mark key="[" line="243" column="17" />
-        <mark key="]" line="243" column="17" />
-        <mark key="." line="243" column="17" />
-        <mark key="^" line="243" column="45" />
-      </file>
       <file name="$USER_HOME$/www/ihospital/qy_web/liuende/test.php" timestamp="1535970065654">
         <mark key="[" line="64" column="37" />
         <mark key="]" line="64" column="37" />
@@ -102,8 +96,8 @@
         <mark key="]" line="23" column="16" />
         <mark key="." line="23" column="16" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Repository/ApiMessageRepository.php" timestamp="1536576659484">
-        <mark key="[" line="124" column="33" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Repository/ApiMessageRepository.php" timestamp="1536582654846">
+        <mark key="[" line="655" column="40" />
         <mark key="]" line="663" column="32" />
         <mark key="." line="663" column="32" />
         <mark key="^" line="663" column="32" />
@@ -176,12 +170,6 @@
         <mark key="]" line="167" column="23" />
         <mark key="." line="167" column="23" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/merge.sh" timestamp="1536545950275">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="^" line="56" column="14" />
-        <mark key="." line="58" column="0" />
-      </file>
       <file name="$USER_HOME$/www/lnmp/include/init.sh" timestamp="1535598429701">
         <mark key="[" line="455" column="8" />
         <mark key="]" line="455" column="8" />
@@ -202,10 +190,10 @@
         <mark key="]" line="111" column="0" />
         <mark key="." line="111" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatTimeServiceImpl.php" timestamp="1536576776448">
-        <mark key="[" line="121" column="42" />
-        <mark key="]" line="176" column="3" />
-        <mark key="." line="176" column="3" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatTimeServiceImpl.php" timestamp="1536582399801">
+        <mark key="[" line="124" column="42" />
+        <mark key="]" line="179" column="3" />
+        <mark key="." line="179" column="3" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/vendor/symfony/symfony/src/Symfony/Component/Debug/ErrorHandler.php" timestamp="1536550043752" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Resources/config/rabbitmq.yml" timestamp="1536471393601">
@@ -213,8 +201,8 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/BaseStatService.php" timestamp="1536558816370">
-        <mark key="[" line="71" column="0" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/BaseStatService.php" timestamp="1536582737963">
+        <mark key="[" line="68" column="38" />
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
@@ -233,7 +221,7 @@
         <mark key="]" line="127" column="0" />
         <mark key="." line="127" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1536577942565">
+      <file name="/PHP Console" timestamp="1536582341793">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -273,10 +261,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/BaseStatServiceImpl.php" timestamp="1536561375926">
-        <mark key="[" line="90" column="18" />
-        <mark key="]" line="90" column="86" />
-        <mark key="." line="90" column="18" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/BaseStatServiceImpl.php" timestamp="1536582770850">
+        <mark key="[" line="85" column="40" />
+        <mark key="]" line="91" column="86" />
+        <mark key="." line="91" column="18" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/var/logs/prod-2018-09-09.log" timestamp="1536477855795">
         <mark key="[" line="1" column="0" />
@@ -408,10 +396,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgJ0RBWSc6CiAgICAgICAgICAgICAgICAgICAgLy8g5pyq5a+55aSW5byA5pS+LOWumuaXtue7n+iuoeaXtuiHquWKqOaJp+ihjAovLyAgICAgICAgICAgICAgICAkdGhpcy0+YXBpU3RhdERheVNlcnZpY2UtPmNyZWF0ZUJ5VGltZVN0YXQoKTsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIGRlZmF1bHQ6CiAgICAgICAgICAgICAgICAgICAgdGhyb3cgbmV3IFN0YXRUb29sRXhjZXB0aW9uKCfml6DmlYjnmoRpbnRlcnZhbCcpOw==</text>
+        <text>getAllTotalCount</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>getAllTotalCount</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGQUlMX0tFWVw+</text>
