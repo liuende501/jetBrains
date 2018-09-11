@@ -3,7 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/www/dhccam-2.0/vendor/doctrine/orm/lib/Doctrine/ORM/Query.php" timestamp="1536565938148" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/Filter/Filter.php" timestamp="1536503184179">
+        <mark key="[" line="123" column="80" />
+      </file>
       <file name="$USER_HOME$/www/demo/work/wsdlgeneold/src/main.php" timestamp="1535187941808">
         <mark key="[" line="52" column="41" />
         <mark key="]" line="52" column="41" />
@@ -19,12 +21,6 @@
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/Filter/SignFilter.php" timestamp="1536502118666">
-        <mark key="[" line="26" column="66" />
-        <mark key="]" line="27" column="35" />
-        <mark key="." line="27" column="35" />
-        <mark key="^" line="27" column="35" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Repository/BaseStatRepository.php" timestamp="1536641563253">
         <mark key="[" line="244" column="40" />
@@ -82,7 +78,6 @@
         <mark key="]" line="23" column="53" />
         <mark key="." line="23" column="53" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/vendor/doctrine/orm/lib/Doctrine/ORM/Internal/Hydration/AbstractHydrator.php" timestamp="1536563510315" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Service/Impl/ApiServiceServiceImpl.php" timestamp="1536492605047">
         <mark key="[" line="243" column="17" />
         <mark key="]" line="243" column="17" />
@@ -93,6 +88,9 @@
         <mark key="[" line="64" column="37" />
         <mark key="]" line="64" column="37" />
         <mark key="." line="64" column="37" />
+      </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/mwb/dhccam-user.sql" timestamp="1536544260653">
+        <mark key="[" line="1364" column="41" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Controller/Development/StatController.php" timestamp="1536639157830">
         <mark key="[" line="24" column="7" />
@@ -110,7 +108,6 @@
         <mark key="]" line="60" column="16" />
         <mark key="." line="60" column="16" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/vendor/doctrine/orm/lib/Doctrine/ORM/EntityManager.php" timestamp="1536562652647" />
       <file name="$USER_HOME$/www/dhccam-2.0/var/logs/doctrine/doctrine-2018-09-08.log" timestamp="1536402774065">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -121,7 +118,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Repository/ApiStatDayRepository.php" timestamp="1536559883382" />
       <file name="$USER_HOME$/www/dhccam-2.0/liuende/soap.php" timestamp="1535092978277">
         <mark key="[" line="11" column="34" />
         <mark key="]" line="14" column="0" />
@@ -145,15 +141,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/EventListener/MessageSubscriber.php" timestamp="1536551643532" />
-      <file name="$USER_HOME$/www/dhccam-2.0/liuende/test.php" timestamp="1536631977678">
-        <mark key="[" line="1354" column="56" />
-        <mark key="]" line="1356" column="0" />
-        <mark key="." line="1356" column="0" />
-        <mark key="^" line="1303" column="5" />
-      </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/DoctrineExtension/EventListener/SoftDeleteableListener.php" timestamp="1536595824912" />
-      <file name="$USER_HOME$/www/dhccam-2.0/vendor/doctrine/orm/lib/Doctrine/ORM/Internal/Hydration/ArrayHydrator.php" timestamp="1536564934346" />
       <file name="$USER_HOME$/www/dhccam-2.0/var/logs/doctrine/doctrine-2018-09-07.log" timestamp="1536309627710">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -216,7 +203,6 @@
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/vendor/symfony/symfony/src/Symfony/Component/Debug/ErrorHandler.php" timestamp="1536550043752" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Resources/config/rabbitmq.yml" timestamp="1536471393601">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -229,6 +215,9 @@
         <mark key="[" line="104" column="0" />
         <mark key="]" line="104" column="0" />
         <mark key="." line="104" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Service/Impl/AdminNormalizerImpl.php" timestamp="1536651123751">
+        <mark key="[" line="30" column="5" />
       </file>
       <file name="$USER_HOME$/www/ihospital/qy_web/app/logs/XmlHelper/20180902.log" timestamp="1535874696635">
         <mark key="[" line="0" column="0" />
@@ -245,7 +234,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Entity/ApiSubMessage.php" timestamp="1536593860104" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/BusinessServer/SoapRequest.php" timestamp="1536479103203">
         <mark key="[" line="100" column="39" />
         <mark key="]" line="100" column="39" />
@@ -265,10 +253,12 @@
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Repository/ApiStatTimeRepository.php" timestamp="1536643598238">
         <mark key="[" line="26" column="34" />
       </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/AdminBundle.php" timestamp="1536651054465">
+        <mark key="[" line="7" column="1" />
+      </file>
       <file name="/Dummy.txt" timestamp="1536645915173">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/vendor/doctrine/orm/lib/Doctrine/ORM/Query/ResultSetMapping.php" timestamp="1536564177587" />
       <file name="$USER_HOME$/www/demo/work/wsdlgenerator/src/main.php" timestamp="1536491662956">
         <mark key="[" line="14" column="18" />
         <mark key="]" line="14" column="18" />
@@ -282,7 +272,6 @@
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Controller/Base/AdminController.php" timestamp="1536552296185">
         <mark key="[" line="142" column="14" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Exception/AMQPRuntimeException.php" timestamp="1536589075021" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/SwooleBundle/Service/Impl/Client.php" timestamp="1536403375821">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -319,7 +308,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/vendor/doctrine/orm/lib/Doctrine/ORM/AbstractQuery.php" timestamp="1536599526729" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Command/StatTool/CreateCommand.php" timestamp="1536640864005">
         <mark key="[" line="82" column="20" />
         <mark key="]" line="53" column="44" />
