@@ -66,10 +66,11 @@
         <mark key="]" line="59" column="48" />
         <mark key="." line="59" column="48" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Controller/Development/DebugController.php" timestamp="1536478337336">
-        <mark key="[" line="302" column="32" />
-        <mark key="]" line="302" column="32" />
-        <mark key="." line="302" column="32" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Controller/Development/DebugController.php" timestamp="1536740217282">
+        <mark key="[" line="47" column="28" />
+        <mark key="]" line="47" column="30" />
+        <mark key="." line="47" column="30" />
+        <mark key="^" line="47" column="30" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Service/Impl/Wsdl2PhpServiceImpl.php" timestamp="1536494884059">
         <mark key="[" line="136" column="54" />
@@ -78,12 +79,6 @@
         <mark key="[" line="93" column="8" />
         <mark key="]" line="93" column="8" />
         <mark key="." line="93" column="8" />
-      </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatServiceImpl.php" timestamp="1536641687464">
-        <mark key="'" line="911" column="27" />
-        <mark key="[" line="895" column="43" />
-        <mark key="]" line="895" column="43" />
-        <mark key="." line="895" column="43" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/ApiStatDayService.php" timestamp="1536558728980">
         <mark key="[" line="29" column="65" />
@@ -233,7 +228,7 @@
         <mark key="]" line="127" column="0" />
         <mark key="." line="127" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1536718192097">
+      <file name="/PHP Console" timestamp="1536740181723">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -300,12 +295,6 @@
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/var/logs/SignGenerator/20180909.log" timestamp="1536502733247">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Command/StatTool/CreateCommand.php" timestamp="1536640864005">
         <mark key="[" line="82" column="20" />
