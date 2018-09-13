@@ -11,10 +11,6 @@
         <mark key="]" line="52" column="41" />
         <mark key="." line="52" column="41" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiMessageServiceImpl.php" timestamp="1536752586366">
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-      </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/CacheStatService.php" timestamp="1535333666813">
         <mark key="[" line="35" column="35" />
         <mark key="]" line="35" column="52" />
@@ -264,6 +260,12 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/src/RabbitMQBundle/RabbitMq/RpcServer.php" timestamp="1536831682421" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/MessageQueue/Consumer/ApiCallServer.php" timestamp="1536831217910">
+        <mark key="[" line="43" column="64" />
+        <mark key="]" line="43" column="64" />
+        <mark key="." line="43" column="64" />
+      </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Repository/ApiStatTimeRepository.php" timestamp="1536643598238">
         <mark key="[" line="26" column="34" />
       </file>
@@ -316,6 +318,7 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/Exception/IllegalSoapCallsException.php" timestamp="1536830890559" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Command/StatTool/CreateCommand.php" timestamp="1536805990873">
         <mark key="[" line="82" column="20" />
         <mark key="]" line="53" column="44" />
@@ -426,10 +429,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgc3dpdGNoICgkaW50ZXJ2YWwpIHsKICAgICAgICAgICAgY2FzZSAnQUxMJzoKICAgICAgICAgICAgY2FzZSAnREFZJzoKICAgICAgICAgICAgY2FzZSAnVElNRSc6CiAgICAgICAgICAgICAgICAkaXNTdWNjZXNzID0gZmFsc2U7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgY2FzZSAnTUVTU0FHRSc6CiAgICAgICAgICAgICAgICAkaXNTdWNjZXNzID0gdHJ1ZTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBkZWZhdWx0OgogICAgICAgICAgICAgICAgCiAgICAgICAgfQ==</text>
+        <text encoding="base64">PmdldFRyYWNlQXNTdHJpbmc=</text>
       </register>
       <register name="-" type="4">
-        <text>start(5);</text>
+        <text encoding="base64">PmdldFRyYWNlQXNTdHJpbmc=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGQUlMX0tFWVw+</text>
