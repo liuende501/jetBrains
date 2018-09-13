@@ -22,10 +22,10 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Command/StatTool/ClearCommand.php" timestamp="1536809119406">
-        <mark key="[" line="39" column="44" />
-        <mark key="]" line="56" column="6" />
-        <mark key="." line="56" column="6" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Command/StatTool/ClearCommand.php" timestamp="1536811824399">
+        <mark key="[" line="162" column="16" />
+        <mark key="]" line="162" column="16" />
+        <mark key="." line="162" column="16" />
         <mark key="^" line="56" column="6" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Repository/BaseStatRepository.php" timestamp="1536809301313">
@@ -92,7 +92,7 @@
         <mark key="." line="9" column="26" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Controller/Development/StatController.php" timestamp="1536752151443" />
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Repository/ApiMessageRepository.php" timestamp="1536809142776">
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Repository/ApiMessageRepository.php" timestamp="1536811030741">
         <mark key="[" line="691" column="5" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
@@ -229,7 +229,7 @@
         <mark key="]" line="127" column="0" />
         <mark key="." line="127" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1536809334454">
+      <file name="/PHP Console" timestamp="1536811846102">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -248,6 +248,9 @@
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Controller/Base/AdminController.php" timestamp="1536810669605">
+        <mark key="[" line="142" column="14" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/SwooleBundle/Service/Impl/Client.php" timestamp="1536403375821">
         <mark key="[" line="0" column="0" />
@@ -389,10 +392,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PGluZm8+Jy4=</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PGluZm8+Jy4=</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGQUlMX0tFWVw+</text>
@@ -400,32 +403,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT5hcGlTdGF0VGltZVNlcnZpY2UtPmNsZWFyQnlSZXF1ZXN0VGltZSggJHN0YXJ0LCAkZW5kLCAkaXNTdWNjZXNzICk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICAkaXNTdWNjZXNzSW5mbyA9ICcg5YWo6YOoICc7CiAgICAgICAgaWYoJGlzU3VjY2Vzcyl7CiAgICAgICAgICAgICRpc1N1Y2Nlc3NJbmZvID0gJyDmiJDlip8nOwogICAgICAgIH0=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRCeVJlcXVlc3RUaW1lKCRzdGFydFRpbWUsJGVuZFRpbWUpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cn0K</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5Yig6Zmk5oyH5a6a5pe26Ze05YmN55qE5raI5oGv6K6w5b2VCiAgICAgKgogICAgICogQHBhcmFtICRzdGFydAogICAgICogQHBhcmFtICRlbmQKICAgICAqIEBwYXJhbSBib29sICRpc1N1Y2Nlc3Mg5piv5ZCm5Y+q5Yig6Zmk5oiQ5Yqf55qECiAgICAgKiBAcmV0dXJuIG1peGVkCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBjbGVhckJ5UmVxdWVzdFRpbWUoJHN0YXJ0LCAkZW5kLCAkaXNTdWNjZXNzID0gdHJ1ZSk7</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRCeVJlcXVlc3RUaW1lKCRzdGFydFRpbWUsJGVuZFRpbWUpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cn0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICAgIHsKICAgICAgICAvKioKICAgICAgICAgKiDmuIXnqbrmlbDmja4KICAgICAgICAgKi8KICAgICAgICBwdWJsaWMgZnVuY3Rpb24gY2xlYXJBbGwoKQ==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog5Yig6Zmk5oyH5a6a5pe26Ze05YmN55qE5raI5oGv6K6w5b2VCiAgICAgKgogICAgICogQHBhcmFtICRzdGFydAogICAgICogQHBhcmFtICRlbmQKICAgICAqIEBwYXJhbSBib29sICRpc1N1Y2Nlc3Mg5piv5ZCm5Y+q5Yig6Zmk5oiQ5Yqf55qECiAgICAgKiBAcmV0dXJuIG1peGVkCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBjbGVhckJ5UmVxdWVzdFRpbWUoJHN0YXJ0LCAkZW5kLCAkaXNTdWNjZXNzID0gdHJ1ZSk7</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5riF56m65pWw5o2uCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBjbGVhckFsbCgpCiAgICB7CiAgICAgICAgJHF1ZXJ5ID0gJHRoaXMtPmNyZWF0ZVF1ZXJ5QnVpbGRlcignYScpCiAgICAgICAgICAgIC0+ZGVsZXRlKCk7CiAgICAgICAgJHF1ZXJ5LT5nZXRRdWVyeSgpLT5leGVjdXRlKCk7CiAgICB9</text>
+        <text encoding="base64">ICAgIHsKICAgICAgICAvKioKICAgICAgICAgKiDmuIXnqbrmlbDmja4KICAgICAgICAgKi8KICAgICAgICBwdWJsaWMgZnVuY3Rpb24gY2xlYXJBbGwoKQ==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT5hcGlTdGF0RGF5U2VydmljZS0+Y2xlYXJBbGwoKTsK</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIC8qKgogICAgICog5riF56m65pWw5o2uCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBjbGVhckFsbCgpCiAgICB7CiAgICAgICAgJHF1ZXJ5ID0gJHRoaXMtPmNyZWF0ZVF1ZXJ5QnVpbGRlcignYScpCiAgICAgICAgICAgIC0+ZGVsZXRlKCk7CiAgICAgICAgJHF1ZXJ5LT5nZXRRdWVyeSgpLT5leGVjdXRlKCk7CiAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
