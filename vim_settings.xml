@@ -287,7 +287,7 @@
       <file name="/Dummy.txt" timestamp="1536900728667">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/logrotate.sh" timestamp="1536917557936" />
+      <file name="$USER_HOME$/www/dhccam-2.0/logrotate.sh" timestamp="1536919361660" />
       <file name="$USER_HOME$/www/dhccam-2.0/var/logs/dev.log" timestamp="1536834792868">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -453,10 +453,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>x</text>
+        <text encoding="base64">ICAgZG9Sb3RhdGUgJGRpcg==</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text encoding="base64">ICAgZG9Sb3RhdGUgJGRpcg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGQUlMX0tFWVw+</text>
