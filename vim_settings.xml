@@ -286,11 +286,11 @@
       <file name="/Dummy.txt" timestamp="1536900728667">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/logrotate.sh" timestamp="1536919575926">
-        <mark key="[" line="36" column="28" />
-        <mark key="]" line="40" column="26" />
-        <mark key="^" line="40" column="26" />
-        <mark key="." line="40" column="26" />
+      <file name="$USER_HOME$/www/dhccam-2.0/logrotate.sh" timestamp="1536920415352">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="51" column="26" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/var/logs/dev.log" timestamp="1536834792868">
         <mark key="[" line="0" column="0" />
@@ -457,7 +457,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>error</text>
+        <text encoding="base64">ICAgICAgICB0eXBlPSR7ZmlsZSUlLip9CiAgICAgICAgY2FzZSAkaW50IGluCiAgICAgICAgICAgIGVycm9yKQogICAgICAgICAgICAgICAgZWNobyAiZXJyb3IiCiAgICAgICAgICAgICAgICBlcnJvcigpCiAgICAgICAgICAgIDs7CiAgICAgICAgICAgIGRlYnVnKQogICAgICAgICAgICAgICAgZWNobyAiZGVidWciCiAgICAgICAgICAgIDs7CiAgICAgICAgZXNhYw==</text>
       </register>
       <register name="-" type="4">
         <text>error</text>
@@ -469,6 +469,12 @@
         <text encoding="base64">ICAgICAgICAgICAgZXJyb3IpCiAgICAgICAgICAgICAgICBlY2hvICJlcnJvciIKICAgICAgICAgICAgOzsK</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICB0eXBlPSR7ZmlsZSUlLip9CiAgICAgICAgY2FzZSAkaW50IGluCiAgICAgICAgICAgIGVycm9yKQogICAgICAgICAgICAgICAgZWNobyAiZXJyb3IiCiAgICAgICAgICAgICAgICBlcnJvcigpCiAgICAgICAgICAgIDs7CiAgICAgICAgICAgIGRlYnVnKQogICAgICAgICAgICAgICAgZWNobyAiZGVidWciCiAgICAgICAgICAgIDs7CiAgICAgICAgZXNhYw==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIGxvY2FsIGVycm9yPSgpCiAgICBsb2NhbCBpbmZvPSgpCiAgICBsb2NhbCBkZWJ1Zz0oKQ==</text>
+      </register>
+      <register name="3" type="4">
         <text>3)
     echo &quot;i am two&quot;
     ;;
@@ -476,30 +482,24 @@
     echo 'i am not one or two'
     ;;</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CiAgICBlY2hvICJpIGFtIG9uZSBvciB0d28iCiAgICAjIOmAgOWHumNhc2U=</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy9kZWJ1Zwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgICAgICAgIC8vIOWPquacieWcqHN5bWZvbnnmqKHlvI/kuLpkZXbml7bovpPlh7pkZWJ1Z+aXpeW/lwogICAgICAgICAgICAgICAgaWYoVG9vbHM6OmlzRGV2KCkpewogICAgICAgICAgICAgICAgICAgIFxTZWFzTG9nOjpkZWJ1Zygkc3RyQ29udGVudCwgW10sICRzdHJGaWxlTmFtZSk7CiAgICAgICAgICAgICAgICB9</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">JHggPSBwaHBpbmZvKCkgCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Ly91bWFzaygwMDAwKTsK</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>// 防止程序死循环
             $preTime = $endTime;</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBuZXN0ZWQ6CiAgICAgICAgICAgIHR5cGU6IHN0cmVhbQogICAgICAgICAgICBwYXRoOiAnJWtlcm5lbC5sb2dzX2RpciUvJWtlcm5lbC5lbnZpcm9ubWVudCUubG9nJwogICAgICAgICAgICBsZXZlbDogZGVidWcK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
