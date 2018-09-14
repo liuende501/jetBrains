@@ -287,6 +287,9 @@
       <file name="/Dummy.txt" timestamp="1536900728667">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/logrotate.sh" timestamp="1536916242793">
+        <mark key="[" line="0" column="19" />
+      </file>
       <file name="$USER_HOME$/www/dhccam-2.0/var/logs/dev.log" timestamp="1536834792868">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
