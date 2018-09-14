@@ -286,11 +286,11 @@
       <file name="/Dummy.txt" timestamp="1536900728667">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/logrotate.sh" timestamp="1536921979878">
-        <mark key="[" line="33" column="43" />
-        <mark key="]" line="33" column="43" />
-        <mark key="^" line="56" column="26" />
-        <mark key="." line="33" column="43" />
+      <file name="$USER_HOME$/www/dhccam-2.0/logrotate.sh" timestamp="1536924311630">
+        <mark key="[" line="5" column="41" />
+        <mark key="]" line="87" column="9" />
+        <mark key="^" line="87" column="9" />
+        <mark key="." line="87" column="9" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/var/logs/dev.log" timestamp="1536834792868">
         <mark key="[" line="0" column="0" />
@@ -456,17 +456,17 @@
       <jump line="40" column="16" filename="$USER_HOME$/www/dhccam-2.0/var/logs/dev.log" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Zm9yKGk9bGVuZ3RoO2k8NztpKysp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cHJvamVjdExpc3Q9KCJkaGNjYW0tMi4wIiwiZGhjY2FtLXNlcnZlciIpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Zm9yKGk9bGVuZ3RoO2k8NztpKysp</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGQUlMX0tFWVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXJyb3IpCiAgICAgICAgICAgICAgICBlY2hvICJlcnJvciIKICAgICAgICAgICAgOzsK</text>
+        <text encoding="base64">cHJvamVjdExpc3Q9KCJkaGNjYW0tMi4wIiwiZGhjY2FtLXNlcnZlciIpOwo=</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">ICAgICAgICB0eXBlPSR7ZmlsZSUlLip9CiAgICAgICAgY2FzZSAkaW50IGluCiAgICAgICAgICAgIGVycm9yKQogICAgICAgICAgICAgICAgZWNobyAiZXJyb3IiCiAgICAgICAgICAgICAgICBlcnJvcigpCiAgICAgICAgICAgIDs7CiAgICAgICAgICAgIGRlYnVnKQogICAgICAgICAgICAgICAgZWNobyAiZGVidWciCiAgICAgICAgICAgIDs7CiAgICAgICAgZXNhYw==</text>
