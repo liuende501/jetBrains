@@ -54,6 +54,9 @@
         <mark key="]" line="484" column="13" />
         <mark key="." line="484" column="13" />
       </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/shell/logrotate.sh" timestamp="1536993227987">
+        <mark key="[" line="49" column="35" />
+      </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Entity/ApiServiceMethod.php" timestamp="1535204422950">
         <mark key="[" line="59" column="67" />
         <mark key="]" line="59" column="48" />
