@@ -113,4 +113,13 @@
       <option name="PHP Statement" value="true" />
     </context>
   </template>
+  <template name="bhh" value="# description: $TEXT$&#10;# author: $USER$&#10;# date: $DATE$ $TIME$&#10;# ==============================================================================" description="bash head comment" toReformat="false" toShortenFQNames="true">
+    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="USER" expression="user()" defaultValue="" alwaysStopAt="false" />
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <variable name="TIME" expression="time()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="Bash" value="true" />
+    </context>
+  </template>
 </templateSet>
