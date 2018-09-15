@@ -54,8 +54,8 @@
         <mark key="]" line="484" column="13" />
         <mark key="." line="484" column="13" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/shell/logrotate.sh" timestamp="1537018354534">
-        <mark key="[" line="13" column="9" />
+      <file name="$USER_HOME$/www/dhccam-2.0/shell/logrotate.sh" timestamp="1537020792355">
+        <mark key="[" line="14" column="20" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Entity/ApiServiceMethod.php" timestamp="1535204422950">
         <mark key="[" line="59" column="67" />
@@ -208,6 +208,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/message.sh" timestamp="1537021142012" />
       <file name="$USER_HOME$/www/dhccam-2.0/vendor/dhcmediway/wsdl2phpgenerator/src/Generator.php" timestamp="1535204800564">
         <mark key="[" line="165" column="27" />
         <mark key="]" line="165" column="27" />
@@ -277,7 +278,7 @@
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/AdminBundle.php" timestamp="1536651054465">
         <mark key="[" line="7" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537019983112">
+      <file name="/Dummy.txt" timestamp="1537021900467">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/logrotate.sh" timestamp="1536990657880">
@@ -290,8 +291,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/shell/accesslog.sh" timestamp="1536991374947">
-        <mark key="[" line="16" column="14" />
+      <file name="$USER_HOME$/www/dhccam-2.0/shell/accesslog.sh" timestamp="1537021693844">
+        <mark key="[" line="13" column="12" />
         <mark key="]" line="16" column="14" />
         <mark key="." line="16" column="14" />
       </file>
