@@ -172,6 +172,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/Exception/GatewayException.php" timestamp="1537109363019">
+        <mark key="[" line="101" column="0" />
+      </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/ApiMessageService.php" timestamp="1536851007899">
         <mark key="[" line="22" column="57" />
         <mark key="]" line="23" column="0" />
@@ -265,8 +268,8 @@
       <file name="$USER_HOME$/www/dhccam-2.0/shell/optimize.sh" timestamp="1537013842550">
         <mark key="[" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/MessageQueue/Consumer/ApiCallServer.php" timestamp="1537108716628">
-        <mark key="[" line="47" column="64" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/MessageQueue/Consumer/ApiCallServer.php" timestamp="1537110514610">
+        <mark key="[" line="43" column="71" />
         <mark key="]" line="47" column="64" />
         <mark key="." line="47" column="64" />
       </file>
@@ -278,7 +281,7 @@
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/AdminBundle.php" timestamp="1536651054465">
         <mark key="[" line="7" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537021900467">
+      <file name="/Dummy.txt" timestamp="1537110085382">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/logrotate.sh" timestamp="1536990657880">
