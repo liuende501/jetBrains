@@ -54,7 +54,7 @@
         <mark key="]" line="484" column="13" />
         <mark key="." line="484" column="13" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/shell/logrotate.sh" timestamp="1537020792355">
+      <file name="$USER_HOME$/www/dhccam-2.0/shell/logrotate.sh" timestamp="1537150635632">
         <mark key="[" line="14" column="20" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Entity/ApiServiceMethod.php" timestamp="1535204422950">
@@ -189,11 +189,6 @@
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Service/Impl/AdminServiceImpl.php" timestamp="1536913323753">
         <mark key="[" line="393" column="42" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/shell/message.sh" timestamp="1537019979165">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="$USER_HOME$/www/dhccam-2.0/merge.sh" timestamp="1537018587229">
         <mark key="[" line="57" column="27" />
       </file>
@@ -259,6 +254,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/shell/README.md" timestamp="1537150548403">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/www/demo/work/wsdlgenerator/vendor/dhcmediway/wsdl2phpgenerator/src/Method.php" timestamp="1535175135112">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
@@ -287,8 +285,10 @@
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/AdminBundle.php" timestamp="1536651054465">
         <mark key="[" line="7" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537112241788">
+      <file name="/Dummy.txt" timestamp="1537150706506">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/logrotate.sh" timestamp="1536990657880">
         <mark key="[" line="0" column="0" />
@@ -350,8 +350,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/shell/crontab" timestamp="1537147699140">
-        <mark key="[" line="6" column="8" />
+      <file name="$USER_HOME$/www/dhccam-2.0/shell/crontab" timestamp="1537150203998">
+        <mark key="'" line="6" column="6" />
+        <mark key="[" line="1" column="55" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
@@ -367,7 +368,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="494" column="17" filename="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatServiceImpl.php" />
       <jump line="500" column="17" filename="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatServiceImpl.php" />
       <jump line="505" column="43" filename="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatServiceImpl.php" />
       <jump line="506" column="16" filename="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatServiceImpl.php" />
@@ -467,13 +467,14 @@
       <jump line="20" column="5" filename="$USER_HOME$/www/dhccam-2.0/logrotate.sh" />
       <jump line="99" column="11" filename="$USER_HOME$/www/dhccam-2.0/logrotate.sh" />
       <jump line="36" column="45" filename="$USER_HOME$/www/dhccam-2.0/src/AppBundle/MessageQueue/Consumer/ApiCallServer.php" />
+      <jump line="6" column="6" filename="$USER_HOME$/www/dhccam-2.0/shell/crontab" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PD9waHAKLyoqCiAqIENyZWF0ZWQgYnkgUGhwU3Rvcm0uCiAqIFVzZXI6IGRvbmd6dAogKiBEYXRlOiAxOC80LzgKICogVGltZTog5LiL5Y2IOToyMAogKi8KCm5hbWVzcGFjZSBBcHBCdW5kbGVcTWVzc2FnZVF1ZXVlXENvbnN1bWVyOwoKLy91c2UgQXBwQnVuZGxlXFV0aWxcTG9nOwp1c2UgREhDQ1xSYWJiaXRNUUJ1bmRsZVxSYWJiaXRNcVxSUENDb25zdW1lckludGVyZmFjZTsKdXNlIEdhdGV3YXlCdW5kbGVcQnVzaW5lc3NTZXJ2ZXJcUmVxdWVzdEhhbmRsZXI7CnVzZSBHYXRld2F5QnVuZGxlXEV4Y2VwdGlvblxCdXNpbmVzc1NlcnZlckV4Y2VwdGlvbjsKdXNlIFBocEFtcXBMaWJcTWVzc2FnZVxBTVFQTWVzc2FnZTsKdXNlIFBzclxMb2dcTG9nZ2VySW50ZXJmYWNlOwpjbGFzcyBBcGlDYWxsU2VydmVyIGltcGxlbWVudHMgUlBDQ29uc3VtZXJJbnRlcmZhY2UKewogICAgLyoqCiAgICAgKiBAdmFyIExvZ2dlckludGVyZmFjZSAkbG9nZ2VyCiAgICAgKi8KICAgIHByaXZhdGUgJGxvZ2dlcjsKCiAgICBwdWJsaWMgZnVuY3Rpb24gX19jb25zdHJ1Y3QoTG9nZ2VySW50ZXJmYWNlICRsb2dnZXIpCiAgICB7CiAgICAgICAgJHRoaXMtPmxvZ2dlciA9ICRsb2dnZXI7CiAgICB9CiAgICAKICAgIHB1YmxpYyBmdW5jdGlvbiBleGVjdXRlKEFNUVBNZXNzYWdlICRtc2csICRleHRyYU1lc3NhZ2UpCiAgICB7CiAgICAgICAgdHJ5ewogICAgICAgICAgICAkdGhpcy0+bG9nZ2VyLT5kZWJ1ZygnUXVldWVEYXRhU2VydmVyLW1zZzogJyAuICRtc2ctPmJvZHkpOwovLyAgICAgICAgICAgIExvZzo6b3V0KCdBcGlDYWxsU2VydmVyJywnSScsJ1F1ZXVlRGF0YVNlcnZlci1tc2c6ICcgLiAkbXNnLT5ib2R5KTsKICAgICAgICAgICAgJG1lc3NhZ2VCb2R5ID0gdW5zZXJpYWxpemUoJG1zZy0+Ym9keSk7CiAgICAgICAgICAgICRiaXpDb250ZW50ID0gJG1lc3NhZ2VCb2R5WydiaXpDb250ZW50J107CiAgICAgICAgICAgICRhcGlDb25mICA9ICRtZXNzYWdlQm9keVsnYXBpQ29uZiddOwogICAgICAgICAgICAkcmVxdWVzdEhhbmRsZXIgPSBuZXcgUmVxdWVzdEhhbmRsZXIoKTsKICAgICAgICAgICAgJHJlcXVlc3RPYmogPSAkcmVxdWVzdEhhbmRsZXItPmdldFJlcXVlc3RPYmplY3QoJGFwaUNvbmZbJ2FwaVNlcnZpY2UnXVsnc2VydmljZVR5cGUnXSk7CiAgICAgICAgICAgICRyZXN1bHQgPSAkcmVxdWVzdE9iai0+cmVxdWVzdCgkYml6Q29udGVudCwkYXBpQ29uZik7Ci8vICAgICAgICAgICAgJHJlc3VsdCA9ICJJJ20gbm90IG9rICEiOwogICAgICAgICAgICAkcmVzdWx0ID0gWydzdWNjZXNzJyA9PiB0cnVlLCAnZGF0YScgPT4gJHJlc3VsdF07CiAgICAgICAgICAgIHJldHVybiAkcmVzdWx0OwogICAgICAgIH1jYXRjaCAoQnVzaW5lc3NTZXJ2ZXJFeGNlcHRpb24gJGUpewogICAgICAgICAgICAkbXNnID0ganNvbl9lbmNvZGUoJGUtPmdldFJlc3BvbnNlKCksSlNPTl9VTkVTQ0FQRURfVU5JQ09ERSk7CiAgICAgICAgICAgICR0aGlzLT5sb2dnZXItPmVycm9yKCdbQXBpQ2FsbFNlcnZlciAtIGVycl06ICcgLiAnW21zZ106ICcuJG1zZy4kZS0+Z2V0U3ViVHJhY2VTdHJpbmcoKSk7CiAgICAgICAgICAgIHJldHVybiBbJ3N1Y2Nlc3MnID0+IGZhbHNlLCAnbWVzc2FnZScgPT4gJG1zZywndHJhY2UnID0+ICRlLT5nZXRTdWJUcmFjZVN0cmluZygpXTsKICAgICAgICB9IGNhdGNoIChcRXhjZXB0aW9uICRlKXsKICAgICAgICAgICAgJHRoaXMtPmxvZ2dlci0+ZXJyb3IoJ1tBcGlDYWxsU2VydmVyIC0gZXJyXTogJyAuICdbbXNnXTogJy4kZS0+Z2V0TWVzc2FnZSgpLiRlLT5nZXRUcmFjZUFzU3RyaW5nKCkpOwovLyAgICAgICAgICAgIExvZzo6b3V0KCdBcGlDYWxsU2VydmVyJywnRScsJ1tBcGlDYWxsU2VydmVyIC0gZXJyXTogJyAuUEhQX0VPTC4gJGUtPmdldFRyYWNlQXNTdHJpbmcoKS5QSFBfRU9MLidbbXNnXTogJy4kZS0+Z2V0TWVzc2FnZSgpKTsKICAgICAgICAgICAgcmV0dXJuIFsnc3VjY2VzcycgPT4gZmFsc2UsICdtZXNzYWdlJyA9PiAkZS0+Z2V0TWVzc2FnZSgpLCd0cmFjZScgPT4gJGUtPmdldFRyYWNlQXNTdHJpbmcoKV07CiAgICAgICAgfQoKICAgIH0KfQo=</text>
+      <register name="&quot;" type="4">
+        <text>防止输出</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">L2hvbWUvd3d3cm9vdC9kaGNjYW0tMi4wICYmIHBocCBiaW4vY29uc29sZSBzd29vbGU6c2VydmVyIHN0YXJ0fHJlYWQgLXQgNTsgWyAkPyAtbmUgMCBdICYmZWNobyAiJChkYXRlICIrXCVGIFwlVCIpIHN0YXJ0IHN3b29sZSIgPj4vdmFyL2xvZy9kaGNjYW1fc3dvb2xlLmxvZyA=</text>
+        <text>防止输出</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGQUlMX0tFWVw+</text>
