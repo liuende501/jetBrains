@@ -63,11 +63,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Entity/RegionStatDay.php" timestamp="1537256164108">
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
-      </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Service/Impl/ToolServiceImpl.php" timestamp="1537259723471">
         <mark key="[" line="0" column="0" />
       </file>
@@ -108,6 +103,11 @@
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Service/Impl/AdminServiceImpl.php" timestamp="1537258724195">
         <mark key="[" line="124" column="14" />
+      </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/shell/message.sh" timestamp="1537265935987">
+        <mark key="[" line="21" column="90" />
+        <mark key="]" line="21" column="335" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/var/logs/SignGenerator/20180905.log" timestamp="1536114307752">
         <mark key="[" line="0" column="0" />
@@ -292,7 +292,7 @@
         <mark key="]" line="27" column="32" />
         <mark key="." line="27" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537150706506">
+      <file name="/Dummy.txt" timestamp="1537265941867">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -467,8 +467,8 @@
       <jump line="6" column="6" filename="$USER_HOME$/www/dhccam-2.0/shell/crontab" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgQmFkUmVxdWVzdEV4Y2VwdGlvbgogICAgICogQHRocm93cyBOb3RGb3VuZEV4Y2VwdGlvbg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGN1cmwgIC1YIFBPU1QgLWQgInJib2R5PTxyYm9keT48b3JnaWQ+UURGWTwvb3JnaWQ+PHVzZXJpZD5vN0FpSnRfX1huLXRsNy0wbkhTcnZMbUhqeEhVPC91c2VyaWQ+PHNvdXJjZWlkPmludGVzdDwvc291cmNlaWQ+PGNhdGVnb3J5PjxhcHBjb2RlPnd4X2NsaWVudDwvYXBwY29kZT48YXBwdHlwZT4yPC9hcHB0eXBlPjxiaXpjb2RlPlBhaWQ8L2JpemNvZGU+PC9jYXRlZ29yeT48bWVzc2FnZT48cmVtYXJrPuW9k+WJjeWJqeS9meacqua2iOi0ueaVsOmHjyAke2NvdW50fTwvcmVtYXJrPjwvbWVzc2FnZT48L3Jib2R5PiIgaHR0cDovLzE3Mi4yNi4xOTcuNTQvcXltc2cvYXBpL21lc3NhZ2VhcGkvbWVzc2FnZXB1c2gK</text>
       </register>
       <register name="-" type="4">
         <text>TestServic</text>
@@ -477,7 +477,7 @@
         <text encoding="base64">XDxGQUlMX0tFWVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyAgICBjdXJsICAtWCBQT1NUIC1kICJyYm9keT08cmJvZHk+PG9yZ2lkPlFERlk8L29yZ2lkPjx1c2VyaWQ+bzdBaUp0X19Ybi10bDctMG5IU3J2TG1IanhIVTwvdXNlcmlkPjxzb3VyY2VpZD5pbnRlc3Q8L3NvdXJjZWlkPjxjYXRlZ29yeT48YXBwY29kZT53eF9jbGllbnQ8L2FwcGNvZGU+PGFwcHR5cGU+MjwvYXBwdHlwZT48Yml6Y29kZT5QYWlkPC9iaXpjb2RlPjwvY2F0ZWdvcnk+PG1lc3NhZ2U+PHJlbWFyaz7lvZPliY3liankvZnmnKrmtojotLnmlbDph48gJHtjb3VudH08L3JlbWFyaz48L21lc3NhZ2U+PC9yYm9keT4iIGh0dHA6Ly8xNzIuMjYuMTk3LjU0L3F5bXNnL2FwaS9tZXNzYWdlYXBpL21lc3NhZ2VwdXNoCg==</text>
+        <text encoding="base64">ICAgIGN1cmwgIC1YIFBPU1QgLWQgInJib2R5PTxyYm9keT48b3JnaWQ+UURGWTwvb3JnaWQ+PHVzZXJpZD5vN0FpSnRfX1huLXRsNy0wbkhTcnZMbUhqeEhVPC91c2VyaWQ+PHNvdXJjZWlkPmludGVzdDwvc291cmNlaWQ+PGNhdGVnb3J5PjxhcHBjb2RlPnd4X2NsaWVudDwvYXBwY29kZT48YXBwdHlwZT4yPC9hcHB0eXBlPjxiaXpjb2RlPlBhaWQ8L2JpemNvZGU+PC9jYXRlZ29yeT48bWVzc2FnZT48cmVtYXJrPuW9k+WJjeWJqeS9meacqua2iOi0ueaVsOmHjyAke2NvdW50fTwvcmVtYXJrPjwvbWVzc2FnZT48L3Jib2R5PiIgaHR0cDovLzE3Mi4yNi4xOTcuNTQvcXltc2cvYXBpL21lc3NhZ2VhcGkvbWVzc2FnZXB1c2gK</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">ICAgICAqIEB0aHJvd3MgQmFkUmVxdWVzdEV4Y2VwdGlvbgogICAgICogQHRocm93cyBOb3RGb3VuZEV4Y2VwdGlvbg==</text>
