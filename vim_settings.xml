@@ -63,6 +63,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/www/demo/webservicestest/soap.php" timestamp="1537275502385">
+        <mark key="[" line="19" column="11" />
+        <mark key="]" line="19" column="11" />
+        <mark key="." line="19" column="11" />
+      </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Service/Impl/ToolServiceImpl.php" timestamp="1537259723471">
         <mark key="[" line="0" column="0" />
       </file>
@@ -279,7 +284,7 @@
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Entity/Hospital.php" timestamp="1537240576460">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1537261978936">
+      <file name="/PHP Console" timestamp="1537275498821">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -470,11 +475,11 @@
       <jump line="6" column="6" filename="$USER_HOME$/www/dhccam-2.0/shell/crontab" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGN1cmwgIC1YIFBPU1QgLWQgInJib2R5PTxyYm9keT48b3JnaWQ+UURGWTwvb3JnaWQ+PHVzZXJpZD5vN0FpSnRfX1huLXRsNy0wbkhTcnZMbUhqeEhVPC91c2VyaWQ+PHNvdXJjZWlkPmludGVzdDwvc291cmNlaWQ+PGNhdGVnb3J5PjxhcHBjb2RlPnd4X2NsaWVudDwvYXBwY29kZT48YXBwdHlwZT4yPC9hcHB0eXBlPjxiaXpjb2RlPlBhaWQ8L2JpemNvZGU+PC9jYXRlZ29yeT48bWVzc2FnZT48cmVtYXJrPuW9k+WJjeWJqeS9meacqua2iOi0ueaVsOmHjyAke2NvdW50fTwvcmVtYXJrPjwvbWVzc2FnZT48L3Jib2R5PiIgaHR0cDovLzE3Mi4yNi4xOTcuNTQvcXltc2cvYXBpL21lc3NhZ2VhcGkvbWVzc2FnZXB1c2gK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">JzxSZXF1ZXN0PjxwaG9uZU5vPjE1OTA0MDk0MjAxPC9waG9uZU5vPjx0ZXJtaW5hbElkPjkzMjQzZjhlYTM2OTFkNGJmMGJhMjRmNGY5YWYwZDk2NmMxNjBiOWU8L3Rlcm1pbmFsSWQ+PHRlcm1pbmFsVHlwZT5wYXRpZW50X2FwcF9pb3M8L3Rlcm1pbmFsVHlwZT48aG9zcGl0YWxJZD4yPC9ob3NwaXRhbElkPjxkZXBhcnRtZW50Q29kZT4xNzc8L2RlcGFydG1lbnRDb2RlPjxwYXRpZW50SWQ+MjY3MjM4PC9wYXRpZW50SWQ+PHNjaGVkdWxlQ29kZT4yNTN8fDM4NDA8L3NjaGVkdWxlQ29kZT48L1JlcXVlc3Q+</text>
       </register>
       <register name="-" type="4">
-        <text>TestServic</text>
+        <text encoding="base64">JzxSZXF1ZXN0PjxwaG9uZU5vPjE1OTA0MDk0MjAxPC9waG9uZU5vPjx0ZXJtaW5hbElkPjkzMjQzZjhlYTM2OTFkNGJmMGJhMjRmNGY5YWYwZDk2NmMxNjBiOWU8L3Rlcm1pbmFsSWQ+PHRlcm1pbmFsVHlwZT5wYXRpZW50X2FwcF9pb3M8L3Rlcm1pbmFsVHlwZT48aG9zcGl0YWxJZD4yPC9ob3NwaXRhbElkPjxkZXBhcnRtZW50Q29kZT4xNzc8L2RlcGFydG1lbnRDb2RlPjxwYXRpZW50SWQ+MjY3MjM4PC9wYXRpZW50SWQ+PHNjaGVkdWxlQ29kZT4yNTN8fDM4NDA8L3NjaGVkdWxlQ29kZT48L1JlcXVlc3Q+</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGQUlMX0tFWVw+</text>
