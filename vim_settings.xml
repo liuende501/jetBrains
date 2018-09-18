@@ -283,6 +283,7 @@
       <file name="$USER_HOME$/www/dhccam-2.0/app/config/config_prod.yml" timestamp="1537112010812">
         <mark key="[" line="17" column="43" />
       </file>
+      <file name="/rabbitmq.yml" timestamp="1537253970580" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Controller/Statistics/InterfaceController.php" timestamp="1536552368077">
         <mark key="[" line="104" column="0" />
         <mark key="]" line="104" column="0" />
