@@ -23,8 +23,8 @@
         <mark key="]" line="267" column="0" />
         <mark key="." line="267" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/app/config/rabbitmq.yml" timestamp="1536661123208">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/www/dhccam-2.0/app/config/rabbitmq.yml" timestamp="1537269071113">
+        <mark key="[" line="53" column="67" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
@@ -168,13 +168,16 @@
         <mark key="]" line="53" column="44" />
         <mark key="." line="51" column="0" />
       </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/sync.sh" timestamp="1537269373652">
+        <mark key="[" line="5" column="22" />
+      </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatDayServiceImpl.php" timestamp="1536849160533">
         <mark key="[" line="108" column="5" />
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/app/config/parameters.yml" timestamp="1537257951085">
-        <mark key="[" line="4" column="28" />
+      <file name="$USER_HOME$/www/dhccam-2.0/app/config/parameters.yml" timestamp="1537269319743">
+        <mark key="[" line="6" column="33" />
         <mark key="]" line="6" column="34" />
         <mark key="." line="6" column="34" />
       </file>
@@ -292,7 +295,7 @@
         <mark key="]" line="27" column="32" />
         <mark key="." line="27" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537265941867">
+      <file name="/Dummy.txt" timestamp="1537269106766">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
