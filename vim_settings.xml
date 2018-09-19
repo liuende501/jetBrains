@@ -29,10 +29,6 @@
         <mark key="]" line="267" column="0" />
         <mark key="." line="267" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/app/config/rabbitmq.yml" timestamp="1537269071113">
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/www/dhccam-2.0/vendor/dhcmediway/wsdl2phpgenerator/src/Method.php" timestamp="1535179252102">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -172,6 +168,11 @@
         <mark key="." line="31" column="2" />
         <mark key="^" line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/Exception/RPCTimeOutException.php" timestamp="1537347248950">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Controller/Development/ServerController.php" timestamp="1537257050732" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Entity/ApiStatDay.php" timestamp="1537241339682" />
       <file name="$USER_HOME$/www/dhccam-2.0/shell/redismessage.sh" timestamp="1537014462159">
@@ -252,7 +253,11 @@
       <file name="$USER_HOME$/www/dhccam-2.0/mwb/dhccam-user.sql" timestamp="1537257854335">
         <mark key="[" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/BusinessServer/BusinessServer.php" timestamp="1537345974268" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/BusinessServer/BusinessServer.php" timestamp="1537347177178">
+        <mark key="[" line="96" column="10" />
+        <mark key="]" line="96" column="10" />
+        <mark key="." line="96" column="10" />
+      </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/Exception/InterfaceProviderException.php" timestamp="1537329305872">
         <mark key="[" line="10" column="31" />
       </file>
@@ -298,11 +303,11 @@
         <mark key="." line="206" column="2" />
         <mark key="^" line="50" column="17" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/Exception/GatewayException.php" timestamp="1537328467360">
-        <mark key="[" line="69" column="10" />
-        <mark key="]" line="69" column="10" />
-        <mark key="." line="69" column="10" />
-        <mark key="^" line="107" column="14" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/Exception/GatewayException.php" timestamp="1537347067029">
+        <mark key="[" line="70" column="34" />
+        <mark key="]" line="70" column="34" />
+        <mark key="." line="70" column="34" />
+        <mark key="^" line="111" column="14" />
       </file>
       <file name="$USER_HOME$/www/demo/work/wsdlgenerator/vendor/dhcmediway/wsdl2phpgenerator/src/Service.php" timestamp="1536068538361">
         <mark key="[" line="167" column="23" />
@@ -330,6 +335,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="/BusinessServer.php" timestamp="1537347726030" />
       <file name="/rabbitmq.yml" timestamp="1537253970580" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Controller/Statistics/InterfaceController.php" timestamp="1536552368077">
         <mark key="[" line="104" column="0" />
@@ -352,7 +358,7 @@
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Entity/Hospital.php" timestamp="1537240576460">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1537345419405">
+      <file name="/PHP Console" timestamp="1537346803799">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -360,8 +366,8 @@
       <file name="$USER_HOME$/www/dhccam-2.0/shell/README.md" timestamp="1537150548403">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/BusinessServer/SoapRequest.php" timestamp="1537340199315">
-        <mark key="[" line="121" column="78" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/BusinessServer/SoapRequest.php" timestamp="1537347012720">
+        <mark key="[" line="113" column="45" />
         <mark key="]" line="122" column="36" />
         <mark key="." line="122" column="36" />
         <mark key="^" line="122" column="36" />
@@ -383,7 +389,7 @@
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/AdminBundle.php" timestamp="1536651054465">
         <mark key="[" line="7" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537345665328">
+      <file name="/Dummy.txt" timestamp="1537347906621">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Controller/Statistics/RegionHospitalController.php" timestamp="1537259588592">
@@ -437,6 +443,7 @@
         <mark key="]" line="15" column="8" />
         <mark key="." line="15" column="8" />
       </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php" timestamp="1537347132833" />
       <file name="$USER_HOME$/www/demo/util/moniorwx.php" timestamp="1536135663222">
         <mark key="[" line="35" column="18" />
         <mark key="]" line="35" column="18" />
@@ -557,10 +564,15 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>GatewayException::INTERFACE_PROVIDER_ERROR_DESC</text>
+        <text>/**
+ * Created by PhpStorm.
+ * User: dongzt
+ * Date: 18/5/17
+ * Time: 下午2:34
+ */</text>
       </register>
       <register name="-" type="4">
-        <text>GatewayException::INTERFACE_PROVIDER_ERROR_DESC</text>
+        <text>后端服务不可用,请联系管理员!</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGQUlMX0tFWVw+</text>
@@ -569,6 +581,17 @@
         <text encoding="base64">ICAgIGN1cmwgIC1YIFBPU1QgLWQgInJib2R5PTxyYm9keT48b3JnaWQ+UURGWTwvb3JnaWQ+PHVzZXJpZD5vN0FpSnRfX1huLXRsNy0wbkhTcnZMbUhqeEhVPC91c2VyaWQ+PHNvdXJjZWlkPmludGVzdDwvc291cmNlaWQ+PGNhdGVnb3J5PjxhcHBjb2RlPnd4X2NsaWVudDwvYXBwY29kZT48YXBwdHlwZT4yPC9hcHB0eXBlPjxiaXpjb2RlPlBhaWQ8L2JpemNvZGU+PC9jYXRlZ29yeT48bWVzc2FnZT48cmVtYXJrPuW9k+WJjeWJqeS9meacqua2iOi0ueaVsOmHjyAke2NvdW50fTwvcmVtYXJrPjwvbWVzc2FnZT48L3Jib2R5PiIgaHR0cDovLzE3Mi4yNi4xOTcuNTQvcXltc2cvYXBpL21lc3NhZ2VhcGkvbWVzc2FnZXB1c2gK</text>
       </register>
       <register name="1" type="4">
+        <text>/**
+ * Created by PhpStorm.
+ * User: dongzt
+ * Date: 18/5/17
+ * Time: 下午2:34
+ */</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICAkc3ViTWVzc2FnZUVuZCA9ICR0aGlzLT5tZXNzYWdlRGlzcGF0Y2hlci0+c3ViTWVzc2FnZUJ1aWxkZXIoMiwKICAgICAgICAgICAgICAgICRlLT5nZXRNZXNzYWdlKCksTWVzc2FnZUNvbGxlY3Rpb246OkZBSUwsTWVzc2FnZUNvbGxlY3Rpb246OlNFUlZFUl9PUkRFUik7</text>
+      </register>
+      <register name="3" type="4">
         <text>CREATE TABLE `region_hospital` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `name` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
@@ -585,19 +608,19 @@
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgICAqIEB0aHJvd3MgQmFkUmVxdWVzdEV4Y2VwdGlvbgogICAgICogQHRocm93cyBOb3RGb3VuZEV4Y2VwdGlvbg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CiAgICB7CiAgICAgICAgCiAgICB9</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgKiDojrflj5bmnI3liqHlmajlrZflhbgs5LiN5YiG6aG1CiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXREaWN0KCkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPnJlcG9zaXRvcnktPmdldERpY3QoKTsKICAgIH0KCgogICAgLyoqCiAgICAgKiDmo4Dmn6XlhbPogZTnmoTmtojmga/pmJ/liJflkozmnI3liqEs5aaC5p6c5a2Y5Zyo5YiZ5LiN5YWB6K645Yig6ZmkCiAgICAgKgogICAgICogQHBhcmFtICRpZAogICAgICogQHJldHVybiBtaXhlZAogICAgICogQHRocm93cyBCYWRSZXF1ZXN0RXhjZXB0aW9uCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBkZWxldGVPblNhZmUoJGlkKQogICAgewogICAgICAgICRlbnRpdHkgPSAkdGhpcy0+Z2V0KCRpZCk7CiAgICAgICAgJHRoaXMtPmVuc3VyZUVudGl0eSgkZW50aXR5LCAn5b2T5YmN5pyN5Yqh5Zmo5LiN5a2Y5ZyoJyk7CiAgICAgICAgLyoqCiAgICAgICAgICog5pyN5YqhLOWboOS4uuacjeWKoeebuOS6kuazqOWFpSzmiYDku6Xkvb/nlKhtYW5hZ2VyUmVnaXN0cnkKICAgICAgICAgKiBAdmFyIEFwaVNlcnZpY2UgJHNlcnZpY2UKICAgICAgICAgKi8KICAgICAgICAkc2VydmljZSA9ICR0aGlzLT5tYW5hZ2VyUmVnaXN0cnktPmdldFJlcG9zaXRvcnkoQXBpU2VydmljZTo6Y2xhc3MpLT5maW5kT25lQnkoWydzZXJ2ZXInPT4kZW50aXR5XSk7CiAgICAgICAgaWYoJHNlcnZpY2UpewogICAgICAgICAgICB0aHJvdyBuZXcgQmFkUmVxdWVzdEV4Y2VwdGlvbigi5b2T5YmN5pyN5Yqh5Zmo6KKr5pyN5YqhW3skc2VydmljZS0+Z2V0TmFtZSgpfV3miYDkvb/nlKgs5LiN6IO95Yig6ZmkIik7CiAgICAgICAgfQogICAgICAgIC8qKgogICAgICAgICAqIOa2iOaBr+mYn+WIlwogICAgICAgICAqIEB2YXIgQXBpQ29uc3VtZXIgJGNvbnN1bWVyCiAgICAgICAgICovCiAgICAgICAgJGNvbnN1bWVyID0gJHRoaXMtPm1hbmFnZXJSZWdpc3RyeS0+Z2V0UmVwb3NpdG9yeShBcGlDb25zdW1lcjo6Y2xhc3MpLT5maW5kT25lQnkoWydzZXJ2ZXInPT4kZW50aXR5XSk7CiAgICAgICAgaWYoJGNvbnN1bWVyKXsKICAgICAgICAgICAgdGhyb3cgbmV3IEJhZFJlcXVlc3RFeGNlcHRpb24oJ+W9k+WJjeacjeWKoeWZqOiiq+a2iOaBr+mYn+WIl+aJgOS9v+eUqCzkuI3og73liKDpmaQnKTsKICAgICAgICB9CiAgICAgICAgJHRoaXMtPmRlbGV0ZUVudGl0eSgkZW50aXR5KTsKICAgIH0=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Y2xhc3MgU2VydmVyU2VydmljZUltcGwgZXh0ZW5kcyBBZG1pblNlcnZpY2VJbXBsIGltcGxlbWVudHMgU2VydmVyU2VydmljZQo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>/**
      * 获取服务器字典,不分页
      */
@@ -612,14 +635,8 @@
      */
     public function deleteOnSafe($id);</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIFNlcnZlclNlcnZpY2UgZXh0ZW5kcyBBZG1pblNlcnZpY2Ugewo=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBpbmRleEFjdGlvbigkbmFtZSkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPnJlbmRlcignJywgYXJyYXkoJ25hbWUnID0+ICRuYW1lKSk7CiAgICB9</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIFN5bWZvbnlcQnVuZGxlXEZyYW1ld29ya0J1bmRsZVxDb250cm9sbGVyXENvbnRyb2xsZXI7Cg==</text>
+        <text encoding="base64">aW50ZXJmYWNlIFNlcnZlclNlcnZpY2UgZXh0ZW5kcyBBZG1pblNlcnZpY2Ugewo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
