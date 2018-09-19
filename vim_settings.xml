@@ -63,7 +63,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/www/demo/webservicestest/soap.php" timestamp="1537275502385">
+      <file name="$USER_HOME$/www/demo/webservicestest/soap.php" timestamp="1537327905283">
         <mark key="[" line="19" column="11" />
         <mark key="]" line="19" column="11" />
         <mark key="." line="19" column="11" />
@@ -209,12 +209,6 @@
       <file name="$USER_HOME$/www/dhccam-2.0/mwb/dhccam-user.sql" timestamp="1537257854335">
         <mark key="[" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/BusinessServer/BusinessServer.php" timestamp="1537277203250">
-        <mark key="[" line="93" column="181" />
-        <mark key="]" line="71" column="21" />
-        <mark key="^" line="71" column="21" />
-        <mark key="." line="71" column="21" />
-      </file>
       <file name="$USER_HOME$/www/dhccam-2.0/var/logs/doctrine/doctrine-2018-09-08.log" timestamp="1536402774065">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -253,10 +247,10 @@
         <mark key="." line="206" column="2" />
         <mark key="^" line="50" column="17" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/Exception/GatewayException.php" timestamp="1537323012962">
-        <mark key="[" line="107" column="8" />
-        <mark key="]" line="107" column="14" />
-        <mark key="." line="107" column="14" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/Exception/GatewayException.php" timestamp="1537328467360">
+        <mark key="[" line="69" column="10" />
+        <mark key="]" line="69" column="10" />
+        <mark key="." line="69" column="10" />
         <mark key="^" line="107" column="14" />
       </file>
       <file name="$USER_HOME$/www/demo/work/wsdlgenerator/vendor/dhcmediway/wsdl2phpgenerator/src/Service.php" timestamp="1536068538361">
@@ -299,12 +293,14 @@
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Entity/Hospital.php" timestamp="1537240576460">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1537324224593">
+      <file name="/PHP Console" timestamp="1537328242095">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/BusinessServer/SoapRequest.php" timestamp="1537279678280" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/BusinessServer/SoapRequest.php" timestamp="1537328204655">
+        <mark key="[" line="82" column="0" />
+      </file>
       <file name="$USER_HOME$/www/demo/work/wsdlgenerator/vendor/dhcmediway/wsdl2phpgenerator/src/Method.php" timestamp="1535175135112">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
@@ -492,10 +488,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JzxSZXF1ZXN0PjxwaG9uZU5vPjE1OTA0MDk0MjAxPC9waG9uZU5vPjx0ZXJtaW5hbElkPjkzMjQzZjhlYTM2OTFkNGJmMGJhMjRmNGY5YWYwZDk2NmMxNjBiOWU8L3Rlcm1pbmFsSWQ+PHRlcm1pbmFsVHlwZT5wYXRpZW50X2FwcF9pb3M8L3Rlcm1pbmFsVHlwZT48aG9zcGl0YWxJZD4yPC9ob3NwaXRhbElkPjxkZXBhcnRtZW50Q29kZT4xNzc8L2RlcGFydG1lbnRDb2RlPjxwYXRpZW50SWQ+MjY3MjM4PC9wYXRpZW50SWQ+PHNjaGVkdWxlQ29kZT4yNTN8fDM4NDA8L3NjaGVkdWxlQ29kZT48L1JlcXVlc3Q+</text>
+        <text>Interface</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JzxSZXF1ZXN0PjxwaG9uZU5vPjE1OTA0MDk0MjAxPC9waG9uZU5vPjx0ZXJtaW5hbElkPjkzMjQzZjhlYTM2OTFkNGJmMGJhMjRmNGY5YWYwZDk2NmMxNjBiOWU8L3Rlcm1pbmFsSWQ+PHRlcm1pbmFsVHlwZT5wYXRpZW50X2FwcF9pb3M8L3Rlcm1pbmFsVHlwZT48aG9zcGl0YWxJZD4yPC9ob3NwaXRhbElkPjxkZXBhcnRtZW50Q29kZT4xNzc8L2RlcGFydG1lbnRDb2RlPjxwYXRpZW50SWQ+MjY3MjM4PC9wYXRpZW50SWQ+PHNjaGVkdWxlQ29kZT4yNTN8fDM4NDA8L3NjaGVkdWxlQ29kZT48L1JlcXVlc3Q+</text>
+        <text>Interface</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGQUlMX0tFWVw+</text>
