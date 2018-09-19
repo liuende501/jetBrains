@@ -39,7 +39,7 @@
         <mark key="]" line="59" column="48" />
         <mark key="." line="59" column="48" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/bin/console" timestamp="1537018446683">
+      <file name="$USER_HOME$/www/dhccam-2.0/bin/console" timestamp="1537349844674">
         <mark key="[" line="17" column="80" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
@@ -53,7 +53,7 @@
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/ApiStatDayService.php" timestamp="1536558728980">
         <mark key="[" line="29" column="65" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Security/TokenAuthenticator.php" timestamp="1536990808626">
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Security/TokenAuthenticator.php" timestamp="1537350036435">
         <mark key="[" line="159" column="0" />
       </file>
       <file name="$USER_HOME$/www/demo/work/wsdlgenerator/src/request.php" timestamp="1535199052253">
@@ -253,10 +253,10 @@
       <file name="$USER_HOME$/www/dhccam-2.0/mwb/dhccam-user.sql" timestamp="1537257854335">
         <mark key="[" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/BusinessServer/BusinessServer.php" timestamp="1537347177178">
-        <mark key="[" line="96" column="10" />
-        <mark key="]" line="96" column="10" />
-        <mark key="." line="96" column="10" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/BusinessServer/BusinessServer.php" timestamp="1537349807337">
+        <mark key="[" line="69" column="16" />
+        <mark key="]" line="69" column="16" />
+        <mark key="." line="69" column="16" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/Exception/InterfaceProviderException.php" timestamp="1537329305872">
         <mark key="[" line="10" column="31" />
@@ -358,11 +358,12 @@
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Entity/Hospital.php" timestamp="1537240576460">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1537346803799">
+      <file name="/PHP Console" timestamp="1537350038389">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/web/app_dev.php" timestamp="1537349860551" />
       <file name="$USER_HOME$/www/dhccam-2.0/shell/README.md" timestamp="1537150548403">
         <mark key="[" line="0" column="0" />
       </file>
@@ -564,15 +565,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/**
- * Created by PhpStorm.
- * User: dongzt
- * Date: 18/5/17
- * Time: 下午2:34
- */</text>
+        <text>$apiService['messageQueue']</text>
       </register>
       <register name="-" type="4">
-        <text>后端服务不可用,请联系管理员!</text>
+        <text>$apiService['messageQueue']</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGQUlMX0tFWVw+</text>
