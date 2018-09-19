@@ -179,9 +179,9 @@
         <mark key="]" line="7" column="5" />
         <mark key="." line="7" column="5" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/MessageQueue/Consumer/ApiCallServer.php" timestamp="1537340040655">
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/MessageQueue/Consumer/ApiCallServer.php" timestamp="1537345204665">
         <mark key="'" line="37" column="45" />
-        <mark key="[" line="45" column="71" />
+        <mark key="[" line="46" column="40" />
         <mark key="]" line="45" column="71" />
         <mark key="." line="45" column="71" />
         <mark key="^" line="37" column="45" />
@@ -252,9 +252,7 @@
       <file name="$USER_HOME$/www/dhccam-2.0/mwb/dhccam-user.sql" timestamp="1537257854335">
         <mark key="[" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/BusinessServer/BusinessServer.php" timestamp="1537339508922">
-        <mark key="[" line="88" column="24" />
-      </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/BusinessServer/BusinessServer.php" timestamp="1537345974268" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/Exception/InterfaceProviderException.php" timestamp="1537329305872">
         <mark key="[" line="10" column="31" />
       </file>
@@ -354,7 +352,7 @@
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Entity/Hospital.php" timestamp="1537240576460">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1537343921972">
+      <file name="/PHP Console" timestamp="1537345419405">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -385,7 +383,7 @@
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/AdminBundle.php" timestamp="1536651054465">
         <mark key="[" line="7" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537342644162">
+      <file name="/Dummy.txt" timestamp="1537345665328">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Controller/Statistics/RegionHospitalController.php" timestamp="1537259588592">
@@ -559,10 +557,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/home/wwwroot/</text>
+        <text>GatewayException::INTERFACE_PROVIDER_ERROR_DESC</text>
       </register>
       <register name="-" type="4">
-        <text>/home/wwwroot/</text>
+        <text>GatewayException::INTERFACE_PROVIDER_ERROR_DESC</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGQUlMX0tFWVw+</text>
