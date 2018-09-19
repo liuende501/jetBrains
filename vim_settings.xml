@@ -199,18 +199,6 @@
         <mark key="." line="484" column="13" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Service/StatisticsService.php" timestamp="1537259378973" />
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Controller/Development/DebugController.php" timestamp="1536742469691">
-        <mark key="[" line="97" column="90" />
-        <mark key="]" line="97" column="77" />
-        <mark key="." line="97" column="77" />
-        <mark key="^" line="97" column="77" />
-      </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatServiceImpl.php" timestamp="1536913261299">
-        <mark key="[" line="857" column="45" />
-        <mark key="]" line="898" column="24" />
-        <mark key="." line="898" column="24" />
-        <mark key="^" line="904" column="89" />
-      </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Entity/Api.php" timestamp="1537241283935">
         <mark key="[" line="67" column="43" />
         <mark key="]" line="67" column="42" />
@@ -220,12 +208,6 @@
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Controller/Api/ApiServiceController.php" timestamp="1537259688128" />
       <file name="$USER_HOME$/www/dhccam-2.0/mwb/dhccam-user.sql" timestamp="1537257854335">
         <mark key="[" line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/demo/webservicestest/soaps.php" timestamp="1536735899161">
-        <mark key="[" line="9" column="26" />
-        <mark key="]" line="9" column="26" />
-        <mark key="^" line="15" column="17" />
-        <mark key="." line="9" column="26" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/BusinessServer/BusinessServer.php" timestamp="1537277203250">
         <mark key="[" line="93" column="181" />
@@ -255,12 +237,6 @@
         <mark key="." line="9" column="4" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/liuende/test.php" timestamp="1537153028403">
-        <mark key="[" line="287" column="0" />
-        <mark key="]" line="1344" column="21" />
-        <mark key="^" line="1344" column="21" />
-        <mark key="." line="1344" column="21" />
-      </file>
       <file name="$USER_HOME$/www/dhccam-2.0/app/config/config.yml" timestamp="1536471435945">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -277,7 +253,7 @@
         <mark key="." line="206" column="2" />
         <mark key="^" line="50" column="17" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/Exception/GatewayException.php" timestamp="1537281902361">
+      <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/Exception/GatewayException.php" timestamp="1537323012962">
         <mark key="[" line="107" column="8" />
         <mark key="]" line="107" column="14" />
         <mark key="." line="107" column="14" />
@@ -288,6 +264,7 @@
         <mark key="]" line="167" column="23" />
         <mark key="." line="167" column="23" />
       </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/BusinessProcess/BusinessProcess.php" timestamp="1537323678929" />
       <file name="$USER_HOME$/www/lnmp/include/init.sh" timestamp="1535598429701">
         <mark key="[" line="455" column="8" />
         <mark key="]" line="455" column="8" />
@@ -302,12 +279,6 @@
         <mark key="[" line="165" column="27" />
         <mark key="]" line="165" column="27" />
         <mark key="." line="165" column="27" />
-      </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatTimeServiceImpl.php" timestamp="1536850914071">
-        <mark key="[" line="71" column="38" />
-        <mark key="]" line="71" column="38" />
-        <mark key="." line="71" column="38" />
-        <mark key="^" line="63" column="10" />
       </file>
       <file name="/rabbitmq.yml" timestamp="1537253970580" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Controller/Statistics/InterfaceController.php" timestamp="1536552368077">
@@ -328,7 +299,7 @@
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Entity/Hospital.php" timestamp="1537240576460">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1537279653518">
+      <file name="/PHP Console" timestamp="1537323696841">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
