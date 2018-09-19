@@ -81,6 +81,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Entity/RegionStatDay.php" timestamp="1537256164108">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
+      </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Resources/config/consumers.yml" timestamp="1536661234716">
         <mark key="[" line="2" column="22" />
       </file>
@@ -207,8 +212,10 @@
         <mark key="]" line="53" column="44" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/sync.sh" timestamp="1537269373652">
-        <mark key="[" line="5" column="22" />
+      <file name="$USER_HOME$/www/dhccam-2.0/sync.sh" timestamp="1537343276780">
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="6" column="14" />
+        <mark key="." line="6" column="14" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Repository/BaseRepository.php" timestamp="1536913308436">
         <mark key="[" line="221" column="40" />
@@ -320,6 +327,11 @@
         <mark key="]" line="165" column="27" />
         <mark key="." line="165" column="27" />
       </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/mwb/dhccam-region.sql" timestamp="1537342444530">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="/rabbitmq.yml" timestamp="1537253970580" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Controller/Statistics/InterfaceController.php" timestamp="1536552368077">
         <mark key="[" line="104" column="0" />
@@ -373,7 +385,7 @@
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/AdminBundle.php" timestamp="1536651054465">
         <mark key="[" line="7" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537340427120">
+      <file name="/Dummy.txt" timestamp="1537342644162">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Controller/Statistics/RegionHospitalController.php" timestamp="1537259588592">
@@ -547,10 +559,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">anNvbl9lbmNvZGUoJGUtPmdldFJlc3BvbnNlKCksSlNPTl9VTkVTQ0FQRURfVU5JQ09ERSk=</text>
+        <text>/home/wwwroot/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">anNvbl9lbmNvZGUoJGUtPmdldFJlc3BvbnNlKCksSlNPTl9VTkVTQ0FQRURfVU5JQ09ERSk=</text>
+        <text>/home/wwwroot/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGQUlMX0tFWVw+</text>
@@ -559,18 +571,35 @@
         <text encoding="base64">ICAgIGN1cmwgIC1YIFBPU1QgLWQgInJib2R5PTxyYm9keT48b3JnaWQ+UURGWTwvb3JnaWQ+PHVzZXJpZD5vN0FpSnRfX1huLXRsNy0wbkhTcnZMbUhqeEhVPC91c2VyaWQ+PHNvdXJjZWlkPmludGVzdDwvc291cmNlaWQ+PGNhdGVnb3J5PjxhcHBjb2RlPnd4X2NsaWVudDwvYXBwY29kZT48YXBwdHlwZT4yPC9hcHB0eXBlPjxiaXpjb2RlPlBhaWQ8L2JpemNvZGU+PC9jYXRlZ29yeT48bWVzc2FnZT48cmVtYXJrPuW9k+WJjeWJqeS9meacqua2iOi0ueaVsOmHjyAke2NvdW50fTwvcmVtYXJrPjwvbWVzc2FnZT48L3Jib2R5PiIgaHR0cDovLzE3Mi4yNi4xOTcuNTQvcXltc2cvYXBpL21lc3NhZ2VhcGkvbWVzc2FnZXB1c2gK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgQmFkUmVxdWVzdEV4Y2VwdGlvbgogICAgICogQHRocm93cyBOb3RGb3VuZEV4Y2VwdGlvbg==</text>
+        <text>CREATE TABLE `region_hospital` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `name` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `code` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `token` varchar(512) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `base_url` varchar(255) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `wsdl` varchar(255) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `is_root` tinyint(1) NOT NULL,
+  `is_active` tinyint(1) NOT NULL,
+  `remark` varchar(512) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `create_time` datetime NOT NULL,
+  `update_time` datetime NOT NULL,
+  `delete_time` datetime DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgICB7CiAgICAgICAgCiAgICB9</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgQmFkUmVxdWVzdEV4Y2VwdGlvbgogICAgICogQHRocm93cyBOb3RGb3VuZEV4Y2VwdGlvbg==</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">CiAgICB7CiAgICAgICAgCiAgICB9</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">ICAgKiDojrflj5bmnI3liqHlmajlrZflhbgs5LiN5YiG6aG1CiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXREaWN0KCkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPnJlcG9zaXRvcnktPmdldERpY3QoKTsKICAgIH0KCgogICAgLyoqCiAgICAgKiDmo4Dmn6XlhbPogZTnmoTmtojmga/pmJ/liJflkozmnI3liqEs5aaC5p6c5a2Y5Zyo5YiZ5LiN5YWB6K645Yig6ZmkCiAgICAgKgogICAgICogQHBhcmFtICRpZAogICAgICogQHJldHVybiBtaXhlZAogICAgICogQHRocm93cyBCYWRSZXF1ZXN0RXhjZXB0aW9uCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBkZWxldGVPblNhZmUoJGlkKQogICAgewogICAgICAgICRlbnRpdHkgPSAkdGhpcy0+Z2V0KCRpZCk7CiAgICAgICAgJHRoaXMtPmVuc3VyZUVudGl0eSgkZW50aXR5LCAn5b2T5YmN5pyN5Yqh5Zmo5LiN5a2Y5ZyoJyk7CiAgICAgICAgLyoqCiAgICAgICAgICog5pyN5YqhLOWboOS4uuacjeWKoeebuOS6kuazqOWFpSzmiYDku6Xkvb/nlKhtYW5hZ2VyUmVnaXN0cnkKICAgICAgICAgKiBAdmFyIEFwaVNlcnZpY2UgJHNlcnZpY2UKICAgICAgICAgKi8KICAgICAgICAkc2VydmljZSA9ICR0aGlzLT5tYW5hZ2VyUmVnaXN0cnktPmdldFJlcG9zaXRvcnkoQXBpU2VydmljZTo6Y2xhc3MpLT5maW5kT25lQnkoWydzZXJ2ZXInPT4kZW50aXR5XSk7CiAgICAgICAgaWYoJHNlcnZpY2UpewogICAgICAgICAgICB0aHJvdyBuZXcgQmFkUmVxdWVzdEV4Y2VwdGlvbigi5b2T5YmN5pyN5Yqh5Zmo6KKr5pyN5YqhW3skc2VydmljZS0+Z2V0TmFtZSgpfV3miYDkvb/nlKgs5LiN6IO95Yig6ZmkIik7CiAgICAgICAgfQogICAgICAgIC8qKgogICAgICAgICAqIOa2iOaBr+mYn+WIlwogICAgICAgICAqIEB2YXIgQXBpQ29uc3VtZXIgJGNvbnN1bWVyCiAgICAgICAgICovCiAgICAgICAgJGNvbnN1bWVyID0gJHRoaXMtPm1hbmFnZXJSZWdpc3RyeS0+Z2V0UmVwb3NpdG9yeShBcGlDb25zdW1lcjo6Y2xhc3MpLT5maW5kT25lQnkoWydzZXJ2ZXInPT4kZW50aXR5XSk7CiAgICAgICAgaWYoJGNvbnN1bWVyKXsKICAgICAgICAgICAgdGhyb3cgbmV3IEJhZFJlcXVlc3RFeGNlcHRpb24oJ+W9k+WJjeacjeWKoeWZqOiiq+a2iOaBr+mYn+WIl+aJgOS9v+eUqCzkuI3og73liKDpmaQnKTsKICAgICAgICB9CiAgICAgICAgJHRoaXMtPmRlbGV0ZUVudGl0eSgkZW50aXR5KTsKICAgIH0=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Y2xhc3MgU2VydmVyU2VydmljZUltcGwgZXh0ZW5kcyBBZG1pblNlcnZpY2VJbXBsIGltcGxlbWVudHMgU2VydmVyU2VydmljZQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>/**
      * 获取服务器字典,不分页
      */
@@ -585,17 +614,14 @@
      */
     public function deleteOnSafe($id);</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">aW50ZXJmYWNlIFNlcnZlclNlcnZpY2UgZXh0ZW5kcyBBZG1pblNlcnZpY2Ugewo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBpbmRleEFjdGlvbigkbmFtZSkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPnJlbmRlcignJywgYXJyYXkoJ25hbWUnID0+ICRuYW1lKSk7CiAgICB9</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">dXNlIFN5bWZvbnlcQnVuZGxlXEZyYW1ld29ya0J1bmRsZVxDb250cm9sbGVyXENvbnRyb2xsZXI7Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSAkaWQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHNldElkKCRpZCkKICAgIHsKICAgICAgICAkdGhpcy0+aWQgPSAkaWQ7CiAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
