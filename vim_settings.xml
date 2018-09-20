@@ -77,10 +77,10 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Entity/RegionStatDay.php" timestamp="1537256164108">
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Entity/RegionStatDay.php" timestamp="1537409157528">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Resources/config/consumers.yml" timestamp="1536661234716">
         <mark key="[" line="2" column="22" />
@@ -226,8 +226,8 @@
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/app/config/parameters.yml" timestamp="1537269319743">
-        <mark key="[" line="6" column="33" />
+      <file name="$USER_HOME$/www/dhccam-2.0/app/config/parameters.yml" timestamp="1537409605439">
+        <mark key="[" line="4" column="26" />
         <mark key="]" line="6" column="34" />
         <mark key="." line="6" column="34" />
       </file>
@@ -330,10 +330,10 @@
         <mark key="]" line="165" column="27" />
         <mark key="." line="165" column="27" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/mwb/dhccam-region.sql" timestamp="1537342444530">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/www/dhccam-2.0/mwb/dhccam-region.sql" timestamp="1537409425322">
+        <mark key="[" line="45" column="11" />
+        <mark key="]" line="45" column="11" />
+        <mark key="." line="45" column="11" />
       </file>
       <file name="/BusinessServer.php" timestamp="1537347726030" />
       <file name="/rabbitmq.yml" timestamp="1537253970580" />
@@ -358,7 +358,7 @@
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Entity/Hospital.php" timestamp="1537240576460">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1537350819675">
+      <file name="/PHP Console" timestamp="1537409609053">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -565,10 +565,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$apiService['messageQueue']</text>
+        <text>hospital_id</text>
       </register>
       <register name="-" type="4">
-        <text>$apiService['messageQueue']</text>
+        <text>hospital_id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGQUlMX0tFWVw+</text>
@@ -577,6 +577,21 @@
         <text encoding="base64">ICAgIGN1cmwgIC1YIFBPU1QgLWQgInJib2R5PTxyYm9keT48b3JnaWQ+UURGWTwvb3JnaWQ+PHVzZXJpZD5vN0FpSnRfX1huLXRsNy0wbkhTcnZMbUhqeEhVPC91c2VyaWQ+PHNvdXJjZWlkPmludGVzdDwvc291cmNlaWQ+PGNhdGVnb3J5PjxhcHBjb2RlPnd4X2NsaWVudDwvYXBwY29kZT48YXBwdHlwZT4yPC9hcHB0eXBlPjxiaXpjb2RlPlBhaWQ8L2JpemNvZGU+PC9jYXRlZ29yeT48bWVzc2FnZT48cmVtYXJrPuW9k+WJjeWJqeS9meacqua2iOi0ueaVsOmHjyAke2NvdW50fTwvcmVtYXJrPjwvbWVzc2FnZT48L3Jib2R5PiIgaHR0cDovLzE3Mi4yNi4xOTcuNTQvcXltc2cvYXBpL21lc3NhZ2VhcGkvbWVzc2FnZXB1c2gK</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">ICAgIC8qKgogICAgICog6K6+5aSH5pWw6YePCiAgICAgKgogICAgICogQHZhciBpbnQKICAgICAqCiAgICAgKiBAT1JNXENvbHVtbih0eXBlPSJpbnRlZ2VyIikKICAgICAqLwogICAgcHJpdmF0ZSAkZGV2aWNlQ291bnQ7</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgCg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">IC8qKgogICAgICogQHJldHVybiBpbnQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldElkKCkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPmlkOwogICAgfQoKICAgIC8qKgogICAgICogQHJldHVybiBSZWdpb25Ib3NwaXRhbAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0UmVnaW9uSG9zcGl0YWwoKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+cmVnaW9uSG9zcGl0YWw7CiAgICB9CgogICAgLyoqCiAgICAgKiBAcGFyYW0gJHJlZ2lvbkhvc3BpdGFsCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBzZXRSZWdpb25Ib3NwaXRhbCgkcmVnaW9uSG9zcGl0YWwpCiAgICB7CiAgICAgICAgJHRoaXMtPnJlZ2lvbkhvc3BpdGFsID0gJHJlZ2lvbkhvc3BpdGFsOwogICAgfQoKICAgIC8qKgogICAgICogQHJldHVybiBpbnQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldERldmljZUNvdW50KCkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPmRldmljZUNvdW50OwogICAgfQoKICAgIC8qKgogICAgICogQHBhcmFtICRkZXZpY2VDb3VudAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gc2V0RGV2aWNlQ291bnQoJGRldmljZUNvdW50KQogICAgewogICAgICAgICR0aGlzLT5kZXZpY2VDb3VudCA9ICRkZXZpY2VDb3VudDsKICAgIH0KCiAgICAvKioKICAgICAqIEByZXR1cm4gaW50CiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRSZXFTdWNjQ291bnQoKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+cmVxU3VjY0NvdW50OwogICAgfQoKICAgIC8qKgogICAgICogQHBhcmFtICRyZXFTdWNjQ291bnQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHNldFJlcVN1Y2NDb3VudCgkcmVxU3VjY0NvdW50KQogICAgewogICAgICAgICR0aGlzLT5yZXFTdWNjQ291bnQgPSAkcmVxU3VjY0NvdW50OwogICAgfQoKICAgIC8qKgogICAgICogQHJldHVybiBpbnQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldFJlcUZhaWxDb3VudCgpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5yZXFGYWlsQ291bnQ7CiAgICB9CgogICAgLyoqCiAgICAgKiBAcGFyYW0gJHJlcUZhaWxDb3VudAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gc2V0UmVxRmFpbENvdW50KCRyZXFGYWlsQ291bnQpCiAgICB7CiAgICAgICAgJHRoaXMtPnJlcUZhaWxDb3VudCA9ICRyZXFGYWlsQ291bnQ7CiAgICB9CgogICAgLyoqCiAgICAgKiBAcmV0dXJuIGludAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0UmVxQXZnVGltZSgpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5yZXFBdmdUaW1lOwogICAgfQoKICAgIC8qKgogICAgICogQHBhcmFtICRyZXFBdmdUaW1lCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBzZXRSZXFBdmdUaW1lKCRyZXFBdmdUaW1lKQogICAgewogICAgICAgICR0aGlzLT5yZXFBdmdUaW1lID0gJHJlcUF2Z1RpbWU7CiAgICB9CgogICAgLyoqCiAgICAgKiBAcmV0dXJuIGludAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0UmVxTWF4QW5zVGltZSgpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5yZXFNYXhBbnNUaW1lOwogICAgfQoKICAgIC8qKgogICAgICogQHBhcmFtICRyZXFNYXhBbnNUaW1lCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBzZXRSZXFNYXhBbnNUaW1lKCRyZXFNYXhBbnNUaW1lKQogICAgewogICAgICAgICR0aGlzLT5yZXFNYXhBbnNUaW1lID0gJHJlcU1heEFuc1RpbWU7CiAgICB9CgogICAgLyoqCiAgICAgKiBAcmV0dXJuIGludAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0U3RhdERhdGUoKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+c3RhdERhdGU7CiAgICB9CgogICAgLyoqCiAgICAgKiBAcGFyYW0gJHN0YXREYXRlCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBzZXRTdGF0RGF0ZSgkc3RhdERhdGUpCiAgICB7CiAgICAgICAgJHRoaXMtPnN0YXREYXRlID0gJHN0YXREYXRlOwogICAg</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBgZGV2aWNlX2NvdW50YCBpbnQoMTEpIE5PVCBOVUxMLAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBgZGV2aWNlX2NvdW50YCBpbnQoMTEpIE5PVCBOVUxMLAo=</text>
+      </register>
+      <register name="6" type="4">
         <text>/**
  * Created by PhpStorm.
  * User: dongzt
@@ -584,10 +599,10 @@
  * Time: 下午2:34
  */</text>
       </register>
-      <register name="2" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAkc3ViTWVzc2FnZUVuZCA9ICR0aGlzLT5tZXNzYWdlRGlzcGF0Y2hlci0+c3ViTWVzc2FnZUJ1aWxkZXIoMiwKICAgICAgICAgICAgICAgICRlLT5nZXRNZXNzYWdlKCksTWVzc2FnZUNvbGxlY3Rpb246OkZBSUwsTWVzc2FnZUNvbGxlY3Rpb246OlNFUlZFUl9PUkRFUik7</text>
       </register>
-      <register name="3" type="4">
+      <register name="8" type="4">
         <text>CREATE TABLE `region_hospital` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `name` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
@@ -604,35 +619,8 @@
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci</text>
       </register>
-      <register name="4" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgICAqIEB0aHJvd3MgQmFkUmVxdWVzdEV4Y2VwdGlvbgogICAgICogQHRocm93cyBOb3RGb3VuZEV4Y2VwdGlvbg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICB7CiAgICAgICAgCiAgICB9</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgKiDojrflj5bmnI3liqHlmajlrZflhbgs5LiN5YiG6aG1CiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXREaWN0KCkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPnJlcG9zaXRvcnktPmdldERpY3QoKTsKICAgIH0KCgogICAgLyoqCiAgICAgKiDmo4Dmn6XlhbPogZTnmoTmtojmga/pmJ/liJflkozmnI3liqEs5aaC5p6c5a2Y5Zyo5YiZ5LiN5YWB6K645Yig6ZmkCiAgICAgKgogICAgICogQHBhcmFtICRpZAogICAgICogQHJldHVybiBtaXhlZAogICAgICogQHRocm93cyBCYWRSZXF1ZXN0RXhjZXB0aW9uCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBkZWxldGVPblNhZmUoJGlkKQogICAgewogICAgICAgICRlbnRpdHkgPSAkdGhpcy0+Z2V0KCRpZCk7CiAgICAgICAgJHRoaXMtPmVuc3VyZUVudGl0eSgkZW50aXR5LCAn5b2T5YmN5pyN5Yqh5Zmo5LiN5a2Y5ZyoJyk7CiAgICAgICAgLyoqCiAgICAgICAgICog5pyN5YqhLOWboOS4uuacjeWKoeebuOS6kuazqOWFpSzmiYDku6Xkvb/nlKhtYW5hZ2VyUmVnaXN0cnkKICAgICAgICAgKiBAdmFyIEFwaVNlcnZpY2UgJHNlcnZpY2UKICAgICAgICAgKi8KICAgICAgICAkc2VydmljZSA9ICR0aGlzLT5tYW5hZ2VyUmVnaXN0cnktPmdldFJlcG9zaXRvcnkoQXBpU2VydmljZTo6Y2xhc3MpLT5maW5kT25lQnkoWydzZXJ2ZXInPT4kZW50aXR5XSk7CiAgICAgICAgaWYoJHNlcnZpY2UpewogICAgICAgICAgICB0aHJvdyBuZXcgQmFkUmVxdWVzdEV4Y2VwdGlvbigi5b2T5YmN5pyN5Yqh5Zmo6KKr5pyN5YqhW3skc2VydmljZS0+Z2V0TmFtZSgpfV3miYDkvb/nlKgs5LiN6IO95Yig6ZmkIik7CiAgICAgICAgfQogICAgICAgIC8qKgogICAgICAgICAqIOa2iOaBr+mYn+WIlwogICAgICAgICAqIEB2YXIgQXBpQ29uc3VtZXIgJGNvbnN1bWVyCiAgICAgICAgICovCiAgICAgICAgJGNvbnN1bWVyID0gJHRoaXMtPm1hbmFnZXJSZWdpc3RyeS0+Z2V0UmVwb3NpdG9yeShBcGlDb25zdW1lcjo6Y2xhc3MpLT5maW5kT25lQnkoWydzZXJ2ZXInPT4kZW50aXR5XSk7CiAgICAgICAgaWYoJGNvbnN1bWVyKXsKICAgICAgICAgICAgdGhyb3cgbmV3IEJhZFJlcXVlc3RFeGNlcHRpb24oJ+W9k+WJjeacjeWKoeWZqOiiq+a2iOaBr+mYn+WIl+aJgOS9v+eUqCzkuI3og73liKDpmaQnKTsKICAgICAgICB9CiAgICAgICAgJHRoaXMtPmRlbGV0ZUVudGl0eSgkZW50aXR5KTsKICAgIH0=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Y2xhc3MgU2VydmVyU2VydmljZUltcGwgZXh0ZW5kcyBBZG1pblNlcnZpY2VJbXBsIGltcGxlbWVudHMgU2VydmVyU2VydmljZQo=</text>
-      </register>
-      <register name="8" type="4">
-        <text>/**
-     * 获取服务器字典,不分页
-     */
-    public function getDict();
-
-
-    /**
-     * 检查关联的消息队列和服务,如果存在则不允许删除
-     *
-     * @param $id
-     * @return mixed
-     */
-    public function deleteOnSafe($id);</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIFNlcnZlclNlcnZpY2UgZXh0ZW5kcyBBZG1pblNlcnZpY2Ugewo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
