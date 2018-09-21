@@ -107,7 +107,7 @@
       <option name="PHP Statement" value="true" />
     </context>
   </template>
-  <template name="llt" value="$start = round(microtime(true)*1000);&#10;Log::out('Time','D','time: '.(round(microtime(true)*1000)-$start));" description="time" toReformat="false" toShortenFQNames="true">
+  <template name="llt" value="$timeStart = round(microtime(true)*1000);&#10;Log::out('Time','D','time: '.(round(microtime(true)*1000)-$timeStart));" description="time" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP Expression" value="true" />
       <option name="PHP Statement" value="true" />

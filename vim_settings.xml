@@ -223,8 +223,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/app/config/parameters.yml" timestamp="1537409605439">
-        <mark key="[" line="4" column="26" />
+      <file name="$USER_HOME$/www/dhccam-2.0/app/config/parameters.yml" timestamp="1537499411415">
+        <mark key="[" line="4" column="24" />
         <mark key="]" line="6" column="34" />
         <mark key="." line="6" column="34" />
       </file>
@@ -279,6 +279,9 @@
         <mark key="." line="110" column="34" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Service/TestService.php" timestamp="1537259396752" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Controller/Statistics/InTimeController.php" timestamp="1537500049889">
+        <mark key="[" line="118" column="109" />
+      </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Service/RegionHospitalService.php" timestamp="1537257142818">
         <mark key="[" line="9" column="4" />
         <mark key="]" line="9" column="4" />
@@ -337,11 +340,6 @@
       </file>
       <file name="/BusinessServer.php" timestamp="1537347726030" />
       <file name="/rabbitmq.yml" timestamp="1537253970580" />
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Controller/Statistics/InterfaceController.php" timestamp="1536552368077">
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="." line="104" column="0" />
-      </file>
       <file name="$USER_HOME$/www/ihospital/qy_web/app/logs/XmlHelper/20180902.log" timestamp="1535874696635">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -355,7 +353,7 @@
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Entity/Hospital.php" timestamp="1537240576460">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1537441205740">
+      <file name="/PHP Console" timestamp="1537500519654">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
