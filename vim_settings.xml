@@ -282,6 +282,12 @@
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Controller/Statistics/InTimeController.php" timestamp="1537500049889">
         <mark key="[" line="118" column="109" />
       </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/HttpServiceImpl.php" timestamp="1537505295591">
+        <mark key="[" line="25" column="31" />
+        <mark key="]" line="25" column="29" />
+        <mark key="^" line="25" column="29" />
+        <mark key="." line="25" column="29" />
+      </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Service/RegionHospitalService.php" timestamp="1537257142818">
         <mark key="[" line="9" column="4" />
         <mark key="]" line="9" column="4" />
@@ -381,7 +387,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537504220407">
+      <file name="/Dummy.txt" timestamp="1537505300427">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Controller/Statistics/RegionHospitalController.php" timestamp="1537440464374">
@@ -557,10 +563,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JiYgY2hvd24gLVIgd3d3Ond3dyAvaG9tZS93d3dyb290L2RoY2NhbS0yLjA=</text>
+        <text>admin</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JiYgY2hvd24gLVIgd3d3Ond3dyAvaG9tZS93d3dyb290L2RoY2NhbS0yLjA=</text>
+        <text>admin</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhc1w+</text>
