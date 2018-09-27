@@ -76,6 +76,11 @@
       <file name="$USER_HOME$/www/wehospital/skwehos/src/AppBundle/Utils/XmlUtils/XmlConstruct.php" timestamp="1538049922314">
         <mark key="[" line="8" column="42" />
       </file>
+      <file name="$USER_HOME$/www/wehospital/skwehos/src/AppBundle/Services/ApiManager/TokenService.php" timestamp="1538064564836">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+      </file>
       <file name="$USER_HOME$/www/demo/work/wsdlgenerator/src/request.php" timestamp="1535199052253">
         <mark key="[" line="23" column="53" />
         <mark key="]" line="23" column="53" />
@@ -126,6 +131,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/www/wehospital/skwehos/src/AppBundle/Resources/config/services.yml" timestamp="1538064505394">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/www/wehospital/skwehos/src/AppBundle/Templating/Extension/CustomFilter.php" timestamp="1538049776205" />
       <file name="$USER_HOME$/www/dhccam-2.0/var/logs/doctrine/doctrine-2018-09-07.log" timestamp="1536309627710">
         <mark key="[" line="0" column="0" />
@@ -165,6 +175,11 @@
         <mark key="]" line="111" column="0" />
         <mark key="." line="111" column="0" />
       </file>
+      <file name="$USER_HOME$/www/wehospital/skwehos/src/AppBundle/AppBundle.php" timestamp="1538064285976">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Resources/config/rabbitmq.yml" timestamp="1537264145634">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -195,8 +210,10 @@
         <mark key="]" line="16" column="14" />
         <mark key="." line="16" column="14" />
       </file>
-      <file name="$USER_HOME$/www/wehospital/skwehos/src/AppBundle/Resources/config/dhccam/parameters.yml" timestamp="1538049380703">
-        <mark key="[" line="2" column="22" />
+      <file name="$USER_HOME$/www/wehospital/skwehos/src/AppBundle/Resources/config/dhccam/parameters.yml" timestamp="1538064595666">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/www/demo/work/wsdlgenerator/src/output/WebServiceEntryService.php" timestamp="1535089130255">
         <mark key="[" line="36" column="0" />
@@ -277,6 +294,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/www/wehospital/skwehos/src/AppBundle/Resources/config/dhccam/services.yml" timestamp="1538064514523">
+        <mark key="[" line="7" column="59" />
+      </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/ApiStatService.php" timestamp="1537436655853">
         <mark key="[" line="107" column="32" />
         <mark key="]" line="110" column="34" />
@@ -331,13 +351,19 @@
         <mark key="]" line="16" column="42" />
         <mark key="." line="16" column="42" />
       </file>
+      <file name="$USER_HOME$/www/wehospital/skwehos/app/config/services.yml" timestamp="1538064083601">
+        <mark key="[" line="18" column="29" />
+        <mark key="]" line="18" column="29" />
+        <mark key="." line="18" column="29" />
+        <mark key="^" line="18" column="29" />
+      </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Controller/Statistics/InterfaceController.php" timestamp="1537513792092">
         <mark key="[" line="102" column="44" />
       </file>
       <file name="$USER_HOME$/www/wehospital/skwehos/src/AppBundle/Controller/test/DefaultController.php" timestamp="1538050033793">
-        <mark key="[" line="20" column="32" />
-        <mark key="]" line="20" column="32" />
-        <mark key="." line="20" column="32" />
+        <mark key="[" line="21" column="32" />
+        <mark key="]" line="21" column="32" />
+        <mark key="." line="21" column="32" />
       </file>
       <file name="$USER_HOME$/www/ihospital/qy_web/app/logs/XmlHelper/20180902.log" timestamp="1535874696635">
         <mark key="[" line="0" column="0" />
@@ -556,11 +582,11 @@
       <jump line="19" column="23" filename="$USER_HOME$/www/dhccam-2.0/var/logs/doctrine/doctrine-2018-09-20.log" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGFycmF5KCduYW1lJyA9PiAkbmFtZSk=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGFwcF9rZXk6ICdmYjc5MzA3MjFkMzE4MTFhMGEyODEyNzhmZjQ1YjcxNicK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGFycmF5KCduYW1lJyA9PiAkbmFtZSk=</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhc1w+</text>
@@ -569,31 +595,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIEFwcEJ1bmRsZVxVdGlsc1xMb2c7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGFwcF9rZXk6ICdmYjc5MzA3MjFkMzE4MTFhMGEyODEyNzhmZjQ1YjcxNicK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIEFwcEJ1bmRsZVxFdmVudExpc3RlbmVyXFJlcXVlc3RMaXN0ZW5lcjsK</text>
+        <text encoding="base64">ICAgICAgICAgIGFwcF9pZDogJzJhNzRjMmVjLTZkZjItMTFlOC1hZTgyLTAwMTYzZTAzNmNlNCcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3JlZ3VsYXJfcGhvbmUnICA9PiAgJHRoaXMtPmNvbnRhaW5lci0+Z2V0UGFyYW1ldGVyKCdyZWd1bGFyLnBob25lJyksCg==</text>
+        <text encoding="base64">ICAgICAgICBhbGlwYXk6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3JlZ3VsYXJfY29udGFjdCcgID0+ICAkdGhpcy0+Y29udGFpbmVyLT5nZXRQYXJhbWV0ZXIoJ3JlZ3VsYXIuY29udGFjdCcpLAo=</text>
+        <text encoding="base64">ICAgICAgICAjIOaUr+S7mOWunQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGFwcF9rZXk6ICdjZWM3ZTk2MjdiOWJjZjI1NmI1ZWIwZGI3OTE1MmE3ZicK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2hvc3BpdGFsX25hbWUnICA9PiAgJHRoaXMtPmNvbnRhaW5lci0+Z2V0UGFyYW1ldGVyKCdob3NwaXRhbC5uYW1lJyksCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGFwcF9pZDogJ2E1Y2Y2NGJiLTZkZjItMTFlOC1hZTgyLTAwMTYzZTAzNmNlNCcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2J1c2luZXNzX2lob3NwaXRhbCcgID0+ICAkdGhpcy0+Y29udGFpbmVyLT5nZXRQYXJhbWV0ZXIoJ2J1c2luZXNzLmlob3NwaXRhbCcpLAo=</text>
+        <text encoding="base64">ICAgICAgICB3ZWNoYXQ6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2J1c2luZXNzX2V4YW1pbmF0aW9uJyAgPT4gICR0aGlzLT5jb250YWluZXItPmdldFBhcmFtZXRlcignYnVzaW5lc3MuZXhhbWluYXRpb24nKSwK</text>
+        <text encoding="base64">ICAgICAgICAjIOW+ruS/oQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2J1c2luZXNzX2ZvbGxvd3VwJyAgPT4gICR0aGlzLT5jb250YWluZXItPmdldFBhcmFtZXRlcignYnVzaW5lc3MuZm9sbG93dXAnKSwK</text>
+      <register name="9" type="4">
+        <text encoding="base64">Ly8gICAgICAgIC8vIOiuvue9ruWtmOWPluW6j+WIl+WMlgovLyAgICAgICAgJHRoaXMtPmNhY2hlLT5zZXRTZXJpYWxpemVyKCk7</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
