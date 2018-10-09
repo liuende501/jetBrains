@@ -203,6 +203,9 @@
         <mark key="]" line="7" column="5" />
         <mark key="." line="7" column="5" />
       </file>
+      <file name="$USER_HOME$/www/wehospital/skwehos/src/AppBundle/Controller/treatment/TreatmentController.php" timestamp="1539054921731">
+        <mark key="[" line="40" column="36" />
+      </file>
       <file name="$USER_HOME$/www/dhccam-2.0/logrotate.sh" timestamp="1536990657880">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -222,6 +225,9 @@
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/wehospital/skwehos/src/AppBundle/Resources/views/pages/treatment/pages/recordlist.html.twig" timestamp="1539054596477">
+        <mark key="[" line="0" column="32" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/sync.sh" timestamp="1537344449154">
         <mark key="[" line="7" column="14" />
@@ -320,8 +326,8 @@
         <mark key="^" line="27" column="29" />
         <mark key="." line="27" column="29" />
       </file>
-      <file name="$USER_HOME$/www/wehospital/skwehos/src/AppBundle/Services/BService/TreatmentService.php" timestamp="1539052757786">
-        <mark key="[" line="39" column="19" />
+      <file name="$USER_HOME$/www/wehospital/skwehos/src/AppBundle/Services/BService/TreatmentService.php" timestamp="1539054357983">
+        <mark key="[" line="45" column="14" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
@@ -392,6 +398,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/www/wehospital/skwehos/src/AppBundle/Resources/views/base.html.twig" timestamp="1539054627894">
+        <mark key="[" line="7" column="47" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/Filter/SignGenerator.php" timestamp="1536832830086">
         <mark key="[" line="131" column="4" />
         <mark key="]" line="127" column="0" />
@@ -400,7 +411,7 @@
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Entity/Hospital.php" timestamp="1537240576460">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1539051658561">
+      <file name="/PHP Console" timestamp="1539055009184">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -431,8 +442,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538987444209">
+      <file name="/Dummy.txt" timestamp="1539055096736">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/wehospital/skwehos/src/AppBundle/Resources/views/pages/treatment/pages/recorddetail.html.twig" timestamp="1539054996291">
+        <mark key="[" line="0" column="32" />
       </file>
       <file name="$USER_HOME$/www/demo/work/wsdlgenerator/src/input.xml" timestamp="1538112472553">
         <mark key="[" line="0" column="0" />
@@ -615,8 +629,8 @@
       <jump line="8" column="27" filename="$USER_HOME$/www/demo/work/wsdlgenerator/src/input.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>!array_key_exists($inTypeKey, $types)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDxtZXRhIG5hbWU9ImRlc2NyaXB0aW9uIiBjb250ZW50PSJ7eyBob3NwaXRhbF9uYW1lIH19Ij4K</text>
       </register>
       <register name="-" type="4">
         <text>!array_key_exists($inTypeKey, $types)</text>
@@ -627,32 +641,32 @@
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIDxtZXRhIG5hbWU9ImRlc2NyaXB0aW9uIiBjb250ZW50PSJ7eyBob3NwaXRhbF9uYW1lIH19Ij4K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIDxtZXRhIG5hbWU9ImtleXdvcmRzIiBjb250ZW50PSJ7eyBob3NwaXRhbF9uYW1lIH19Ij4K</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">ICAgICAgICAgICBpZighXGlzX2FycmF5KCR2YWx1ZVsncGFyYW1zT3V0J10pKXsKICAgICAgICAgICAgICAgICAgICAkdmFsdWVbJ3BhcmFtc091dCddID0gYXJyYXkoKTsKICAgICAgICAgICAgICAgIH0=</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgICAgICAgICAgaWYoIVxpc19hcnJheSgkdmFsdWVbJ3BhcmFtc0luJ10pKXsKICAgICAgICAgICAgICAgICAgICAkdmFsdWVbJ3BhcmFtc0luJ10gPSBhcnJheSgpOwogICAgICAgICAgICAgICAgfQ==</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+aGFuZGxlRGhjY2FtKCRjb250YWluZXIpOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">IAo=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgLyoqCiAgICAgKiDmoLnmja7mnaHku7bliKTmlq3mmK/lkKbliqDovb3nvZHlhbPmnI3liqEKICAgICAqCiAgICAgKiBAcGFyYW0gQ29udGFpbmVyQnVpbGRlciAkY29udGFpbmVyCiAgICAgKi8KICAgIHByaXZhdGUgZnVuY3Rpb24gaGFuZGxlRGhjY2FtKENvbnRhaW5lckJ1aWxkZXIgJGNvbnRhaW5lcikKICAgIHsKICAgICAgICAkZGhjY2FtU3RhcnQgPSAkY29udGFpbmVyLT5nZXRQYXJhbWV0ZXIoJ2RoY2NhbS5zdGFydCcpOwogICAgICAgIGlmICghJGRoY2NhbVN0YXJ0KXsKICAgICAgICAgICAgJGRlZmluaXRpb24gPSAkY29udGFpbmVyLT5maW5kRGVmaW5pdGlvbignc29hcGNsaWVudC5kaGVhbHRoJyk7CiAgICAgICAgICAgICRkZWZpbml0aW9uLT5yZXBsYWNlQXJndW1lbnQoNCxudWxsKTsKICAgICAgICB9CiAgICB9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Jwo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgICJwYWdlU2l6ZSI6ICIxMCIsCiAgICAiaWRlbnRpdHlDYXJkVmFsdWUiOiAiMTAiLAogICAgInBhdGllbnROYW1lIjogIjMyMTQi</text>
+        <text encoding="base64">ICAgLyoqCiAgICAgKiDmoLnmja7mnaHku7bliKTmlq3mmK/lkKbliqDovb3nvZHlhbPmnI3liqEKICAgICAqCiAgICAgKiBAcGFyYW0gQ29udGFpbmVyQnVpbGRlciAkY29udGFpbmVyCiAgICAgKi8KICAgIHByaXZhdGUgZnVuY3Rpb24gaGFuZGxlRGhjY2FtKENvbnRhaW5lckJ1aWxkZXIgJGNvbnRhaW5lcikKICAgIHsKICAgICAgICAkZGhjY2FtU3RhcnQgPSAkY29udGFpbmVyLT5nZXRQYXJhbWV0ZXIoJ2RoY2NhbS5zdGFydCcpOwogICAgICAgIGlmICghJGRoY2NhbVN0YXJ0KXsKICAgICAgICAgICAgJGRlZmluaXRpb24gPSAkY29udGFpbmVyLT5maW5kRGVmaW5pdGlvbignc29hcGNsaWVudC5kaGVhbHRoJyk7CiAgICAgICAgICAgICRkZWZpbml0aW9uLT5yZXBsYWNlQXJndW1lbnQoNCxudWxsKTsKICAgICAgICB9CiAgICB9</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Jwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
