@@ -159,7 +159,7 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Service/Impl/AdminServiceImpl.php" timestamp="1537258724195">
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Service/Impl/AdminServiceImpl.php" timestamp="1539068883968">
         <mark key="[" line="124" column="14" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/shell/message.sh" timestamp="1537265935987">
@@ -192,8 +192,8 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Service/Impl/RegionHospitalServiceImpl.php" timestamp="1539067298969">
-        <mark key="[" line="57" column="8" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Service/Impl/RegionHospitalServiceImpl.php" timestamp="1539069966047">
+        <mark key="[" line="45" column="46" />
         <mark key="]" line="57" column="8" />
         <mark key="." line="57" column="8" />
       </file>
@@ -209,6 +209,9 @@
       </file>
       <file name="$USER_HOME$/www/wehospital/skwehos/src/AppBundle/Controller/treatment/TreatmentController.php" timestamp="1539067590799">
         <mark key="[" line="46" column="69" />
+      </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/RegionStatDayServiceImpl.php" timestamp="1539068316189">
+        <mark key="[" line="73" column="50" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/logrotate.sh" timestamp="1536990657880">
         <mark key="[" line="0" column="0" />
@@ -259,7 +262,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/mwb/readme.md" timestamp="1539065906693">
+      <file name="$USER_HOME$/www/dhccam-2.0/mwb/readme.md" timestamp="1539070948293">
         <mark key="[" line="70" column="0" />
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
@@ -430,7 +433,7 @@
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Entity/Hospital.php" timestamp="1537240576460">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1539067593890">
+      <file name="/PHP Console" timestamp="1539070678900">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -461,7 +464,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539055096736">
+      <file name="/Dummy.txt" timestamp="1539070936426">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/wehospital/skwehos/src/AppBundle/Resources/views/pages/treatment/pages/recorddetail.html.twig" timestamp="1539054996291">
@@ -472,8 +475,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Controller/Statistics/RegionHospitalController.php" timestamp="1539066638772">
-        <mark key="[" line="122" column="19" />
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Controller/Statistics/RegionHospitalController.php" timestamp="1539068857510">
+        <mark key="[" line="122" column="43" />
         <mark key="]" line="122" column="19" />
         <mark key="^" line="24" column="53" />
         <mark key="." line="122" column="19" />
