@@ -266,8 +266,10 @@
         <mark key="]" line="6" column="34" />
         <mark key="." line="6" column="34" />
       </file>
-      <file name="$USER_HOME$/www/symfony/v3.4/src/AppBundle/Controller/DefaultController.php" timestamp="1539310599650">
-        <mark key="[" line="14" column="5" />
+      <file name="$USER_HOME$/www/symfony/v3.4/src/AppBundle/Controller/DefaultController.php" timestamp="1539311195513">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/CacheStatServiceImpl.php" timestamp="1539080026585">
         <mark key="[" line="484" column="13" />
@@ -323,6 +325,7 @@
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Controller/Statistics/InTimeController.php" timestamp="1537500049889">
         <mark key="[" line="118" column="109" />
       </file>
+      <file name="$USER_HOME$/www/symfony/v3.4/web/app_dev.php" timestamp="1539312111242" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Service/RegionHospitalService.php" timestamp="1539066678586">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -417,7 +420,7 @@
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Entity/Hospital.php" timestamp="1537240576460">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1539311029719">
+      <file name="/PHP Console" timestamp="1539312180528">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -627,8 +630,8 @@
       <jump line="8" column="27" filename="$USER_HOME$/www/demo/work/wsdlgenerator/src/input.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">bmV3IFNvYXBWYXIoW25ldyBTb2FwVmFyKCc8IVtDREFUQVsnLiR2YWx1ZS4nXV0+JyxYU0RfQU5ZWE1MKV0sU09BUF9FTkNfT0JKRUNUKQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkeSA9IDY7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">bmV3IFNvYXBWYXIoW25ldyBTb2FwVmFyKCc8IVtDREFUQVsnLiR2YWx1ZS4nXV0+JyxYU0RfQU5ZWE1MKV0sU09BUF9FTkNfT0JKRUNUKQ==</text>
@@ -640,34 +643,34 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkeSA9IDY7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50X3IoJHJlc3VsdC0+UmVxdWVzdFN1Ym1pdFJlc3VsdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkeCA9IDU7Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaW50X3IoJHJlc3VsdC0+UmVxdWVzdFN1Ym1pdFJlc3VsdCk7Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICRyZXN1bHQgPSAkc29hcC0+X19zb2FwQ2FsbCgnUmVxdWVzdFN1Ym1pdCcsYXJyYXkoJHByYSkpOwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgIHsKICAgICAgICAKICAgIH0=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRCYXNlVXJsKCkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPmJhc2VVcmw7CiAgICB9CgogICAgLyoqCiAgICAgKiBAcGFyYW0gJGJhc2VVcmwKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHNldEJhc2VVcmwoJGJhc2VVcmwpCiAgICB7CiAgICAgICAgJHRoaXMtPmJhc2VVcmwgPSAkYmFzZVVybDsKICAgIH0K</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>ALTER TABLE `dhccam`.`region_hospital` 
 CHANGE COLUMN `base_url` `internet_url` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci DEFAULT NULL AFTER `token`,
 CHANGE COLUMN datetime(0) DEFAULT NULL AFTER `update_time`,
 ADD COLUMN `intranet_url` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci DEFAULT NULL AFTER `internet_url`;</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIDxtZXRhIG5hbWU9ImRlc2NyaXB0aW9uIiBjb250ZW50PSJ7eyBob3NwaXRhbF9uYW1lIH19Ij4K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIDxtZXRhIG5hbWU9ImtleXdvcmRzIiBjb250ZW50PSJ7eyBob3NwaXRhbF9uYW1lIH19Ij4K</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICBpZighXGlzX2FycmF5KCR2YWx1ZVsncGFyYW1zT3V0J10pKXsKICAgICAgICAgICAgICAgICAgICAkdmFsdWVbJ3BhcmFtc091dCddID0gYXJyYXkoKTsKICAgICAgICAgICAgICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
