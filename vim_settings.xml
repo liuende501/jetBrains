@@ -241,7 +241,6 @@
         <mark key="]" line="7" column="14" />
         <mark key="." line="7" column="14" />
       </file>
-      <file name="$USER_HOME$/www/remote/test/web/app_dev.php" timestamp="1539312857453" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Command/StatTool/ClearCommand.php" timestamp="1537424194780">
         <mark key="[" line="187" column="0" />
         <mark key="]" line="187" column="0" />
@@ -281,6 +280,11 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Service/Impl/Wsdl2PhpServiceImpl.php" timestamp="1539332544391">
+        <mark key="[" line="137" column="22" />
+        <mark key="]" line="137" column="22" />
+        <mark key="." line="137" column="22" />
       </file>
       <file name="$USER_HOME$/www/wehospital/skwehos/app/config/parameters.yml" timestamp="1539143735174">
         <mark key="[" line="19" column="30" />
@@ -326,7 +330,6 @@
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Controller/Statistics/InTimeController.php" timestamp="1537500049889">
         <mark key="[" line="118" column="109" />
       </file>
-      <file name="$USER_HOME$/www/symfony/v3.4/web/app_dev.php" timestamp="1539313343719" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Service/RegionHospitalService.php" timestamp="1539066678586">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -452,7 +455,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539159495318">
+      <file name="/Dummy.txt" timestamp="1539332592402">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/wehospital/skwehos/src/AppBundle/Resources/views/pages/treatment/pages/recorddetail.html.twig" timestamp="1539054996291">
@@ -512,7 +515,6 @@
         <mark key="]" line="15" column="8" />
         <mark key="." line="15" column="8" />
       </file>
-      <file name="$USER_HOME$/www/remote/test/src/AppBundle/Controller/DefaultController.php" timestamp="1539313083091" />
       <file name="$USER_HOME$/www/demo/util/moniorwx.php" timestamp="1536135663222">
         <mark key="[" line="35" column="18" />
         <mark key="]" line="35" column="18" />
@@ -632,11 +634,11 @@
       <jump line="8" column="27" filename="$USER_HOME$/www/demo/work/wsdlgenerator/src/input.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkeSA9IDY7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>uniqid('wsdl', false)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmV3IFNvYXBWYXIoW25ldyBTb2FwVmFyKCc8IVtDREFUQVsnLiR2YWx1ZS4nXV0+JyxYU0RfQU5ZWE1MKV0sU09BUF9FTkNfT0JKRUNUKQ==</text>
+        <text>uniqid('wsdl', false)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhc1w+</text>
