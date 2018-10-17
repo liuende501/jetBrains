@@ -48,7 +48,6 @@
         <mark key="]" line="59" column="48" />
         <mark key="." line="59" column="48" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Controller/Base/BaseController.php" timestamp="1539769435413" />
       <file name="$USER_HOME$/www/dhccam-2.0/bin/console" timestamp="1537349844674">
         <mark key="[" line="17" column="80" />
         <mark key="]" line="19" column="0" />
@@ -181,6 +180,9 @@
         <mark key="[" line="111" column="0" />
         <mark key="]" line="111" column="0" />
         <mark key="." line="111" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/learning/.gitignore" timestamp="1539777296536">
+        <mark key="[" line="48" column="30" />
       </file>
       <file name="$USER_HOME$/www/wehospital/skwehos/src/AppBundle/AppBundle.php" timestamp="1538064285976">
         <mark key="[" line="5" column="0" />
@@ -489,7 +491,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539770212943">
+      <file name="/Dummy.txt" timestamp="1539777329425">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/wehospital/skwehos/src/AppBundle/Resources/views/pages/treatment/pages/recorddetail.html.twig" timestamp="1539054996291">
