@@ -28,7 +28,6 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/TokenServiceImpl.php" timestamp="1539601099653" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Repository/BaseStatRepository.php" timestamp="1537438965484">
         <mark key="[" line="267" column="0" />
         <mark key="]" line="267" column="0" />
@@ -64,7 +63,6 @@
         <mark key="]" line="9" column="57" />
         <mark key="." line="9" column="57" />
       </file>
-      <file name="$USER_HOME$/www/wehospital/qywehos/vendor/alipay_sdk/aop/serviceWindow/AliHttpRequest.php" timestamp="1539600046937" />
       <file name="$USER_HOME$/www/dhccam-2.0/src/GatewayBundle/BusinessServer/RestRequest.php" timestamp="1536731584389">
         <mark key="[" line="93" column="8" />
         <mark key="]" line="93" column="8" />
@@ -219,6 +217,11 @@
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/RegionStatDayServiceImpl.php" timestamp="1539068316189">
         <mark key="[" line="73" column="50" />
       </file>
+      <file name="$USER_HOME$/www/wehospital/ydwehos/src/AppBundle/EventListener/RequestListener.php" timestamp="1539754074869">
+        <mark key="[" line="175" column="20" />
+        <mark key="]" line="175" column="20" />
+        <mark key="." line="175" column="20" />
+      </file>
       <file name="$USER_HOME$/www/dhccam-2.0/logrotate.sh" timestamp="1536990657880">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -347,7 +350,6 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/www/wehospital/skwehos/src/AppBundle/Exception/ApiManagerException.php" timestamp="1539600189889" />
       <file name="$USER_HOME$/www/dhccam-2.0/app/config/config.yml" timestamp="1536471435945">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -653,11 +655,11 @@
       <jump line="96" column="45" filename="$USER_HOME$/www/wehospital/skwehos/src/AppBundle/EventListener/RequestListener.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>echo '111';</text>
       </register>
       <register name="-" type="4">
-        <text>|| ($u2 - $u1) != intval($userAppLinkConfig['tokenDuration'])</text>
+        <text>echo '111';</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhc1w+</text>
