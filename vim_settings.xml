@@ -217,10 +217,10 @@
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/RegionStatDayServiceImpl.php" timestamp="1539068316189">
         <mark key="[" line="73" column="50" />
       </file>
-      <file name="$USER_HOME$/www/wehospital/ydwehos/src/AppBundle/EventListener/RequestListener.php" timestamp="1539754074869">
-        <mark key="[" line="175" column="20" />
-        <mark key="]" line="175" column="20" />
-        <mark key="." line="175" column="20" />
+      <file name="$USER_HOME$/www/wehospital/ydwehos/src/AppBundle/EventListener/RequestListener.php" timestamp="1539754301272">
+        <mark key="[" line="178" column="24" />
+        <mark key="]" line="178" column="24" />
+        <mark key="." line="178" column="24" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/logrotate.sh" timestamp="1536990657880">
         <mark key="[" line="0" column="0" />
@@ -439,13 +439,13 @@
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Entity/Hospital.php" timestamp="1537240576460">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/www/wehospital/skwehos/src/AppBundle/EventListener/RequestListener.php" timestamp="1539601437947">
+      <file name="$USER_HOME$/www/wehospital/skwehos/src/AppBundle/EventListener/RequestListener.php" timestamp="1539754325770">
         <mark key="'" line="77" column="45" />
         <mark key="[" line="77" column="46" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1539601566227">
+      <file name="/PHP Console" timestamp="1539754374948">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -656,10 +656,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>echo '111';</text>
+        <text>!isset ($_GET ['token']) || empty ($_GET['token']) ||</text>
       </register>
       <register name="-" type="4">
-        <text>echo '111';</text>
+        <text>!isset ($_GET ['token']) || empty ($_GET['token']) ||</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhc1w+</text>
