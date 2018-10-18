@@ -276,6 +276,11 @@
         <mark key="]" line="187" column="0" />
         <mark key="." line="187" column="0" />
       </file>
+      <file name="$USER_HOME$/wfront/demo/vuejs/html/component.html" timestamp="1539832439541">
+        <mark key="[" line="186" column="28" />
+        <mark key="]" line="186" column="35" />
+        <mark key="." line="186" column="0" />
+      </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AppBundle/Service/Impl/ApiStatDayServiceImpl.php" timestamp="1537440587618">
         <mark key="[" line="108" column="5" />
         <mark key="]" line="84" column="0" />
@@ -682,7 +687,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHslIHNldCBob3NwTmFtZSA9ICdYWFjljLvpmaInICV9Cg==</text>
+        <text encoding="base64">ICAgIDxzcGFuPnt7IHBhcmVudE51bWJlciB9fTwvc3Bhbj4K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">J01FVEhPRDogJyAuIF9fTUVUSE9EX18gLiAnIExJTkU6ICcgLiAkZS0+Z2V0TGluZSgpIC4g</text>
@@ -690,8 +695,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxhc1w+</text>
       </register>
-      <register name="0" type="4">
-        <text />
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIDxzcGFuPnt7IHBhcmVudE51bWJlciB9fTwvc3Bhbj4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHslIHNldCBob3NwTmFtZSA9ICdYWFjljLvpmaInICV9Cg==</text>
