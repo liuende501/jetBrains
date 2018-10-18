@@ -1,5 +1,0 @@
-<templateSet group="SilverStripe PHP">
-  <template name="has_many" value="private static $has_many = array();" description="Has many" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <context />
-  </template>
-</templateSet>

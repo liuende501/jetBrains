@@ -1,5 +1,5 @@
 <templateSet group="liuende">
-  <template name="hh" value="/**&#10; * User: $USER$&#10; * Date: $DATE$&#10; * Time: $TIME$&#10; */" description="document comment" toReformat="false" toShortenFQNames="true" deactivated="true">
+  <template name="hh" value="/**&#10; * User: $USER$&#10; * Date: $DATE$&#10; * Time: $TIME$&#10; */" description="document comment" toReformat="false" toShortenFQNames="true">
     <variable name="USER" expression="user()" defaultValue="" alwaysStopAt="false" />
     <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="false" />
     <variable name="TIME" expression="time()" defaultValue="" alwaysStopAt="false" />
@@ -7,7 +7,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="llj" value="Log::out('$filename$','I','['.__METHOD__.']  $TEXT$: '.json_encode($arg$,JSON_UNESCAPED_UNICODE));" description="output the log" toReformat="false" toShortenFQNames="true" deactivated="true">
+  <template name="llj" value="Log::out('$filename$','I','['.__METHOD__.']  $TEXT$: '.json_encode($arg$,JSON_UNESCAPED_UNICODE));" description="output the log" toReformat="false" toShortenFQNames="true">
     <variable name="filename" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="false" />
     <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="arg" expression="" defaultValue="" alwaysStopAt="true" />
@@ -16,7 +16,7 @@
       <option name="PHP Statement" value="true" />
     </context>
   </template>
-  <template name="ltry" value="try{&#10;    $TEXT$&#10;} catch (\Exception $e) {&#10;    Log::out('$filename$','E','METHOD: '.__METHOD__.' LINE: '.$e-&gt;getLine(). ' ERROR: '.$e-&gt;getMessage());&#10;}&#10;" description="output the log" toReformat="false" toShortenFQNames="true" deactivated="true">
+  <template name="ltry" value="try{&#10;    $TEXT$&#10;} catch (\Exception $e) {&#10;    Log::out('$filename$','E','METHOD: '.__METHOD__.' LINE: '.$e-&gt;getLine(). ' ERROR: '.$e-&gt;getMessage());&#10;}&#10;" description="output the log" toReformat="false" toShortenFQNames="true">
     <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="filename" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="false" />
     <context>
@@ -24,7 +24,7 @@
       <option name="PHP Statement" value="true" />
     </context>
   </template>
-  <template name="llg" value="Log::out('$filename$','I','METHOD: '.__METHOD__.'   $TEXT$: '.$arg$);" description="output the log" toReformat="false" toShortenFQNames="true" deactivated="true">
+  <template name="llg" value="Log::out('$filename$','I','METHOD: '.__METHOD__.'   $TEXT$: '.$arg$);" description="output the log" toReformat="false" toShortenFQNames="true">
     <variable name="filename" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="false" />
     <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="arg" expression="" defaultValue="" alwaysStopAt="true" />
@@ -33,87 +33,87 @@
       <option name="PHP Statement" value="true" />
     </context>
   </template>
-  <template name="lle" value="Log::out('$filename$','E','['.__METHOD__.'] LINE: '.$e-&gt;getLine(). ' ERROR: '.$e-&gt;getMessage());" description="output the log" toReformat="false" toShortenFQNames="true" deactivated="true">
+  <template name="lle" value="Log::out('$filename$','E','['.__METHOD__.'] LINE: '.$e-&gt;getLine(). ' ERROR: '.$e-&gt;getMessage());" description="output the log" toReformat="false" toShortenFQNames="true">
     <variable name="filename" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="PHP Expression" value="true" />
       <option name="PHP Statement" value="true" />
     </context>
   </template>
-  <template name="ben" value="echo -e '\n$TEXT$';&#10;&#10;" description="echo \n" toReformat="false" toShortenFQNames="true" deactivated="true">
+  <template name="ben" value="echo -e '\n$TEXT$';&#10;&#10;" description="echo \n" toReformat="false" toShortenFQNames="true">
     <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Bash" value="true" />
     </context>
   </template>
-  <template name="bec" value="echo &quot;##################$TEXT$####################&quot;" description="echo comment" toReformat="false" toShortenFQNames="true" deactivated="true">
+  <template name="bec" value="echo &quot;##################$TEXT$####################&quot;" description="echo comment" toReformat="false" toShortenFQNames="true">
     <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Bash" value="true" />
     </context>
   </template>
-  <template name="beb" value="echo &quot;-----$TEXT$-----&quot;" description="echo bar" toReformat="false" toShortenFQNames="true" deactivated="true">
+  <template name="beb" value="echo &quot;-----$TEXT$-----&quot;" description="echo bar" toReformat="false" toShortenFQNames="true">
     <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Bash" value="true" />
     </context>
   </template>
-  <template name="ud" value="User: $USER$  Date: $DATE$" description="user&amp;date" toReformat="false" toShortenFQNames="true" deactivated="true">
+  <template name="ud" value="User: $USER$  Date: $DATE$" description="user&amp;date" toReformat="false" toShortenFQNames="true">
     <variable name="USER" expression="user()" defaultValue="" alwaysStopAt="false" />
     <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="PHP Comment" value="true" />
     </context>
   </template>
-  <template name="cpr" value="print '\n$COMMENT$'.PHP_EOL;&#10;" description="" toReformat="false" toShortenFQNames="true" deactivated="true">
+  <template name="cpr" value="print '\n$COMMENT$'.PHP_EOL;&#10;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="COMMENT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="lpr" value="print '$DESC$'.$PHP$.PHP_EOL;&#10;" description="" toReformat="false" toShortenFQNames="true" deactivated="true">
+  <template name="lpr" value="print '$DESC$'.$PHP$.PHP_EOL;&#10;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="DESC" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="PHP" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="pen" value="echo &quot;----------\n&quot;;" description="" toReformat="false" toShortenFQNames="true" deactivated="true">
+  <template name="pen" value="echo &quot;----------\n&quot;;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="ormid" value="/**&#10; * @ORM\Id()&#10; * @ORM\Column(name=&quot;id&quot;, type=&quot;integer&quot;)&#10; * @ORM\GeneratedValue(strategy=&quot;AUTO&quot;)&#10; */&#10;private $id;&#10;" description="id property" toReformat="false" toShortenFQNames="true" deactivated="true">
+  <template name="ormid" value="/**&#10; * @ORM\Id()&#10; * @ORM\Column(name=&quot;id&quot;, type=&quot;integer&quot;)&#10; * @ORM\GeneratedValue(strategy=&quot;AUTO&quot;)&#10; */&#10;private $id;&#10;" description="id property" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Bash" value="true" />
     </context>
   </template>
-  <template name="ormsoft" value="@ORM\HasLifecycleCallbacks()&#10;* @SoftDeleteable()" description="soft annotation" toReformat="false" toShortenFQNames="true" deactivated="true">
+  <template name="ormsoft" value="@ORM\HasLifecycleCallbacks()&#10;* @SoftDeleteable()" description="soft annotation" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Bash" value="true" />
       <option name="PHP Comment" value="true" />
     </context>
   </template>
-  <template name="ormrp" value="(repositoryClass=&quot;AppBundle\Repository\$TEXT$Repository&quot;)" description="orm rp" toReformat="false" toShortenFQNames="true" deactivated="true">
+  <template name="ormrp" value="(repositoryClass=&quot;AppBundle\Repository\$TEXT$Repository&quot;)" description="orm rp" toReformat="false" toShortenFQNames="true">
     <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Bash" value="true" />
       <option name="PHP Comment" value="true" />
     </context>
   </template>
-  <template name="mem" value="echo __METHOD__.PHP_EOL;" description="mode return" toReformat="false" toShortenFQNames="true" deactivated="true">
+  <template name="mem" value="echo __METHOD__.PHP_EOL;" description="mode return" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP Expression" value="true" />
       <option name="PHP Statement" value="true" />
     </context>
   </template>
-  <template name="llt" value="$timeStart = round(microtime(true)*1000);&#10;Log::out('Time','D','time: '.(round(microtime(true)*1000)-$timeStart));" description="time" toReformat="false" toShortenFQNames="true" deactivated="true">
+  <template name="llt" value="$timeStart = round(microtime(true)*1000);&#10;Log::out('Time','D','time: '.(round(microtime(true)*1000)-$timeStart));" description="time" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP Expression" value="true" />
       <option name="PHP Statement" value="true" />
     </context>
   </template>
-  <template name="bhh" value="# description: $TEXT$&#10;# &#10;# author: $USER$&#10;# date: $DATE$ $TIME$&#10;# ==============================================================================" description="bash head comment" toReformat="false" toShortenFQNames="true" deactivated="true">
+  <template name="bhh" value="# description: $TEXT$&#10;# &#10;# author: $USER$&#10;# date: $DATE$ $TIME$&#10;# ==============================================================================" description="bash head comment" toReformat="false" toShortenFQNames="true">
     <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="USER" expression="user()" defaultValue="" alwaysStopAt="false" />
     <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="false" />

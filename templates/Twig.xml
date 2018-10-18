@@ -11,4 +11,11 @@
       <option name="Twig" value="true" />
     </context>
   </template>
+  <template name="blk" value="{% block $NAME$ %}&#10;    $END$&#10;{% endblock %}&#10;" description="block...endblock" toReformat="true" toShortenFQNames="false">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+      <option name="Twig" value="false" />
+    </context>
+  </template>
 </templateSet>

@@ -1,5 +1,5 @@
 <templateSet group="ihospital">
-  <template name="gsr" value="/**&#10; * $COMMENT$&#10; */&#10;public function $FUNC$Parameter($$$PARMS1$,$$$PARMS2$,$$$PARMS3$)&#10;{&#10;    $code  = SoapConstant::$CODE$;&#10;    $xml   = array(&#10;        'terminalId'   =&gt; 'Web',&#10;        'terminalType' =&gt; 'Web',&#10;        '$PARMS1$' =&gt; $$$PARMS1$,&#10;        '$PARMS2$' =&gt; $$$PARMS2$,&#10;        '$PARMS3$' =&gt; $$$PARMS3$&#10;    );&#10;    $array = $this-&gt;getSoapRequest($code, $xml);&#10;    return $array;&#10;}&#10;&#10;$END$" description="'get soap result'" toReformat="false" toShortenFQNames="true" deactivated="true">
+  <template name="gsr" value="/**&#10; * $COMMENT$&#10; */&#10;public function $FUNC$Parameter($$$PARMS1$,$$$PARMS2$,$$$PARMS3$)&#10;{&#10;    $code  = SoapConstant::$CODE$;&#10;    $xml   = array(&#10;        'terminalId'   =&gt; 'Web',&#10;        'terminalType' =&gt; 'Web',&#10;        '$PARMS1$' =&gt; $$$PARMS1$,&#10;        '$PARMS2$' =&gt; $$$PARMS2$,&#10;        '$PARMS3$' =&gt; $$$PARMS3$&#10;    );&#10;    $array = $this-&gt;getSoapRequest($code, $xml);&#10;    return $array;&#10;}&#10;&#10;$END$" description="'get soap result'" toReformat="false" toShortenFQNames="true">
     <variable name="COMMENT" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="FUNC" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="PARMS1" expression="" defaultValue="" alwaysStopAt="true" />
@@ -10,7 +10,7 @@
       <option name="PHP Class Member" value="true" />
     </context>
   </template>
-  <template name="psr" value="$soapResult = $soap-&gt;getSoapDataByArray($array);&#10;&#10;$resultCode = $soapResult['ResultCode'][0];&#10;$resultDesc = $soapResult['ResultDesc'][0];&#10;if ($resultCode == 0) {&#10;    $resultList = $result['ResultList'];&#10;    $END$&#10;    $result = ['code' =&gt; '0', 'msg' =&gt; 'success'];&#10;}else{&#10;    $result = ['code' =&gt; $resultCode, 'msg' =&gt; $resultDesc];&#10;}&#10;return new JsonResponse($result);" description="'parse soap result'" toReformat="false" toShortenFQNames="true" deactivated="true">
+  <template name="psr" value="$soapResult = $soap-&gt;getSoapDataByArray($array);&#10;&#10;$resultCode = $soapResult['ResultCode'][0];&#10;$resultDesc = $soapResult['ResultDesc'][0];&#10;if ($resultCode == 0) {&#10;    $resultList = $result['ResultList'];&#10;    $END$&#10;    $result = ['code' =&gt; '0', 'msg' =&gt; 'success'];&#10;}else{&#10;    $result = ['code' =&gt; $resultCode, 'msg' =&gt; $resultDesc];&#10;}&#10;return new JsonResponse($result);" description="'parse soap result'" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP Statement" value="true" />
     </context>
