@@ -130,7 +130,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/wehospital/trunk/src/AppBundle/Resources/views/base.html.twig" timestamp="1539828934910" />
       <file name="$USER_HOME$/www/wehospital/skwehos/src/AppBundle/Resources/config/services.yml" timestamp="1538992105228">
         <mark key="[" line="38" column="25" />
         <mark key="]" line="3" column="0" />
@@ -166,6 +165,9 @@
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/src/AdminBundle/Service/Impl/AdminServiceImpl.php" timestamp="1539068883968">
         <mark key="[" line="124" column="14" />
+      </file>
+      <file name="$USER_HOME$/www/wehospital/trunk/src/AppBundle/Resources/views/pages/publicity/pages/211.vue" timestamp="1539832323077">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/shell/message.sh" timestamp="1537265935987">
         <mark key="[" line="21" column="90" />
@@ -314,8 +316,8 @@
         <mark key="]" line="137" column="22" />
         <mark key="." line="137" column="22" />
       </file>
-      <file name="$USER_HOME$/www/wehospital/trunk/src/AppBundle/Controller/publicity/PublicityController.php" timestamp="1539828731513">
-        <mark key="[" line="30" column="24" />
+      <file name="$USER_HOME$/www/wehospital/trunk/src/AppBundle/Controller/publicity/PublicityController.php" timestamp="1539831865895">
+        <mark key="[" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/www/dhccam-2.0/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Controller/Controller.php" timestamp="1539769484596">
         <mark key="[" line="14" column="61" />
@@ -414,8 +416,8 @@
         <mark key="]" line="165" column="27" />
         <mark key="." line="165" column="27" />
       </file>
-      <file name="$USER_HOME$/www/wehospital/trunk/src/AppBundle/Resources/views/pages/publicity/pages/privacy_policy.html.twig" timestamp="1539829138868">
-        <mark key="[" line="9" column="24" />
+      <file name="$USER_HOME$/www/wehospital/trunk/src/AppBundle/Resources/views/pages/publicity/pages/privacy_policy.html.twig" timestamp="1539831685372">
+        <mark key="[" line="170" column="9" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
