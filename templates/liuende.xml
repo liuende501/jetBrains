@@ -122,12 +122,4 @@
       <option name="Bash" value="true" />
     </context>
   </template>
-  <template name="{{" value="{{ $TEXT$ }}" description="no idea" toReformat="false" toShortenFQNames="true">
-    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="HTML" value="true" />
-      <option name="Twig" value="true" />
-      <option name="Vue" value="true" />
-    </context>
-  </template>
 </templateSet>
