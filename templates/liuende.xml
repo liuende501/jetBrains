@@ -40,7 +40,7 @@
       <option name="PHP Statement" value="true" />
     </context>
   </template>
-  <template name="ben" value="echo -e '\n$TEXT$';&#10;&#10;" description="echo \n" toReformat="false" toShortenFQNames="true">
+  <template name="ben" value="echo -e '\n$TEXT$';&#10;" description="echo \n" toReformat="false" toShortenFQNames="true">
     <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Bash" value="true" />
