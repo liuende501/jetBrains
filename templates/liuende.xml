@@ -33,8 +33,8 @@
       <option name="PHP Statement" value="true" />
     </context>
   </template>
-  <template name="lle" value="Log::out('$filename$','E','['.__METHOD__.'] LINE: '.$e-&gt;getLine(). ' ERROR: '.$e-&gt;getMessage());" description="output the log" toReformat="false" toShortenFQNames="true">
-    <variable name="filename" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="false" />
+  <template name="lle" value="Log::out('$filename$','E','['.__METHOD__.'] FILE: '.$e-&gt;getFile().' LINE: '.$e-&gt;getLine(). ' ERROR: '.$e-&gt;getMessage());" description="output the log" toReformat="false" toShortenFQNames="true">
+    <variable name="filename" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP Expression" value="true" />
       <option name="PHP Statement" value="true" />
