@@ -1,5 +1,5 @@
 <templateSet group="plantuml">
-  <template name="su" value="@startuml&#10;$END$&#10;@enduml" toReformat="false" toShortenFQNames="true">
+  <template name="su" value="@startuml&#10;$END$&#10;@enduml" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Bash" value="false" />
       <option name="CSS" value="false" />
