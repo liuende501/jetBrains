@@ -44,6 +44,7 @@
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping pattern="skills" type="Perl" />
       <mapping pattern="xx" type="Perl5 script" />
+      <mapping pattern="helloworld" type="Perl5 script" />
       <mapping pattern="list_out_office" type="Twig" />
       <mapping pattern="listbizconfig" type="Twig" />
       <mapping pattern="list_symptoms" type="Twig" />
