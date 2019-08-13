@@ -1,54 +1,57 @@
 <application>
   <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="redis" type="Bash" />
+      <mapping pattern="pre-commit" type="Bash" />
+      <mapping pattern="post-update" type="Bash" />
       <mapping pattern="cron_consumer" type="Bash" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="UrlEncryptorBundle" type="Markdown" />
       <mapping ext="go" type="Native" />
       <mapping pattern="AbstractHydrator" type="PHP" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="111" type="PLAIN_TEXT" />
-      <mapping pattern="xmlparser.php" type="PLAIN_TEXT" />
       <mapping pattern="11" type="PLAIN_TEXT" />
       <mapping pattern="cron-dhccam-consumer" type="PLAIN_TEXT" />
-      <mapping pattern="nginx" type="PLAIN_TEXT" />
       <mapping pattern="SuperviseController.php" type="PLAIN_TEXT" />
       <mapping pattern="php-fpm.sh" type="PLAIN_TEXT" />
       <mapping pattern="note" type="PLAIN_TEXT" />
       <mapping pattern="git-branch" type="PLAIN_TEXT" />
+      <mapping pattern="nginx" type="PLAIN_TEXT" />
+      <mapping pattern="blog" type="PLAIN_TEXT" />
       <mapping pattern="trash" type="PLAIN_TEXT" />
       <mapping pattern="template" type="PLAIN_TEXT" />
       <mapping pattern="ss" type="PLAIN_TEXT" />
-      <mapping pattern="otherselect" type="PLAIN_TEXT" />
       <mapping pattern="user" type="PLAIN_TEXT" />
       <mapping pattern="Project_Set_Node" type="PLAIN_TEXT" />
       <mapping pattern="file" type="PLAIN_TEXT" />
-      <mapping pattern="sess_n6bmi019rs8lasnsqt6rfsu695" type="PLAIN_TEXT" />
+      <mapping pattern="xmlparser.php" type="PLAIN_TEXT" />
       <mapping pattern="try" type="PLAIN_TEXT" />
-      <mapping pattern="blog" type="PLAIN_TEXT" />
       <mapping pattern="reference" type="PLAIN_TEXT" />
-      <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern="sequence" type="PLAIN_TEXT" />
+      <mapping pattern="otherselect" type="PLAIN_TEXT" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="list_search_symp" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern="cron-trtc" type="PLAIN_TEXT" />
+      <mapping pattern="sess_n6bmi019rs8lasnsqt6rfsu695" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="sequence" type="PLAIN_TEXT" />
       <mapping pattern="223" type="PLAIN_TEXT" />
       <mapping pattern="clearByRequest" type="PLAIN_TEXT" />
-      <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="mine" type="PLAIN_TEXT" />
       <mapping ext="tiwg" type="PLAIN_TEXT" />
-      <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping pattern="skills" type="Perl" />
-      <mapping pattern="xx" type="Perl5 script" />
       <mapping pattern="helloworld" type="Perl5 script" />
+      <mapping pattern="xx" type="Perl5 script" />
       <mapping pattern="message-offline" type="PlantUML file" />
+      <mapping pattern="list_symptoms" type="Twig" />
       <mapping pattern="list_out_office" type="Twig" />
       <mapping pattern="listbizconfig" type="Twig" />
-      <mapping pattern="list_symptoms" type="Twig" />
       <mapping pattern="file4" type="TSLint" />
     </extensionMap>
   </component>
