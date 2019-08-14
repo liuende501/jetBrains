@@ -10,8 +10,8 @@
       <mapping pattern="UrlEncryptorBundle" type="Markdown" />
       <mapping ext="go" type="Native" />
       <mapping pattern="AbstractHydrator" type="PHP" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="111" type="PLAIN_TEXT" />
-      <mapping pattern="xmlparser.php" type="PLAIN_TEXT" />
       <mapping pattern="11" type="PLAIN_TEXT" />
       <mapping pattern="cron-dhccam-consumer" type="PLAIN_TEXT" />
       <mapping pattern="nginx" type="PLAIN_TEXT" />
@@ -20,18 +20,19 @@
       <mapping pattern="php-fpm.sh" type="PLAIN_TEXT" />
       <mapping pattern="note" type="PLAIN_TEXT" />
       <mapping pattern="git-branch" type="PLAIN_TEXT" />
+      <mapping pattern="trash" type="PLAIN_TEXT" />
       <mapping pattern="template" type="PLAIN_TEXT" />
       <mapping pattern="ss" type="PLAIN_TEXT" />
-      <mapping pattern="otherselect" type="PLAIN_TEXT" />
       <mapping pattern="user" type="PLAIN_TEXT" />
       <mapping pattern="IhealthApiController" type="PLAIN_TEXT" />
       <mapping pattern="Project_Set_Node" type="PLAIN_TEXT" />
       <mapping pattern="file" type="PLAIN_TEXT" />
-      <mapping pattern="trash" type="PLAIN_TEXT" />
+      <mapping pattern="xmlparser.php" type="PLAIN_TEXT" />
       <mapping pattern="try" type="PLAIN_TEXT" />
       <mapping pattern="blog" type="PLAIN_TEXT" />
       <mapping pattern="reference" type="PLAIN_TEXT" />
-      <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern="data" type="PLAIN_TEXT" />
+      <mapping pattern="otherselect" type="PLAIN_TEXT" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="list_search_symp" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
