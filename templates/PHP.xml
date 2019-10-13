@@ -1,5 +1,6 @@
 <templateSet group="PHP">
-  <template name="ee" value="echo &quot;\n&quot;;" description="'echo' PHP_EOL" toReformat="true" toShortenFQNames="true">
+  <template name="ee" value="echo $TEXT$.&quot;\n&quot;;" description="'echo' PHP_EOL" toReformat="true" toShortenFQNames="true">
+    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP Statement" value="true" />
     </context>
