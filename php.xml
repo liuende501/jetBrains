@@ -529,6 +529,25 @@
             <configuration_option name="SMTP" value="localhost" />
             <configuration_option name="allow_url_fopen" value="1" />
             <configuration_option name="allow_url_include" value="" />
+            <configuration_option name="amqp.auto_ack" value="0" />
+            <configuration_option name="amqp.cacert" value="" />
+            <configuration_option name="amqp.cert" value="" />
+            <configuration_option name="amqp.channel_max" value="256" />
+            <configuration_option name="amqp.connect_timeout" value="0" />
+            <configuration_option name="amqp.frame_max" value="131072" />
+            <configuration_option name="amqp.heartbeat" value="0" />
+            <configuration_option name="amqp.host" value="localhost" />
+            <configuration_option name="amqp.key" value="" />
+            <configuration_option name="amqp.login" value="guest" />
+            <configuration_option name="amqp.password" value="guest" />
+            <configuration_option name="amqp.port" value="5672" />
+            <configuration_option name="amqp.prefetch_count" value="3" />
+            <configuration_option name="amqp.read_timeout" value="0" />
+            <configuration_option name="amqp.sasl_method" value="0" />
+            <configuration_option name="amqp.timeout" value="" />
+            <configuration_option name="amqp.verify" value="1" />
+            <configuration_option name="amqp.vhost" value="/" />
+            <configuration_option name="amqp.write_timeout" value="0" />
             <configuration_option name="arg_separator.input" value="&amp;" />
             <configuration_option name="arg_separator.output" value="&amp;" />
             <configuration_option name="assert.active" value="1" />
@@ -624,7 +643,7 @@
             <configuration_option name="mbstring.substitute_character" value="" />
             <configuration_option name="mcrypt.algorithms_dir" value="" />
             <configuration_option name="mcrypt.modes_dir" value="" />
-            <configuration_option name="memory_limit" value="128M" />
+            <configuration_option name="memory_limit" value="2056M" />
             <configuration_option name="mysqli.allow_local_infile" value="1" />
             <configuration_option name="mysqli.allow_persistent" value="1" />
             <configuration_option name="mysqli.default_host" value="" />
@@ -692,7 +711,7 @@
             <configuration_option name="opcache.validate_root" value="0" />
             <configuration_option name="opcache.validate_timestamps" value="1" />
             <configuration_option name="open_basedir" value="" />
-            <configuration_option name="openssl.cafile" value="" />
+            <configuration_option name="openssl.cafile" value="$USER_HOME$/Documents/ssldir/cert.pem" />
             <configuration_option name="openssl.capath" value="" />
             <configuration_option name="output_buffering" value="0" />
             <configuration_option name="output_encoding" value="" />
@@ -716,67 +735,38 @@
             <configuration_option name="precision" value="14" />
             <configuration_option name="realpath_cache_size" value="4096K" />
             <configuration_option name="realpath_cache_ttl" value="120" />
-            <configuration_option name="redis.arrays.algorithm" value="" />
-            <configuration_option name="redis.arrays.auth" value="" />
-            <configuration_option name="redis.arrays.autorehash" value="0" />
-            <configuration_option name="redis.arrays.connecttimeout" value="0" />
-            <configuration_option name="redis.arrays.consistent" value="0" />
+            <configuration_option name="redis.arrays.autorehash" value="" />
+            <configuration_option name="redis.arrays.connecttimeout" value="" />
             <configuration_option name="redis.arrays.distributor" value="" />
             <configuration_option name="redis.arrays.functions" value="" />
             <configuration_option name="redis.arrays.hosts" value="" />
-            <configuration_option name="redis.arrays.index" value="0" />
-            <configuration_option name="redis.arrays.lazyconnect" value="0" />
+            <configuration_option name="redis.arrays.index" value="" />
+            <configuration_option name="redis.arrays.lazyconnect" value="" />
             <configuration_option name="redis.arrays.names" value="" />
-            <configuration_option name="redis.arrays.pconnect" value="0" />
+            <configuration_option name="redis.arrays.pconnect" value="" />
             <configuration_option name="redis.arrays.previous" value="" />
-            <configuration_option name="redis.arrays.readtimeout" value="0" />
-            <configuration_option name="redis.arrays.retryinterval" value="0" />
-            <configuration_option name="redis.clusters.auth" value="" />
-            <configuration_option name="redis.clusters.cache_slots" value="0" />
-            <configuration_option name="redis.clusters.persistent" value="0" />
-            <configuration_option name="redis.clusters.read_timeout" value="0" />
+            <configuration_option name="redis.arrays.readtimeout" value="" />
+            <configuration_option name="redis.arrays.retryinterval" value="" />
+            <configuration_option name="redis.clusters.persistent" value="" />
+            <configuration_option name="redis.clusters.read_timeout" value="" />
             <configuration_option name="redis.clusters.seeds" value="" />
-            <configuration_option name="redis.clusters.timeout" value="0" />
-            <configuration_option name="redis.pconnect.connection_limit" value="0" />
-            <configuration_option name="redis.pconnect.pooling_enabled" value="1" />
-            <configuration_option name="redis.session.lock_expire" value="0" />
-            <configuration_option name="redis.session.lock_retries" value="10" />
-            <configuration_option name="redis.session.lock_wait_time" value="2000" />
-            <configuration_option name="redis.session.locking_enabled" value="0" />
+            <configuration_option name="redis.clusters.timeout" value="" />
             <configuration_option name="register_argc_argv" value="1" />
             <configuration_option name="report_memleaks" value="1" />
             <configuration_option name="report_zend_debug" value="0" />
             <configuration_option name="request_order" value="GP" />
             <configuration_option name="seaslog.appender" value="1" />
-            <configuration_option name="seaslog.appender_retry" value="0" />
-            <configuration_option name="seaslog.buffer_disabled_in_cli" value="0" />
             <configuration_option name="seaslog.buffer_size" value="0" />
-            <configuration_option name="seaslog.default_basepath" value="/var/log/www" />
-            <configuration_option name="seaslog.default_datetime_format" value="Y-m-d H:i:s" />
+            <configuration_option name="seaslog.default_basepath" value="$USER_HOME$/wwwlog/seaslog" />
+            <configuration_option name="seaslog.default_datetime_format" value="Y:m:d H:i:s" />
             <configuration_option name="seaslog.default_logger" value="default" />
-            <configuration_option name="seaslog.default_template" value="%T | %L | %P | %Q | %t | %M" />
             <configuration_option name="seaslog.disting_by_hour" value="0" />
-            <configuration_option name="seaslog.disting_folder" value="1" />
             <configuration_option name="seaslog.disting_type" value="0" />
-            <configuration_option name="seaslog.ignore_warning" value="1" />
-            <configuration_option name="seaslog.level" value="8" />
-            <configuration_option name="seaslog.recall_depth" value="0" />
+            <configuration_option name="seaslog.level" value="0" />
             <configuration_option name="seaslog.remote_host" value="127.0.0.1" />
             <configuration_option name="seaslog.remote_port" value="514" />
-            <configuration_option name="seaslog.remote_timeout" value="1" />
-            <configuration_option name="seaslog.throw_exception" value="1" />
             <configuration_option name="seaslog.trace_error" value="1" />
             <configuration_option name="seaslog.trace_exception" value="0" />
-            <configuration_option name="seaslog.trace_notice" value="0" />
-            <configuration_option name="seaslog.trace_performance" value="0" />
-            <configuration_option name="seaslog.trace_performance_max_depth" value="5" />
-            <configuration_option name="seaslog.trace_performance_max_functions_per_depth" value="5" />
-            <configuration_option name="seaslog.trace_performance_min_function_wall_time" value="10" />
-            <configuration_option name="seaslog.trace_performance_min_wall_time" value="1000" />
-            <configuration_option name="seaslog.trace_performance_sample_rate" value="10" />
-            <configuration_option name="seaslog.trace_performance_start_depth" value="1" />
-            <configuration_option name="seaslog.trace_warning" value="0" />
-            <configuration_option name="seaslog.trim_wrap" value="0" />
             <configuration_option name="seaslog.use_buffer" value="0" />
             <configuration_option name="sendmail_from" value="" />
             <configuration_option name="sendmail_path" value="/usr/sbin/sendmail -t -i " />
@@ -816,7 +806,7 @@
             <configuration_option name="smtp_port" value="25" />
             <configuration_option name="soap.wsdl_cache" value="1" />
             <configuration_option name="soap.wsdl_cache_dir" value="/tmp" />
-            <configuration_option name="soap.wsdl_cache_enabled" value="1" />
+            <configuration_option name="soap.wsdl_cache_enabled" value="0" />
             <configuration_option name="soap.wsdl_cache_limit" value="5" />
             <configuration_option name="soap.wsdl_cache_ttl" value="86400" />
             <configuration_option name="sql.safe_mode" value="" />
@@ -913,6 +903,12 @@
             <configuration_option name="yaf.st_compatible" value="0" />
             <configuration_option name="yaf.use_namespace" value="1" />
             <configuration_option name="yaf.use_spl_autoload" value="1" />
+            <configuration_option name="yaml.decode_binary" value="0" />
+            <configuration_option name="yaml.decode_php" value="0" />
+            <configuration_option name="yaml.decode_timestamp" value="0" />
+            <configuration_option name="yaml.output_canonical" value="0" />
+            <configuration_option name="yaml.output_indent" value="2" />
+            <configuration_option name="yaml.output_width" value="80" />
             <configuration_option name="zend.assertions" value="1" />
             <configuration_option name="zend.detect_unicode" value="1" />
             <configuration_option name="zend.enable_gc" value="1" />
@@ -938,6 +934,7 @@
             <extension name="SeasLog" />
             <extension name="SimpleXML" />
             <extension name="Zend OPcache" />
+            <extension name="amqp" />
             <extension name="bcmath" />
             <extension name="bz2" />
             <extension name="calendar" />
@@ -996,6 +993,7 @@
             <extension name="xmlwriter" />
             <extension name="xsl" />
             <extension name="yaf" />
+            <extension name="yaml" />
             <extension name="zip" />
             <extension name="zlib" />
           </loaded_extensions>
