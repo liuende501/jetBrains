@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="nfnet" type="Bash" />
+      <mapping pattern="dbprint" type="Bash" />
       <mapping pattern="banet" type="Bash" />
       <mapping pattern="cron_consumer" type="Bash" />
       <mapping pattern="ydnet" type="Bash" />
