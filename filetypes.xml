@@ -1,9 +1,15 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="nfnet" type="Bash" />
+      <mapping pattern="banet" type="Bash" />
       <mapping pattern="cron_consumer" type="Bash" />
+      <mapping pattern="ydnet" type="Bash" />
+      <mapping pattern="fly" type="Bash" />
       <mapping pattern="post-update" type="Bash" />
       <mapping pattern="pre-commit" type="Bash" />
+      <mapping pattern="svncopy" type="Bash" />
+      <mapping pattern="zxnet" type="Bash" />
       <mapping pattern="dbsync" type="Bash" />
       <mapping pattern="redis" type="Bash" />
       <mapping pattern=".gitignore_global" type="Git file" />
