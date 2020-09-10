@@ -1,77 +1,77 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="dbprint" type="Bash" />
-      <mapping pattern="dbsync" type="Bash" />
-      <mapping pattern="redis" type="Bash" />
-      <mapping pattern="pre-commit" type="Bash" />
-      <mapping pattern="zxnet" type="Bash" />
-      <mapping pattern="post-update" type="Bash" />
-      <mapping pattern="nfnet" type="Bash" />
-      <mapping pattern="trash" type="Bash" />
-      <mapping pattern="cron_consumer" type="Bash" />
-      <mapping pattern="banet" type="Bash" />
-      <mapping pattern="ledinit" type="Bash" />
-      <mapping pattern="ydnet" type="Bash" />
-      <mapping pattern="fly" type="Bash" />
-      <mapping pattern="svncopy" type="Bash" />
-      <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="UrlEncryptorBundle" type="Markdown" />
       <mapping ext="go" type="Native" />
       <mapping pattern="AbstractHydrator" type="PHP" />
-      <mapping pattern="xxx" type="PLAIN_TEXT" />
-      <mapping pattern=".svnignore" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
-      <mapping ext="ttf" type="PLAIN_TEXT" />
-      <mapping ext="cnf" type="PLAIN_TEXT" />
+      <mapping pattern=".svnignore" type="PLAIN_TEXT" />
+      <mapping pattern="xxx" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
-      <mapping ext="sms4" type="PLAIN_TEXT" />
-      <mapping ext="mine" type="PLAIN_TEXT" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="tiwg" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
-      <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="mine" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
+      <mapping ext="sms4" type="PLAIN_TEXT" />
       <mapping pattern="skills" type="Perl" />
-      <mapping pattern="helloworld" type="Perl5 script" />
-      <mapping pattern="xx" type="Perl5 script" />
       <mapping pattern="message-offline" type="PlantUML file" />
-      <mapping pattern="list_out_office" type="Twig" />
       <mapping pattern="listbizconfig" type="Twig" />
       <mapping pattern="list_symptoms" type="Twig" />
-      <removed_mapping pattern="qymhc" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="crontab" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="list_out_office" type="Twig" />
       <removed_mapping pattern="template" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="111" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="git-branch" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="user" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="note" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="xmlparser.php" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="IhealthApiController" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="data" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="init-mysql" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="list_search_symp" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="nginx" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="clearByRequest" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="sequence" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="1" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="ss" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="SuperviseController.php" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="blog" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="trash" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="223" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="list_search_symp" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="reference" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="111" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="file" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="otherselect" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="Project_Set_Node" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="init-mysql" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="ss" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="11" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="php-fpm.sh" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="note" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="SuperviseController.php" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="try" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="Project_Set_Node" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="otherselect" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="cron-dhccam-consumer" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="xmlparser.php" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="cron-trtc" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="file" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="IhealthApiController" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="sess_n6bmi019rs8lasnsqt6rfsu695" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="TODO" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="nginx" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="crontab" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="sess_n6bmi019rs8lasnsqt6rfsu695" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="trtcdeploy" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="reference" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="trash" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="git-branch" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="qymhc" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="sequence" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="1" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="clearByRequest" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="223" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="cron-dhccam-consumer" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="try" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="cron-trtc" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="user" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="banet" type="Bash" />
+      <mapping pattern="cron_consumer" type="Bash" />
+      <mapping pattern="dbprint" type="Bash" />
+      <mapping pattern="dbsync" type="Bash" />
       <mapping pattern="file4" type="TSLint" />
+      <mapping pattern="fly" type="Bash" />
+      <mapping pattern="helloworld" type="Perl5 script" />
+      <mapping pattern="ledinit" type="Bash" />
+      <mapping pattern="nfnet" type="Bash" />
+      <mapping pattern="post-update" type="Bash" />
+      <mapping pattern="pre-commit" type="Bash" />
+      <mapping pattern="redis" type="Bash" />
+      <mapping pattern="svncopy" type="Bash" />
+      <mapping pattern="trash" type="Bash" />
+      <mapping pattern="xx" type="Perl5 script" />
+      <mapping pattern="ydnet" type="Bash" />
+      <mapping pattern="zxnet" type="Bash" />
     </extensionMap>
   </component>
 </application>
