@@ -4,9 +4,9 @@
       <mapping pattern="UrlEncryptorBundle" type="Markdown" />
       <mapping ext="go" type="Native" />
       <mapping pattern="AbstractHydrator" type="PHP" />
+      <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping pattern=".svnignore" type="PLAIN_TEXT" />
-      <mapping pattern="xxx" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
@@ -25,6 +25,7 @@
       <removed_mapping pattern="note" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="xmlparser.php" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="IhealthApiController" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".ideavimrc" approved="true" type="Native" />
       <removed_mapping pattern="data" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="SuperviseController.php" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="blog" approved="true" type="PLAIN_TEXT" />
@@ -51,6 +52,7 @@
       <removed_mapping pattern="clearByRequest" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="223" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="cron-dhccam-consumer" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="xxx" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="try" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="cron-trtc" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="user" approved="true" type="PLAIN_TEXT" />
