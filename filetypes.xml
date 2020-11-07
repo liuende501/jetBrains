@@ -6,6 +6,7 @@
       <mapping pattern="AbstractHydrator" type="PHP" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
+      <mapping pattern=".prod" type="PLAIN_TEXT" />
       <mapping pattern=".svnignore" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
