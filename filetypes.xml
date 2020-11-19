@@ -4,10 +4,10 @@
       <mapping pattern="UrlEncryptorBundle" type="Markdown" />
       <mapping ext="go" type="Native" />
       <mapping pattern="AbstractHydrator" type="PHP" />
-      <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
-      <mapping pattern=".svnignore" type="PLAIN_TEXT" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
+      <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping pattern=".prod" type="PLAIN_TEXT" />
+      <mapping pattern=".svnignore" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
@@ -20,8 +20,8 @@
       <mapping pattern="skills" type="Perl" />
       <mapping pattern="message-offline" type="PlantUML file" />
       <mapping pattern="dhccfix" type="Shell Script" />
-      <mapping pattern="list_symptoms" type="Twig" />
       <mapping pattern="listbizconfig" type="Twig" />
+      <mapping pattern="list_symptoms" type="Twig" />
       <mapping pattern="list_out_office" type="Twig" />
       <removed_mapping pattern="template" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="note" approved="true" type="PLAIN_TEXT" />
