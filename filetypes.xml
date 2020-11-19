@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping pattern="UrlEncryptorBundle" type="Markdown" />
       <mapping ext="go" type="Native" />
-      <mapping pattern="AbstractHydrator" type="PHP" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping pattern=".prod" type="PLAIN_TEXT" />
@@ -43,6 +42,7 @@
       <removed_mapping pattern="11" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="php-fpm.sh" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="TODO" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="AbstractHydrator" approved="true" type="PHP" />
       <removed_mapping pattern="nginx" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="crontab" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="sess_n6bmi019rs8lasnsqt6rfsu695" approved="true" type="PLAIN_TEXT" />
