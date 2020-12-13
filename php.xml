@@ -3,7 +3,7 @@
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter id="03c44099-99d5-4ad8-89ad-65133b3f28bb" name="PHP 7.1" home="/usr/local/Cellar/php@7.1/7.1.30/bin/php" debugger_id="php.debugger.XDebug" />
-      <interpreter id="286f63f5-89c2-4dff-9d29-5d486992f35c" name="PHP 7.2" home="/usr/local/Cellar/php@7.2/7.2.33/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="286f63f5-89c2-4dff-9d29-5d486992f35c" name="PHP 7.2" home="/usr/local/Cellar/php@7.2/7.2.34_1/bin/php" debugger_id="php.debugger.XDebug" />
       <interpreter id="5e8ae83e-aef8-44e6-953c-aa2219fd0bed" name="PHP 7.3" home="/usr/local/Cellar/php@7.3/7.3.22/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
@@ -173,11 +173,11 @@
         </phpinfo>
       </interpreter>
       <interpreter name="PHP 7.2">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@7.2/7.2.33/bin/php-cgi" php_cli="/usr/local/Cellar/php@7.2/7.2.33/bin/php" path_separator=":" version="7.2.33">
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@7.2/7.2.34_1/bin/php-cgi" php_cli="/usr/local/Cellar/php@7.2/7.2.34_1/bin/php" path_separator=":" version="7.2.34">
           <additional_php_ini>/usr/local/etc/php/7.2/conf.d/ext-blackfire.ini, /usr/local/etc/php/7.2/conf.d/ext-opcache.ini</additional_php_ini>
           <configuration_file>/usr/local/etc/php/7.2/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.2/7.2.33/share/php@7.2/pear" />
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.2/7.2.34_1/share/php@7.2/pear" />
           </configuration_options>
           <debuggers>
             <debugger_info debugger="xdebug" debugger_version="2.9.8">
@@ -196,7 +196,6 @@
             <extension name="Zend OPcache" />
             <extension name="amqp" />
             <extension name="bcmath" />
-            <extension name="blackfire" />
             <extension name="bz2" />
             <extension name="calendar" />
             <extension name="ctype" />
