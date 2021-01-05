@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="UrlEncryptorBundle" type="Markdown" />
       <mapping ext="go" type="Native" />
@@ -21,45 +21,46 @@
       <mapping pattern="listbizconfig" type="Twig" />
       <mapping pattern="list_symptoms" type="Twig" />
       <mapping pattern="list_out_office" type="Twig" />
-      <removed_mapping pattern="template" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="note" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="xmlparser.php" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="IhealthApiController" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".ideavimrc" approved="true" type="Native" />
-      <removed_mapping pattern="data" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="SuperviseController.php" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="blog" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="message-offline" approved="true" type="PlantUML file" />
-      <removed_mapping pattern="list_search_symp" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="reference" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="111" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="file" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="otherselect" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="Project_Set_Node" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="init-mysql" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="ss" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="11" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="php-fpm.sh" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="TODO" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="AbstractHydrator" approved="true" type="PHP" />
-      <removed_mapping pattern="nginx" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="crontab" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="sess_n6bmi019rs8lasnsqt6rfsu695" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="trtcdeploy" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="trash" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="git-branch" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="qymhc" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="sequence" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping pattern=".ideavimrc" approved="true" type="Native" />
       <removed_mapping pattern="1" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="clearByRequest" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="11" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="111" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="223" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="AbstractHydrator" approved="true" type="PHP" />
+      <removed_mapping pattern="IhealthApiController" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="Project_Set_Node" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="SuperviseController.php" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="TODO" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="blog" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="clearByRequest" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="cron-dhccam-consumer" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="phone-auth-code" approved="true" type="PlantUML file" />
-      <removed_mapping pattern="xxx" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="try" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="cron-trtc" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="crontab" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="data" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="file" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="git-branch" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="init-mysql" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="list_search_symp" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="message-offline" approved="true" type="PlantUML file" />
+      <removed_mapping pattern="nginx" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="note" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="otherselect" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="phone-auth-code" approved="true" type="PlantUML file" />
+      <removed_mapping pattern="php-fpm.sh" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="qymhc" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="reference" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="sequence" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="sess_n6bmi019rs8lasnsqt6rfsu695" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="ss" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="template" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="trash" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="trtcdeploy" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="try" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="user" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="xmlparser.php" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="xxx" approved="true" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="banet" type="Bash" />
       <mapping pattern="cron_consumer" type="Bash" />
