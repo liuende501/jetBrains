@@ -18,6 +18,9 @@
   <action id="PhpUnitNewTestFromClass">
     <keyboard-shortcut first-keystroke="ctrl alt t" />
   </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="ctrl meta 0" />
+  </action>
   <action id="SendEOF" />
   <action id="ShowErrorDescription">
     <keyboard-shortcut first-keystroke="meta f1" />
