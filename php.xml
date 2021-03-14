@@ -142,6 +142,7 @@
             <extension name="posix" />
             <extension name="pspell" />
             <extension name="readline" />
+            <extension name="redis" />
             <extension name="session" />
             <extension name="shmop" />
             <extension name="soap" />
@@ -149,6 +150,7 @@
             <extension name="sodium" />
             <extension name="sqlite3" />
             <extension name="standard" />
+            <extension name="swoole" />
             <extension name="sysvmsg" />
             <extension name="sysvsem" />
             <extension name="sysvshm" />
@@ -159,6 +161,7 @@
             <extension name="xmlrpc" />
             <extension name="xmlwriter" />
             <extension name="xsl" />
+            <extension name="yasd" />
             <extension name="zip" />
             <extension name="zlib" />
           </loaded_extensions>
