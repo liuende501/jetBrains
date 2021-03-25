@@ -4,6 +4,7 @@
       <option name="USE_TAB_CHARACTER" value="true" />
     </value>
   </option>
+  <option name="LINE_SEPARATOR" value="&#10;" />
   <codeStyleSettings language="Shell Script">
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
