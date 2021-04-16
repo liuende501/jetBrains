@@ -122,4 +122,15 @@
       <option name="Bash" value="true" />
     </context>
   </template>
+  <template name="ee" value="echo $TEXT$.PHP_EOL;" description="'echo' PHP_EOL" toReformat="true" toShortenFQNames="true">
+    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+  <template name="en" value="echo PHP_EOL;" description="'echo' PHP_EOL" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
 </templateSet>
