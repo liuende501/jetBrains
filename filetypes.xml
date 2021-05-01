@@ -5,6 +5,7 @@
       <mapping ext="vue" type="HTML" />
       <mapping pattern="UrlEncryptorBundle" type="Markdown" />
       <mapping ext="go" type="Native" />
+      <mapping pattern="composer" type="PHP" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping pattern=".prod" type="PLAIN_TEXT" />
