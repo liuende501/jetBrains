@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="sh" type="AUTO_DETECTED" />
       <mapping ext="vue" type="HTML" />
       <mapping pattern="UrlEncryptorBundle" type="Markdown" />
       <mapping ext="go" type="Native" />
@@ -11,6 +10,7 @@
       <mapping pattern=".prod" type="PLAIN_TEXT" />
       <mapping pattern=".svnignore" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="meta" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
@@ -31,7 +31,8 @@
       <removed_mapping ext="dot" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="log" approved="true" type="ANSI Aware" />
-      <removed_mapping ext="sh" approved="true" type="Shell Script" />
+      <removed_mapping ext="meta" approved="true" type="AUTO_DETECTED" />
+      <removed_mapping ext="sh" approved="true" type="AUTO_DETECTED" />
       <removed_mapping ext="tsv" approved="true" type="TSV" />
       <removed_mapping ext="vue" approved="true" type="JavaScript" />
       <removed_mapping ext="zsh" approved="true" type="Shell Script" />
