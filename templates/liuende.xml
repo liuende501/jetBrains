@@ -133,4 +133,13 @@
       <option name="PHP Statement" value="true" />
     </context>
   </template>
+  <template name="thrn" value="$e = new $Exception$('$MESSAGE$');&#10;$e-&gt;addExtra(compact('$VARABLE$'));&#10;throw $e;" description="throw new exception with extra" toReformat="false" toShortenFQNames="true">
+    <variable name="Exception" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="MESSAGE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VARABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
 </templateSet>
