@@ -26,6 +26,7 @@
             <extension name="Phar" />
             <extension name="Reflection" />
             <extension name="SPL" />
+            <extension name="SeasLog" />
             <extension name="SimpleXML" />
             <extension name="Zend OPcache" />
             <extension name="bcmath" />
