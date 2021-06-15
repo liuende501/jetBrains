@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="fastcgi_param" type="AUTO_DETECTED" />
       <mapping ext="vue" type="HTML" />
       <mapping pattern="UrlEncryptorBundle" type="Markdown" />
       <mapping ext="go" type="Native" />
