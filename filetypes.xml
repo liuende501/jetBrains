@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="111" type="AUTO_DETECTED" />
       <mapping pattern="logrotate_nginx" type="AUTO_DETECTED" />
       <mapping pattern="fastcgi_param" type="AUTO_DETECTED" />
       <mapping ext="vue" type="HTML" />
