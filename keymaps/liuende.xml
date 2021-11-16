@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="meta 0" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="CopyAsRichText">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
   <action id="Diff.ShowDiff" />
   <action id="EditorDuplicate" />
   <action id="EditorDuplicateLines">
