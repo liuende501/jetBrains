@@ -6,6 +6,9 @@
   <action id="CopyAsRichText">
     <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
+  <action id="CopyPathFromRepositoryRootProvider">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
   <action id="Diff.ShowDiff" />
   <action id="EditorDuplicate" />
   <action id="EditorDuplicateLines">
