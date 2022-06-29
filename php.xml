@@ -3,20 +3,20 @@
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter id="03c44099-99d5-4ad8-89ad-65133b3f28bb" name="PHP 7.1" home="/usr/local/Cellar/php@7.1/7.1.33_4/bin/php" debugger_id="php.debugger.XDebug" />
-      <interpreter id="fe6a3df3-abdb-4707-afd1-6915374b56be" name="PHP 7.4" home="/usr/local/Cellar/php@7.4/7.4.27.reinstall/bin/phpxdebug" debugger_id="php.debugger.XDebug" />
+      <interpreter id="fe6a3df3-abdb-4707-afd1-6915374b56be" name="PHP 7.4" home="/usr/local/Cellar/php@7.4/7.4.27/bin/phpxdebug" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.4">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@7.4/7.4.27.reinstall/bin/php-cgi" php_cli="/usr/local/Cellar/php@7.4/7.4.27.reinstall/bin/php" path_separator=":" version="7.4.27">
-          <additional_php_ini>/usr/local/etc/php/7.4/conf.d/ext-opcache.ini</additional_php_ini>
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@7.4/7.4.27/bin/php-cgi" php_cli="/usr/local/Cellar/php@7.4/7.4.27/bin/php" path_separator=":" version="7.4.27">
+          <additional_php_ini>/usr/local/etc/php/7.4/conf.d/ext-opcache.ini, /usr/local/etc/php/7.4/conf.d/ext-redis.ini</additional_php_ini>
           <configuration_file>/usr/local/etc/php/7.4/php-xdebug.ini</configuration_file>
           <configuration_options>
             <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.4/7.4.27/share/php@7.4/pear" />
           </configuration_options>
           <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="3.1.3">
+            <debugger_info debugger="xdebug" debugger_version="3.1.4">
               <debug_extensions />
             </debugger_info>
           </debuggers>
@@ -76,7 +76,6 @@
             <extension name="sodium" />
             <extension name="sqlite3" />
             <extension name="standard" />
-            <extension name="swoole" />
             <extension name="sysvmsg" />
             <extension name="sysvsem" />
             <extension name="sysvshm" />
