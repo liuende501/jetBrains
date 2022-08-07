@@ -94,13 +94,13 @@
       </interpreter>
       <interpreter name="PHP 7.1">
         <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@7.1/7.1.33_4/bin/php-cgi" php_cli="/usr/local/Cellar/php@7.1/7.1.33_4/bin/php" path_separator=":" version="7.1.33">
-          <additional_php_ini>/usr/local/etc/php/7.1/conf.d/ext-opcache.ini, /usr/local/etc/php/7.1/conf.d/ext-redis.ini, /usr/local/etc/php/7.1/conf.d/ext-seaslog.ini, /usr/local/etc/php/7.1/conf.d/ext-xdebug.ini, /usr/local/etc/php/7.1/conf.d/ext-yaf.ini</additional_php_ini>
+          <additional_php_ini>/usr/local/etc/php/7.1/conf.d/ext-opcache.ini, /usr/local/etc/php/7.1/conf.d/ext-seaslog.ini, /usr/local/etc/php/7.1/conf.d/ext-xdebug.ini, /usr/local/etc/php/7.1/conf.d/ext-yaf.ini</additional_php_ini>
           <configuration_file>/usr/local/etc/php/7.1/php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.1/7.1.33_4/share/php@7.1/pear" />
           </configuration_options>
           <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.7.2">
+            <debugger_info debugger="xdebug" debugger_version="2.9.8">
               <debug_extensions />
             </debugger_info>
           </debuggers>
@@ -114,7 +114,6 @@
             <extension name="SeasLog" />
             <extension name="SimpleXML" />
             <extension name="Zend OPcache" />
-            <extension name="amqp" />
             <extension name="bcmath" />
             <extension name="bz2" />
             <extension name="calendar" />
@@ -133,7 +132,6 @@
             <extension name="hash" />
             <extension name="iconv" />
             <extension name="igbinary" />
-            <extension name="imagick" />
             <extension name="intl" />
             <extension name="json" />
             <extension name="ldap" />
@@ -175,8 +173,6 @@
             <extension name="xmlwriter" />
             <extension name="xsl" />
             <extension name="yaf" />
-            <extension name="yaml" />
-            <extension name="yar" />
             <extension name="zip" />
             <extension name="zlib" />
           </loaded_extensions>
