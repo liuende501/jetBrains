@@ -1,9 +1,4 @@
 <code_scheme name="Default" version="173">
-  <option name="OTHER_INDENT_OPTIONS">
-    <value>
-      <option name="USE_TAB_CHARACTER" value="true" />
-    </value>
-  </option>
   <option name="LINE_SEPARATOR" value="&#10;" />
   <codeStyleSettings language="Shell Script">
     <indentOptions>
