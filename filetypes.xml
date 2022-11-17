@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="1,xxx" type="AUTO_DETECTED" />
       <mapping pattern="111" type="AUTO_DETECTED" />
       <mapping pattern="git-pre-commit" type="AUTO_DETECTED" />
       <mapping pattern="logrotate_nginx" type="AUTO_DETECTED" />
