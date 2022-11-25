@@ -26,6 +26,7 @@
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="sms4" type="PLAIN_TEXT" />
       <mapping pattern="skills" type="Perl" />
+      <mapping pattern="alias" type="Shell Script" />
       <mapping pattern="dhccfix" type="Shell Script" />
       <mapping pattern="listbizconfig" type="Twig" />
       <mapping pattern="list_symptoms" type="Twig" />
