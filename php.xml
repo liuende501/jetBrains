@@ -3,7 +3,7 @@
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter id="03c44099-99d5-4ad8-89ad-65133b3f28bb" name="PHP 7.1" home="/usr/local/Cellar/php@7.1/7.1.33_4/bin/php" debugger_id="php.debugger.XDebug" />
-      <interpreter id="fe6a3df3-abdb-4707-afd1-6915374b56be" name="PHP 7.4" home="/usr/local/Cellar/php@7.4/7.4.27/bin/phpxdebug" debugger_id="php.debugger.XDebug" />
+      <interpreter id="da23265b-f129-4502-ab55-49547d9ea2cc" name="PHP 7.4" home="/usr/local/Cellar/php@7.4/7.4.27/bin/phpxdebug" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
