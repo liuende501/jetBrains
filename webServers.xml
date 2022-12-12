@@ -1,0 +1,13 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f3e1292f-8e8b-448c-81f4-c64b78e33ad9" name="dhccme" url="http://172.16.207.165">
+        <fileTransfer rootFolder="/home/wwwroot/dhccam-2.0" accessType="SFTP" host="172.16.207.165" port="22" sshConfigId="ea7efa8e-bdba-4d39-9793-96b85fed1525" sshConfig="root@172.16.207.165:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
