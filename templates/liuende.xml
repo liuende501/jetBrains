@@ -142,4 +142,9 @@
       <option name="PHP Statement" value="true" />
     </context>
   </template>
+  <template name="ltrace" value="sprintf(&#10;            &quot;%s: %s(%s) in %s:%s\nStack trace:\n%s&quot;,&#10;            get_class($throwable),&#10;            $throwable-&gt;getMessage(),&#10;            $throwable-&gt;getCode(),&#10;            $throwable-&gt;getFile(),&#10;            $throwable-&gt;getLine(),&#10;            $throwable-&gt;getTraceAsString()&#10;        )" description="log trace" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
