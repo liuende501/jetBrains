@@ -21,6 +21,7 @@
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="tiwg" type="PLAIN_TEXT" />
+      <mapping ext="jsonp" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="mine" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
