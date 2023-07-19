@@ -2,7 +2,7 @@
   <component name="PhpAutoImport" auto_import_file_scope="true" />
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="03c44099-99d5-4ad8-89ad-65133b3f28bb" name="PHP 7.1" home="/usr/local/Cellar/php@7.1/7.1.33_4/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="03c44099-99d5-4ad8-89ad-65133b3f28bb" name="PHP 7.1" home="/usr/local/Cellar/php@7.1/7.1.33/bin/php" debugger_id="php.debugger.XDebug" />
       <interpreter id="da23265b-f129-4502-ab55-49547d9ea2cc" name="PHP 7.4" home="/usr/local/Cellar/php@7.4/7.4.33/bin/phpxdebug" debugger_id="php.debugger.XDebug" />
       <interpreter id="c1e08feb-7194-4ce2-80f9-f4377a659e8c" name="PHP74" home="/usr/local/Cellar/php@7.4/7.4.27/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
@@ -95,11 +95,11 @@
         </phpinfo>
       </interpreter>
       <interpreter name="PHP 7.1">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@7.1/7.1.33_4/bin/php-cgi" php_cli="/usr/local/Cellar/php@7.1/7.1.33_4/bin/php" path_separator=":" version="7.1.33">
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@7.1/7.1.33_5/bin/php-cgi" php_cli="/usr/local/Cellar/php@7.1/7.1.33_5/bin/php" path_separator=":" version="7.1.33">
           <additional_php_ini>/usr/local/etc/php/7.1/conf.d/ext-opcache.ini, /usr/local/etc/php/7.1/conf.d/ext-seaslog.ini, /usr/local/etc/php/7.1/conf.d/ext-xdebug.ini, /usr/local/etc/php/7.1/conf.d/ext-yaf.ini</additional_php_ini>
           <configuration_file>/usr/local/etc/php/7.1/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.1/7.1.33_4/share/php@7.1/pear" />
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.1/7.1.33_5/share/php@7.1/pear" />
           </configuration_options>
           <debuggers>
             <debugger_info debugger="xdebug" debugger_version="2.9.8">
@@ -139,7 +139,6 @@
             <extension name="ldap" />
             <extension name="libxml" />
             <extension name="mbstring" />
-            <extension name="mcrypt" />
             <extension name="mysqli" />
             <extension name="mysqlnd" />
             <extension name="odbc" />
