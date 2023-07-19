@@ -3,18 +3,18 @@
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter id="03c44099-99d5-4ad8-89ad-65133b3f28bb" name="PHP 7.1" home="/usr/local/Cellar/php@7.1/7.1.33_4/bin/php" debugger_id="php.debugger.XDebug" />
-      <interpreter id="da23265b-f129-4502-ab55-49547d9ea2cc" name="PHP 7.4" home="/usr/local/Cellar/php@7.4/7.4.27/bin/phpxdebug" debugger_id="php.debugger.XDebug" />
+      <interpreter id="da23265b-f129-4502-ab55-49547d9ea2cc" name="PHP 7.4" home="/usr/local/Cellar/php@7.4/7.4.33/bin/phpxdebug" debugger_id="php.debugger.XDebug" />
       <interpreter id="c1e08feb-7194-4ce2-80f9-f4377a659e8c" name="PHP74" home="/usr/local/Cellar/php@7.4/7.4.27/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.4">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@7.4/7.4.27/bin/php-cgi" php_cli="/usr/local/Cellar/php@7.4/7.4.27/bin/php" path_separator=":" version="7.4.27">
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@7.4/7.4.33/bin/php-cgi" php_cli="/usr/local/Cellar/php@7.4/7.4.33/bin/php" path_separator=":" version="7.4.33">
           <additional_php_ini>/usr/local/etc/php/7.4/conf.d/ext-opcache.ini, /usr/local/etc/php/7.4/conf.d/ext-redis.ini</additional_php_ini>
           <configuration_file>/usr/local/etc/php/7.4/php-xdebug.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.4/7.4.27/share/php@7.4/pear" />
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.4/7.4.33/share/php@7.4/pear" />
           </configuration_options>
           <debuggers>
             <debugger_info debugger="xdebug" debugger_version="3.1.4">
